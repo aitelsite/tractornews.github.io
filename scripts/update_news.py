@@ -16,7 +16,7 @@ FOOTBALL_TERMS = ['فوتبال', 'باشگاه', 'لیگ', 'بازیکن', 'م�
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; TractorNewsBot/1.0; +https://github.com/aitelsite/tractornews.github.io)'}
 
 def clean(s):
-    return re.sub(r'\\s+', ' ', (s or '').replace('\\u200c',' ')).strip()
+    return re.sub(r'\s+', ' ', (s or '').replace('\u200c', ' ')).strip()
 
 def parse_date(s):
     try:
