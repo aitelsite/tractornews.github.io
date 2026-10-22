@@ -82,9 +82,11 @@ def fetch(query, language, country, edition):
 
 def main():
     items, seen = [], set()
-    editions = [('fa', 'IR', 'IR:fa'), ('en', 'US', 'US:en')]
     for q in QUERIES:
-        for language, country, edition in editions:
+        # Avoid doubling requests: use the Persian edition for Persian queries and US English for English ones.
+        is_persian = any('\\u0600' <= ch <= '\\u06ff' for ch in q)
+        language, country, edition = ('fa', 'IR', 'IR:fa') if is_persian else ('en', 'US', 'US:en')
+        for language, country, edition in [(language, country, edition)]:
             try:
                 for row in fetch(q, language, country, edition):
                     key = re.sub(r'[?&](oc|ved|usg)=[^&]+', '', row['link']).rstrip('/').lower()
@@ -100,11 +102,11 @@ def main():
         'updated_at': datetime.now(timezone.utc).isoformat(),
         'source': 'Google News RSS; broad Persian and international searches without a fixed date limit',
         'count': len(items),
-        'news': items[:500],
+        'news': items,
     }
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f'Wrote {min(len(items), 500)} unique relevant Tractor FC football news items.')
+    print(f'Wrote {len(items)} unique relevant Tractor FC football news items.')
     if not items:
         print('Warning: no items returned; review Google News RSS availability or relevance checks.')
 
