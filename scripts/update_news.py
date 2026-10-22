@@ -84,7 +84,7 @@ def main():
     items, seen = [], set()
     for q in QUERIES:
         # Avoid doubling requests: use the Persian edition for Persian queries and US English for English ones.
-        is_persian = any('\\u0600' <= ch <= '\\u06ff' for ch in q)
+        is_persian = any(0x0600 <= ord(ch) <= 0x06FF for ch in q)
         language, country, edition = ('fa', 'IR', 'IR:fa') if is_persian else ('en', 'US', 'US:en')
         for language, country, edition in [(language, country, edition)]:
             try:
