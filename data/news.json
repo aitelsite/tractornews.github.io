@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-10-25T05:20:52.555015+00:00",
+  "updated_at": "2026-10-25T10:10:22.344912+00:00",
   "source": "Google News RSS; broad Persian and international searches without a fixed date limit",
-  "count": 138,
+  "count": 130,
   "news": [
+    {
+      "title": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) - AFC Official Website",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTQzVm9FU1BIVXlMc1hYWGxCSUVqbGhWek5BYXFIOWhQUnJ1ZFVWdndDd1RxWHBlYXUwNHhQOE15TDVnaE9VX21TX0plTWY0bnRLMGpubndQclJOOHZFTXpCenNqWEk4bTlxc01WSW9NUld0Q2JYXy1KNDg4UTcxRzAyWWlwd3hTeEVTaFJfamdrSk1XTFZ1dlBaeDh3VFkzMXRPRVZHdl9UdTg?oc=5",
+      "published": "2026-10-25T09:09:12+00:00",
+      "source": "AFC Official Website",
+      "description": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) &nbsp;&nbsp; AFC Official Website"
+    },
     {
       "title": "Tractor Scores, Stats and Highlights - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HeGk2akVhYWFFSnRDYVlRc3RmX0E2TGsxQW5mV2tSLTF5djVwYl9rZG5iZDMyZ21YX29JUWlucHlCZk1VVFFxcTRyeTQtTmF4U3J3RkNFdDdseFI3MjZ5YjRlaVM3QQ?oc=5",
@@ -46,18 +53,18 @@
       "description": "ACLE - Preview: Tractor FC (IRN) v Al Shamal SC (QAT) &nbsp;&nbsp; AFC Official Website"
     },
     {
+      "title": "Al Shamal and Iran’s Tractor FC in goalless draw; Al Gharafa edged by Esteghlal 1-2 - Qatar Tribune",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWgzaFdpYm51aVRPR1MxWWhPUS1xczhhamwyWUEyRW1ZX2FlZ1ZHUVViczdFeGptMjJPMHdaV1FzcUhQdFo2Wk5tZXB3QUxhS3ptV1A1ZThBZ2thR3ZlajROXzJjRFZVUUs0UXRrQmxJTkMxYlpaNkVjX2VwY2pzNWFQLV9xU2h0djJVeUIxSU1ZazIyOTNGQjRuMEMzb0Y0amhvSXZxZzZUbTYzcEJNa1pVNm5aaXNGZEVPWjlLQXFQa0VGOFhqRE0zY1dvZ9IB0wFBVV95cUxOc2VsUEtNNEh3TWdsOVFiTWU5V1J4Q1dDZU5hY0NFLTNIeF85emdpVkpTRTBLX3ZRV2RWY3FfUS1ELV9VUzVPMm1UUGIzMXIyRWFYWGsxSXo0Rlg5eWJ4aUtQVmlmcG9NN3pjYTd6QzhJYncwSVhqTnlEUzFlVll0SFk4TW4yaW1VY0pKRU4ycGhSMUp5am9ZWk9tRHBmN2RwWXVhaDlwLXpldE9OTDZabEJSdTRJNEFJcE9ENWJwQ05BY1k3UVVmZTcyYzZZTXhGcDRz?oc=5",
+      "published": "2026-10-13T07:00:00+00:00",
+      "source": "Qatar Tribune",
+      "description": "Al Shamal and Iran’s Tractor FC in goalless draw; Al Gharafa edged by Esteghlal 1-2 &nbsp;&nbsp; Qatar Tribune"
+    },
+    {
       "title": "#ACLElite | Tractor FC (IRN) 0-0 Al Shamal SC (QAT) - AFC Official Website",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWGlvVXBKSmNMQ20wckROMmFCS3VteDlwUGJYRVVfWjRFLTUtNVdKNlRlUFM3QjdtbHMydEpmLWc4NlpEOUJUUXR2dThIMER2RGxZSkFOYkRBQnNTNmwybXhoUG44RVZlVlJHcWZ2X1ctNHh4eDRsTDl2X0lyY1dXUG9nSjlOOVRvTmN0RWRoaW85QVU1SkU4bHl3SDVwZVRtU1l3a2JSQVVPdXNxWC1TY0lMUVVzZ1k3eGc?oc=5",
       "published": "2026-10-13T06:01:00+00:00",
       "source": "AFC Official Website",
       "description": "#ACLElite | Tractor FC (IRN) 0-0 Al Shamal SC (QAT) &nbsp;&nbsp; AFC Official Website"
-    },
-    {
-      "title": "Al Shamal and Iran’s Tractor FC in goalless draw; Al Gharafa edged by Esteghlal 1-2 - Qatar Tribune",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWgzaFdpYm51aVRPR1MxWWhPUS1xczhhamwyWUEyRW1ZX2FlZ1ZHUVViczdFeGptMjJPMHdaV1FzcUhQdFo2Wk5tZXB3QUxhS3ptV1A1ZThBZ2thR3ZlajROXzJjRFZVUUs0UXRrQmxJTkMxYlpaNkVjX2VwY2pzNWFQLV9xU2h0djJVeUIxSU1ZazIyOTNGQjRuMEMzb0Y0amhvSXZxZzZUbTYzcEJNa1pVNm5aaXNGZEVPWjlLQXFQa0VGOFhqRE0zY1dvZ9IB0wFBVV95cUxOc2VsUEtNNEh3TWdsOVFiTWU5V1J4Q1dDZU5hY0NFLTNIeF85emdpVkpTRTBLX3ZRV2RWY3FfUS1ELV9VUzVPMm1UUGIzMXIyRWFYWGsxSXo0Rlg5eWJ4aUtQVmlmcG9NN3pjYTd6QzhJYncwSVhqTnlEUzFlVll0SFk4TW4yaW1VY0pKRU4ycGhSMUp5am9ZWk9tRHBmN2RwWXVhaDlwLXpldE9OTDZabEJSdTRJNEFJcE9ENWJwQ05BY1k3UVVmZTcyYzZZTXhGcDRz?oc=5",
-      "published": "2026-10-12T22:00:07+00:00",
-      "source": "Qatar Tribune",
-      "description": "Al Shamal and Iran’s Tractor FC in goalless draw; Al Gharafa edged by Esteghlal 1-2 &nbsp;&nbsp; Qatar Tribune"
     },
     {
       "title": "MD2: Tractor FC (IRN) v Al Shamal SC (QAT) - Asian Football Confederation (AFC)",
@@ -142,13 +149,6 @@
       "published": "2026-09-14T07:00:00+00:00",
       "source": "YouTube",
       "description": "No revenge for the Iranian side! | Shabab Al Ahli 🇦🇪 vs Tractor FC 🇮🇷 | Highlights ACL Elite™ &nbsp;&nbsp; YouTube"
-    },
-    {
-      "title": "Tractor FC - Schedule 26/27 (Detailed view) - Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWZrRkhLb2FsU3MtbE5oVzA0TTVDWnVib2ptUGFyYS01U1RteU1zdnNJS0NpREh4Nm13Q0JJak9hcGh0UHd3NnNYMlBoNnFUY3NHRWc1OUd6V2xLSVF2WUYzNk5KaFI2OEpMRy1ybVRDOFp6Ymk0bEQ4Y25rWHRjZnJmcTFPOFVTM2N1LUVB?oc=5",
-      "published": "2026-09-03T00:37:21+00:00",
-      "source": "Transfermarkt",
-      "description": "Tractor FC - Schedule 26/27 (Detailed view) &nbsp;&nbsp; Transfermarkt"
     },
     {
       "title": "Traktor Sazi vs. ALSHAMAL (Oct 12, 2026) Live Score - ESPN",
@@ -240,13 +240,6 @@
       "published": "2026-04-14T07:00:00+00:00",
       "source": "NST Online",
       "description": "Iran's Tractor FC run out of gas to exit Asian Champions League &nbsp;&nbsp; NST Online"
-    },
-    {
-      "title": "Iran's Tractor FC run out of gas to exit Asian Champions League - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFlUa1FLRzczd3RGdFVHRXlTUzJzek80UHJoR0RMTHA2TzFyQldvVFc0YWtWSmw3UjMtX2oxdUU0dEI4UmtaLVBBaDBxWnZFYVlIODVQeGM4Z183Z2lwTWt3OXhCWnhUOEtfQUhRS1B1VDRZblFzZTZEUDEtcGxSeDRSNmxMZ25qUG9kbE5icXQ1WmcyeEVnekZHNXoyVENvLVh1WVZUS1FYUQ?oc=5",
-      "published": "2026-04-14T07:00:00+00:00",
-      "source": "Reuters",
-      "description": "Iran's Tractor FC run out of gas to exit Asian Champions League &nbsp;&nbsp; Reuters"
     },
     {
       "title": "Iran's Traktor arrives in Jeddah for ACL round of 16 amid war - ESPN",
@@ -361,13 +354,6 @@
       "description": "Tractor FC vs Al Duhail live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
-      "title": "Al Duhail take on Tractor FC in Tabriz - Qatar Tribune",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWhaSmh5N3hhN3lFN0ZHcWJFT0FqVzFBNVZaZHhBUm55RlVzQXNXUjRPQnVEUDRoSUFiTGxVS3NEV09Mc2h3MGhGdW1FbmFKdDRUYlBOZnp4YnAxYUhfNDFudHdzeDZqUVBJM3BIRzhnMG1USVpwZjlHbEhlYlg5RERzd3NyUlZHRnY3UWo3TVNzUTJK0gGaAUFVX3lxTE1VU1NjSmNDZlhIWlVUcG9peW9hMWRpZFNkWDBkQmFoa1VidmhtbFlYeWFpZ1g4eDF0R2p6blRGMVJWZFFycG5NbWhCc3g5NmMzN09JZ0tEWkU2YU0teTRlVmtib1c3Z3l0OEFiZWloMEk2NDU3NEpsMWU0UTVtR29MOEVOS3lpU1dDOWpudzFBSG5oeS03WHktSXc?oc=5",
-      "published": "2025-12-22T08:00:00+00:00",
-      "source": "Qatar Tribune",
-      "description": "Al Duhail take on Tractor FC in Tabriz &nbsp;&nbsp; Qatar Tribune"
-    },
-    {
       "title": "#ACLElite | Tractor FC (IRN) 2-1 Al Duhail SC (QAT) - Asian Football Confederation (AFC)",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGxwVVZPNnVIeERIQTRsMUgzSDhva1FOeVRmOVlxclljamJ4dEF3TEMzMURsMV85bnlSMnE5UU1wdG9UM2hLb0VIODVUV2ZTZ3piT2JNbkVXc0dZTU9nQlo3VEd5X2lSYTVXQ3J1Qy1xRU0ta0JPazViVVdQSmVnZkhrak1qOUhjdzV3eHd0czhlRk9oWlh5eThIZlpwVUxQQTBPTmVXUTg5VF9hMVAweVMxdmdQaWw5R3c?oc=5",
       "published": "2025-12-22T08:00:00+00:00",
@@ -471,6 +457,13 @@
       "published": "2025-09-15T07:00:00+00:00",
       "source": "Sharjah24",
       "description": "Shabab Al Ahli to face Tractor Sazi in AFC opener &nbsp;&nbsp; Sharjah24"
+    },
+    {
+      "title": "Tractor FC 2 - 1 Al Duhail (12/22) - Match Report - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVpFRUI0akt6LUI1Wkp4V0lfLS1BQWlTYzlnVkl2NHJxV0RwVVVDb0NCaUZpbTdZSU96VjZCU0xHY0pROEstbXJVYk11cFJhR000anptNWJqOTdnTjlCRXppTWwxUUdvc3BOYUhhTUNaMW5aM016N2VUY282bUNadnZaU2V5eFp5VUVlLU54SXlJRVJNeHkyb0VVcVBNQUFjVmZ6N2lUZzhfQQ?oc=5",
+      "published": "2025-08-30T06:10:33+00:00",
+      "source": "365Scores",
+      "description": "Tractor FC 2 - 1 Al Duhail (12/22) - Match Report &nbsp;&nbsp; 365Scores"
     },
     {
       "title": "Nasaf Qarshi 0 - 1 Tractor FC (11/24) - Match Report - 365Scores",
@@ -592,25 +585,11 @@
       "description": "Mohun Bagan skips AFC Champions League Two 2024-25 match vs Tractor SC in Iran over safety concerns &nbsp;&nbsp; Olympics"
     },
     {
-      "title": "AFC Champions League 2: Mohun Bagan SG vs Tractor FC in Doubt With State of Mourning in Iran After Hezbolla - News18",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeHBGNFBBdm9TWGNyVGpQd29lSW1TaWxTQTFiUDhHeUpFYTh3WXlnOVhWS2xjaGVrQmZEdGVKYUVRc0hkQXFUVTBYUmxIUGFaZVIwcU5DR0FqQlBnaEY4c3NZZXNCOHRjWnBWSktvQmpEM21KMGlyZEVGWFNXZUJkV3d5MllfWkxlVEU5ZFVRbEs3aEtBeFZJb3JDS3R1anZ2Q0Q3VXczZjhVME0ySDZwQVpBZGFiWFpGa1NobG9pXzJ1cnQ4UnFDX0F1czd2dDRXRXRvcmhCc215MzNhNFV0Tkw3RU0tY1A2OVYyRy1EMGlvcklxR0xyd1RB0gH_AUFVX3lxTE5LcFFURnVPbWc4b0Y1OXBwTE83OXhJYnd5alJhMGtWZ3dFVXo3LTBYYUpFSXp5eUlZZWdzTHczMjdHVEFmaGlvcUtOM01QR0Y5NHdfU0F1bzRrbUNnMUZNQWpXRlZ1aXBnMnpSWnpQZzhYYnJtTEgzMkxEWThCV2ZuNXphR2phSkJOS05yYTl5RHBvQXBOcm8tMnp2Vl93TGF3dW5CdkNBTjZ1RXIyQUN1enhEd29TeXNNa1dhV3VtcXdoRjNveW5SVkhYNW9wbDc5LV9SOHFFYjZIQ2dVcWpCRkxDdjNrTENlcWFmclowa0RHZUZ4OGNfSVJnc2FaVQ?oc=5",
-      "published": "2024-09-29T07:00:00+00:00",
-      "source": "News18",
-      "description": "AFC Champions League 2: Mohun Bagan SG vs Tractor FC in Doubt With State of Mourning in Iran After Hezbolla &nbsp;&nbsp; News18"
-    },
-    {
       "title": "\"Tractor FC\" has the seventh biggest fanbase - GünAz TV",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yM0h4dFpMTUQ2Q0taSXA2SDdiVDhNbXJnbnVWYVF5cjI4dzl4enItVk9ralVPT3RaWUktWEhTdE1Rd3FjWWc?oc=5",
       "published": "2024-09-05T07:00:00+00:00",
       "source": "GünAz TV",
       "description": "\"Tractor FC\" has the seventh biggest fanbase &nbsp;&nbsp; GünAz TV"
-    },
-    {
-      "title": "The logo of Tractor FC has been updated - GünAz TV",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SVlloZGNOaHdScUNHSS1pWVFJNmZrTTl3cUI1N3pyLW1iSGUzRG8yRnY5NF9taVBJek0tU1VtWUNqeXZTQmc?oc=5",
-      "published": "2024-07-30T07:00:00+00:00",
-      "source": "GünAz TV",
-      "description": "The logo of Tractor FC has been updated &nbsp;&nbsp; GünAz TV"
     },
     {
       "title": "Esteghlal Khuzestan vs Tractor FC live score, H2H and lineups - Sofascore",
@@ -648,6 +627,13 @@
       "description": "Esteghlal vs Tractor Sazi &nbsp;&nbsp; Mehr News Agency"
     },
     {
+      "title": "Tractor FC condemns terrorist attack on Azerbaijan’s embassy in Iran - azərtac",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUNnd3hodFhERVhoY1lTbDVNSnRDaU1uaWIxX0JlYy0xUWh1Qnl5bldoWGlZQXplT3k5VXFjUWUwMnpLakZfcGtDTGw3SU1EU2lnWXZHaWlNWXVMb3RQZHpCR2ppNEx0cXZ5b2RyOE9jckdmaHFldnFfVm5vTGFhVmQ3d2E2UEUybWxlZ3UxeXJ4T1NmeWxoV1F6c2pyV0tYMEJrTVRB?oc=5",
+      "published": "2023-10-04T14:58:46+00:00",
+      "source": "azərtac",
+      "description": "Tractor FC condemns terrorist attack on Azerbaijan’s embassy in Iran &nbsp;&nbsp; azərtac"
+    },
+    {
       "title": "Tractor FC - Club profile 23/24 - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3dBd3h2SEtYYTV4VFZzcE02U3dvMER0RWZGN3B4OTlYRUxlNFliVmRIdloxdmZzX3V3cklyc3B4SlBPODE4LU1ab3NfTXlwNnY4MEw4Y3VlM21WY3FKU3dwQjhIZGFZclVzeG9jeHJMOTBra0ExODI0V1NuVVhUcWhTOWF2QQ?oc=5",
       "published": "2023-05-17T15:54:24+00:00",
@@ -669,13 +655,6 @@
       "description": "Mohammad Daneshgar (Tractor FC) - Bio, stats and news &nbsp;&nbsp; 365Scores"
     },
     {
-      "title": "Tractor FC condemns terror attack against Azerbaijan's embassy - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBobkpVeWNoVW1NTzZRSmdWZmRmUkpkaHRzMWI1ZG42YUlORFEzWVgyRHMzYUFtMDh2WXNTMWNXRFM2bUMxMWwzNU5xSl9sajFOSXR5Wg?oc=5",
-      "published": "2023-01-28T08:00:00+00:00",
-      "source": "AzerNews",
-      "description": "Tractor FC condemns terror attack against Azerbaijan's embassy &nbsp;&nbsp; AzerNews"
-    },
-    {
       "title": "Tractor FC squad: players, values (ETV) and contracts - footballtransfers.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wRlpVc0w2VU1CbWxiUlFMbXl2VmhmT2I0eGYtMTRjcG9JbnJ6cmRLZktYcUYzX1N6VFdUcXdCYVRGdnVGN2hBWm9VVWlnc2NSU2stSHpRWjFUVno4VGllSlU4UQ?oc=5",
       "published": "2022-12-09T06:47:06+00:00",
@@ -695,20 +674,6 @@
       "published": "2022-11-18T04:47:06+00:00",
       "source": "365Scores",
       "description": "Mehdi Shiri (Tractor FC) - Bio, stats and news &nbsp;&nbsp; 365Scores"
-    },
-    {
-      "title": "Tractor FC - Change in attendance figures - Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3lIUGJDaW5mSF9pckpOVDA4SU1lLTJGcUZrOFBsOG00UDY1VlU4UTdpUGd4Q0FUU1NiMFN0TzdYOUpSSFUyRjdfWlpfOWFTeW11Y2hFXzNEYnVGMXJiQkJSTE5JNnk5TDlUSHJZczRLWnpyLWtXNndHYkN4S0VxbFJCTFF0UQ?oc=5",
-      "published": "2022-06-17T04:09:05+00:00",
-      "source": "Transfermarkt",
-      "description": "Tractor FC - Change in attendance figures &nbsp;&nbsp; Transfermarkt"
-    },
-    {
-      "title": "Entry of fans of Tabriz's Tractor FC into stadium restricted - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEpyelhndC0tMGtPVzhMRFhuSzI1OFRXTnNkbEVSejJRdU9veXIyVHdrUkpmdTBWM2dSc3E4aEdHVFd5VzJucEhUY2tDYUVZeGdsbC12Zm5KNUlqaHlDRXR1eGRIRlZ2amJkVGFEZVRnMDRmNlZDcXJQQWVVRmhIaWduNTZfWUpXN1g5N2FXeUd1Ujg0TkNPMA?oc=5",
-      "published": "2022-05-21T07:00:00+00:00",
-      "source": "Apa.az",
-      "description": "Entry of fans of Tabriz's Tractor FC into stadium restricted &nbsp;&nbsp; Apa.az"
     },
     {
       "title": "Tractor SC voted Asia's Most Popular Club - AFC Official Website",
@@ -739,13 +704,6 @@
       "description": "Vincent Aboubakar (Al Nassr vs Tractor FC) &nbsp;&nbsp; Asian Football Confederation (AFC)"
     },
     {
-      "title": "Tractor SC voted Asia’s Most Popular Club - Aznews TV",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNEUyWDJfTl85U21iYnFBODNHWjlnYmFoOURyX0x3M01VVEFqd3ZfNzAzanJZckxDVWtIR3J3azlqc2xPTDhnVnFzMndGdXlBTTlmQjhsdjVqa3JjVncwb1dnQ2FjTHQ2X2c0WURhOHTSAXZBVV95cUxPVVV3YmlzZ0N2ckZBeHBsMV84RjZMdEc4WDhueXNIaHVZZVNBa0daMExESllKMmRoRXBrb3hhN0w5cDM5R0Jvc0U0cnNEajhFNld4N0ZmbDAwdmFpUWxqQkZPTVdnWXJaeE5PUVEzbEJFeVEzSENR?oc=5",
-      "published": "2021-01-01T09:37:13+00:00",
-      "source": "Aznews TV",
-      "description": "Tractor SC voted Asia’s Most Popular Club &nbsp;&nbsp; Aznews TV"
-    },
-    {
       "title": "Tractor FC is the spirit of Azerbaijan - Aznews TV",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mU3k2clI1X1pDcXdkRXJKVlpweDBnbl9BbnhQa21ELUxNenlYY21ZQm40TkRwajczMFg0Q243akpsaHpjUEJvLVIwNzdmV0dpMXZqa0FFYzlRTGdHUjVGeFFKX0tTLXZ4UkljZTNB0gFzQVVfeXFMTlQzZTJpN1dfbVlCTU51NUtTbV9ZQ010UHFYRlIwRFBwei1oZWNCMEV0T19IQmpZWkJNUnExNHRSR3g2ZTE3dmUxd0FRZWJHVXp0TGVBMkItRGgxV29qR0tfZlROVDJOeHVxZlBtcE9YdG5Jcw?oc=5",
       "published": "2020-09-04T13:27:47+00:00",
@@ -758,13 +716,6 @@
       "published": "2019-09-13T01:23:38+00:00",
       "source": "Transfermarkt",
       "description": "Tractor FC - Schedule 26/27 &nbsp;&nbsp; Transfermarkt"
-    },
-    {
-      "title": "Tractor FC - Stadium - Yadegar-e-Emam Tabriz - Transfermarkt",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxakI3V3RtSk84T1h5T2lFVGtDMVgydmVCSnVyeXlsWWlEdU1JeG1KSkhITHNRbzAzcmk1QzlPaWZGWV9CRFo0UzE0ck9YSDl6VGxDdnh5UkhPQlNJZE1wQXJ3b0tkYnRPR09VM19R?oc=5",
-      "published": "2019-09-12T09:18:54+00:00",
-      "source": "Transfermarkt",
-      "description": "Tractor FC - Stadium - Yadegar-e-Emam Tabriz &nbsp;&nbsp; Transfermarkt"
     },
     {
       "title": "Tractor FC - Club profile - Transfermarkt",
@@ -933,13 +884,6 @@
       "published": "2017-04-07T07:00:00+00:00",
       "source": "Tehran Times",
       "description": "Tractor Sazi beaten by Saba in Iran Professional League &nbsp;&nbsp; Tehran Times"
-    },
-    {
-      "title": "Tractor Sazi Defeats Paykan in Iran Professional League - تسنیم",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUs4QnJKd0ZlY1lJbkp2WUpXZ2VJbklsUFVuRGFobUc4ajEweC15anlaVUNGMGlueGt4ZDFSUHB4d1FBLXAwaTJPV1NPWGZfemlzRDVxdkhzZ09UVTJsRDZJbjg4X1lvdzVzb29hVzNPOXJ4cl9malA2ZGl1cS12SG5zLXhhU0dwV2RSS1RXRGk4V0RDRVR3ZkZtVm1aYXQyMjh6NkdmM0FHWWs50gGyAUFVX3lxTFBlVUxzUWE0RWQ0RXVHb1VQbkQ1UUdJcnhjTmdSZW81R1J0RFRSOVEtNG5wSldDODZYTVRpZUNCUDVmVHNrTVFXM01xczI0bHVERnRQVVRoc3JjRFhEWGlCVG5rUjJlWk9NLUtZVU5UTU1GZHpoN1pDMFRvZlQzWm5sNHE0amY0Y3ZMNllDZHZVTFpETTZJMU1HSVBNRDI2eTBSQzFieE5ocDJiNHVGdkVZZEE?oc=5",
-      "published": "2017-01-23T08:00:00+00:00",
-      "source": "تسنیم",
-      "description": "Tractor Sazi Defeats Paykan in Iran Professional League &nbsp;&nbsp; تسنیم"
     },
     {
       "title": "Karrar Jassim returns to Tractor Sazi - Tehran Times",
