@@ -1,14 +1,161 @@
 {
-  "updated_at": "2026-11-06T11:31:28.623622+00:00",
+  "updated_at": "2026-11-06T18:30:57.866695+00:00",
   "source": "Google News RSS; broad Persian and international searches without a fixed date limit",
-  "count": 72,
+  "count": 92,
   "news": [
+    {
+      "title": "اولتیماتوم تراکتور به نکونام تکذیب شد - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNVHhXeWRLUjFaMEVJYnBjUl9ZSmRUWEdXRTFqRzJ2TmI5eW1qMEhaNW1nMmN5b0VFQWdWYW0tYXVVWWdrRk9SYnhYVUZvUE9PbXdtcWIyYTE2dmJKQTgxUDB4TEpuTFJTdjlWdTVnY29CY2JEWjdsaGx5eWpaeVkyS3o5RC1lZklrZ212SGo3V25hX0dmRXkwcTRRYlp2NFA5TDV5WlFrVk85UVNnaWE0SldQaXQ4UkpEVk1xOFotOWMwX2Uwc09sanJPcFhkUkNNMHhsR04xVTlUV04wQy1HM1RBNzY3OXNfTkZkdDZLT255TjlTRFdNQk5wUzA5elVIVVFGajdfT1AzR2dEUzNyLXNITnhnMU9pTWRwUGlVZ2RySEZsdmtua3FyRC13VnpUSHllcENqUktxaVl5bkNzMFVOa2JaUTh4eGJOV3dR?oc=5",
+      "published": "2026-11-06T09:48:34+00:00",
+      "source": "vista.ir",
+      "description": "اولتیماتوم تراکتور به نکونام تکذیب شد &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "نکونام: تمام مصدومان تراکتور آماده بازی شده‌اند - ساعت 24",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxObWthNlRTRVlLcUtkZEp5V0hwNUNuc05lR3hETFhTTlBiRXA3dEZyREZzTG9ncDZHbmRVaXBZVGJwTnd2Rk5GYzFvRDhnMHFVNm5aZ2JjcVZFNFg2ZjZMMDZabDVvSWRnUXJvTnBIdXFNZDd4cU94N1BkNlNyajd2MlhIdnpBRnNKOEVtM0hhbXF0eEx5aS1xeXR0X0hfcGxnOWktTDMzLUVPVjBmM0k5UkFtb04xX1hmNTZzQTUwVV91dHNubkM0TGNjclhDMmVzOFRHdm02c3NWaVhBa0NaOWdWcjNGSHkxODlkeFZLQ0g0Z1ZVeWlpcFBJTHkxbVVKQTRGeE5ETFo4V1FfbkxlRjVuZzJkVFBJbmlVX3c3bEV2OTlCZzNvblJtcDNtRjdJVHd5encyb05USHN3VzBRcm8wLThWamUxUHI3S3hrR3J3WDhwa3ZFei1rS2ZYS296dzVKa3czVkdXanJGaDZFSVhmM3BoTWo1dFc2NFgyMDdJX2gwNWtCMzA1WTg2UdIBkwNBVV95cUxNeVYxQ3pPOGVDSnNLN3hfUWhod2ZFY05ST1d2aXJuYld1Y2xRMzJON0M2YUV1cWlHQXVia0tJdjc5enU1elhJcUUxdjZ2RzRMRTRJanNzZzR1SGs3ZWNPY0VVb3llQ1BkN3JwZmpCcURvYkdOSzJFMW93MTFPNGsyVGxWSEtJU3BvOTVsSUlNeHpWUVktYkNNcVdNYk5qNU81d2Y2M1F1QTl3STdVeVhiU1ZzekhUZjE2M3JpbGwyU1dTVHRXbHlyODd3Y3A5NGhNTkluYzM3Um5FY2xvRTdxNE5BRjJUYWU0M0l2V0M2SC1GejlheU5QdnlOeVhxRVVvTk51SmV6Tl9scWRkQjREbW1VcExWYjBid2tTN3lwVDN5VGdlRHY5V3haQWtVWnZGTlRZTkw3bEJ4MDN4c1daQzdubzlIUmZIemtuSGZGc1FrVy0tU21zSjNPU2VqSThBaGZ5X1k1YmxpcWZacjFEUG9kZVVSUVJnYWVNYzBZQ2hSWDg5MFF2N0RSaVBfMVVNR21N?oc=5",
+      "published": "2026-11-06T09:06:12+00:00",
+      "source": "ساعت 24",
+      "description": "نکونام: تمام مصدومان تراکتور آماده بازی شده‌اند &nbsp;&nbsp; ساعت 24"
+    },
+    {
+      "title": "تراکتور عامل محرومیت شماره 10 برانکو - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNUDBhZ1RxY3I0cmFIdWpkRE90X0xBbEpRVGdSemNRZ3BpSkEzYXBhTVdMNHpxbmNZR3FHdDhlSjIxQnVZMUlmOFB3c3pTcTlrTjRvYmVLSUdvZGt0WjRXRV9WODExYmI1ZXdGakxVd2c0Z0dRSDlRdWNCd3gxdDZwYUZydmlpVDU3WVl5MGhTZ1Bqb2lWUkVTdFVqWkhkSzRGMVk3MzNxUUlwbEhSTDk2cDA0d0N5ZzRjSnN4bUNid3c5X3o2OVVVTWszb0ktV0s2eU1uVVRFQWh3WXdnaGdfbGxQMFJhUVh2NXY1UVBwV1VhNWxxVXRXUjhtUExUZm9CQl9Kc0lGdmJmMzE1d3RvbDNhM0ZoSzhoMTM1WTZ0Z1NqYzZNcFE1Yl82Q2JRempzM2I0Zk5zamJoa1JSS2RWZQ?oc=5",
+      "published": "2026-11-05T04:52:40+00:00",
+      "source": "ورزش سه",
+      "description": "تراکتور عامل محرومیت شماره 10 برانکو &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "عملکرد نمایندگان ایران در آسیا؛ استقلال در مسیر صعود، تراکتور در حسرت نخستین برد و مأموریت دشوار گل‌گهر برای بقا - خبرگزاری دانشجو | SNN.IR",
+      "link": "https://news.google.com/rss/articles/CBMisAZBVV95cUxQQlVGRzRWVklTWlhPRGdUVnZLNkpvY3VRY1U4UVpoZEQ1X2toU0Fyd3BBZFctWGo1eFp6bjBZQ09WanZ6RjhJMUV4eUIzS2dfbU9MWTRteS10TUJIWFNrSGx4UUVoT3lhZVFkem13Q3U4UzM1cUs5c2lSSzFZQ0d5U1lnOGN2dzF2LXN4UDRvWFNXd2x4Uy1XWmNkVXNpNE5Xa1NraTVxT1BGdThBdzVoU01kMGw0dVJSSWVTenRKZXAxTHZjbEI5SWs5ckhMOXFEaV9PeFRNcjlFVXBlMGpsNk95WU5DMVJKMWhJUEJpWFRIWVJCaEFyNlhXSWFaWThFd1dtTjhpSWRKODJTQ0dQazNkaDBVWUlfNnZ1RzFiM2J1ZmsyY3ZmSVkzMWpZa2t1b01MOHp3djk4YlViRkk0czhHMWk0d2o2ZURMWTFtZGF6eDNfUFVyZnl4dURfM2tNUndCTjVBQldtMEthY3JTUExzd3dJRkI3SjBXSW5MX1UwSnc5SzNuWG5qTWFUV2VMcm85cWp2TVVwSXFxWEZzdVExVzZZeFZkUmtaNW9sTjlMSGdYdkhsYWRveHh1N3d6cWNmTVpiVFZ1c2dPeUJOb19PQ3d6ZEEtVmFGREl4dGxybWJNOGhLY2cxVVh1WlY4WFJQeC16MDhtNzM5a0MwZ1dBclV4TnIzOE9LUEZsTmVVQU56RklDQ0JJUGlfRS00bkpJOGtySVpKNDhSQXo3c0lXQmdzUXNmVXhvSXFicEF1aFBJejlKZ0JVY3hodGVZdmNSem9NVy1RUFdHN2pZNUpPQzZTSDdORDM3M0pLcUx5SkM0YVZfNG9wcnZ0TTRIREdzOGlFQ1RzeHlwN2d5ZkFYMWZrSU1WZ2FCZnJNSjdHTF9paV84ZkMxd2JxT1hUQ3pwS1RPRGtyVHVFNDBYTkZKUDNONkNGb09vN3R3MVFFcXdNcm5sWldKT1NKTVM5dloybTVpVkwxTkVjUG9IQjVJaVluV2xDTnZqanI4ZGNwY3JRZWpxeXFhN0ZFVDRwQVhaYTVtZWFWQXgtVzNiYl9UVld5VEdqOFJIR3ozNmk?oc=5",
+      "published": "2026-11-05T04:15:02+00:00",
+      "source": "خبرگزاری دانشجو | SNN.IR",
+      "description": "عملکرد نمایندگان ایران در آسیا؛ استقلال در مسیر صعود، تراکتور در حسرت نخستین برد و مأموریت دشوار گل‌گهر برای بقا &nbsp;&nbsp; خبرگزاری دانشجو | SNN.IR"
+    },
+    {
+      "title": "رقیب و رفیق دو آقای گل تراکتور (عکس) - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc05HS1loeEkyM2xSOTNzaWxnaVl5RU4tMHFwX1pTdUV4MU84UVhORng1WnlOWm93TjBhbFE0LWdtM2FBaVRMM2xRQXFJRGhIR1lLT0F2M3dJS3hVaVlYLVNUc0lpZTM3YWM2dHRBTTMzWE1rZ0xGNVd1UTBVZ3Y5Vl80NUhrLVg5RTdfeGZzRmtSM09KRHIxeWktc2g0MV9KLXBZU3cxS0NtcjV5ZlJ5TE1mSm5GZjBHc2JXUjRKdVBOZlRwOTVoLV9UNEdHc3ZQZTBMYi1qX29sMnAydTdqcGFGbXh4Nml1RnpJdEZOTXpBckRHNEZoUU5OTmU2OGQ2MmN2ZDR0d2tvWUhoRVByTEN5WWVPd0trOENuWlNFSG92Q0lRMTN0aW1uc29qVURaMmNIejhMcWU?oc=5",
+      "published": "2026-11-05T03:37:40+00:00",
+      "source": "ورزش سه",
+      "description": "رقیب و رفیق دو آقای گل تراکتور (عکس) &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "شباهت‌های بی‌پایان بین دو گل سرنوشت‌ساز؛ نکونام و سهراب، مدی|خبرورزشی - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMivwpBVV95cUxPQ3NicHczSTlSX0ZBUEUxTXphdHluUmtGQ1BuT3ZwbzhsNi1yQkFsOGJUNDd0eWdyRTdmdG0zSVFWdzQ1UW9KdC1IUUo3eWl0YXJLOU40TnRfbUlYR3E2cjVDYlhCOGkyQmJoMUg0eFNBZFlOMWlnSEFYMHFrYjhHNEpEa0xBd2JILWJIOU1xdEMzZkhyXzZBalFQYTAzelFJSmV3dDdYNFVpM25kdkNILVIzbC1pSEV1SEZ4Z3ZDN0hHUEhlQ3lUVWIzaEgzWDJxbWs3NXFkVHhhNEFsOFhIaWVrU2hFVjFLRWEwb2FLMWYtZzB6YXhRa3A2UFNzdFc3SXFyMnBKV2RtLXB4RFhKbHVPQ1JEWEVsY3hRUlhnQVljdlBKZkZEWWRVaHdsQnk5Y0hrLUl6MEN5RDZyTXlJbjVVY2JaSTZWWGlqRnFyVnVYemNDYkczaGxPa25ZNnBhcTh3X2JaS3U4X00yVUxoUEhVeWY0V0NybnU5MUtka2doQjhVMENMNXhaOVJYY2lqczFxTzU5T0tXYmJYVnVjMmFuZFpmY1RmQnBnOERILTlDb3FzQnFxc1c1al84enItTFZ2T2ZPTlNEdHY4dnFna0loYmVySTVsdGJYWWx0b0dFbWdjdmVrOWQ0WmpkRTJaVHpkeVVUa3RSTGVtZU5Sc0lZWjUzY1h0SDRDUmpkSW00OHFPWHduSnNNS1VQa3NBaGhtX0pHLVd6cGZDM3I3V1o4Y2U4R1VkOXlLYUdVQmdmZ1VJbDUtaXA5RXVmakVMdXAzbUJCRklHcmU3RjVDOFIxblZrbmpvZVV5d0xKMFpZejFnYXlIWjZ3VzZxNVMyWTZxOTEzWk5ubGxoaW96QUcySEFxNFlscUJLc1NvTFdRVnFkVEllMFU1S3Rsc1lwTzMxaHZLd3h0X2dKZWQxcWRvWndoeTJ6RW9qS1FkNy1oNXprNkE1eVJCdmt3LXVBRlBXZDZLTmN2dEYtTHp5WU4yOGl3YmdqS0lQRW5uc0d5OE5ha1B2ZkFsQlRsRnpuYzFpUWEzbFFGZU5DazlvZURaeWREU1ZxZVdnd0JFTWRVVjE5VXp5SXFiOVdyV2hUb3VSNmhNdDVSSG1rV1FvNjZXcUdVQjZhX2tfWDJXX1RfSnhPNDh5cmk1QWMwOUZGSWRLbldpdU9uTFJoa2JJcERkb19wU3pNSTMzeXdlNk9DWjlkam9sUUowdGJCVWVWbDlvR25CelVXeHJILW5oTkpjQ0hORjU2TFdpSnpwMTUxZjVkV2RYQk1PN1FYb2liVXJTUE9XN3U3MWROQkhEY3RHUTdBeXptM1RqT2x5RFlBZWRrcUVRSWpLYmYwNjMtb18zYVZpTGZRNFlPYTVFRk5LQUdrRkY5RG1xRURJSTZ5b01jYlNVYlQta3JuRUVRZmVFMTFIZmxBTVNHZ1ZOTkZ6aEhMS2t0VFRYZTVGQVQteG40bE14Y3hnWGdnc0FLdmRvLTFyY0FVZ2ZYYVY0bGpyc0J6SWN6bEJtZGxCa3B0SUk3bGJFTmZUYXpDdjViNnZRQVRyT1ZfUmhoUFAwWGtQUWJoT1RUTjZMSWt4MWtYTEVGM1dVdHhOYnVJYXVxVG5BOGZrRUJKcUtqTDhkdXNiMHpENWNwdHc4N3lhcWtvUHhxcjBTTmJub0RONGpVMG8wWWRoRzllQjlZZ1czaXpKVjJGVDhmcmRUTjF1b3R4dnh0OGp3WW5xck56LUcwZzVxM3AyekNUV1UweXhkOEFSTFg2cmFWSlMtRlBJNA?oc=5",
+      "published": "2026-11-05T03:00:00+00:00",
+      "source": "خبرپو",
+      "description": "شباهت‌های بی‌پایان بین دو گل سرنوشت‌ساز؛ نکونام و سهراب، مدی|خبرورزشی &nbsp;&nbsp; خبرپو"
+    },
+    {
+      "title": "تراکتور، مقصر محرومیت شماره 10 برانکو - ساعت 24",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVjZaMkFQRmNXVGlPUFFjZWxmeU1CaW9pYXFuRm1JeFM1cXJDejRXYjNyaVV5WXR0UlAzY0VVc0pLTHl5bDhneHZJSFpRc1NpVGVpcEx0SDJzUGZsUFFGZHNBSkRpWjNiNTVaTGt6NUZVajk1Q1dRMlZuOTZwMjNUN1Zvc01ITmZYMjFGN0REVFl1ZWlTcVRTNFlYekhyUURibDBSLXJqVFlXeGtmcGNVRDYzS1RSRzgza3JiNTVja0w0NkdENmFfOHpPVUJpbWJzaGFuS3F2QWM0bGxGMExiR0JVZEVuS0tQbDc3QTdlSm4xZllUSFZjQlVydHpWclNLZExxRlZmc24zYmlsdzFaMFlNdFZUa0xfWEZkQTRHTzVOdGFwQnFlNDY3cWhvdWdON3o1WHVYcmFibGIwcEHSAcMCQVVfeXFMT0V5OGZfWm9SWnZhTFJmSnJsUWJiajhVaFo3aUNXVktLbVdTT3A5R2FYd1lwdVNFc1dtOXFlekp1Sy1xbTRMX1hGRDk1NnBKUWtqT0dkZ3U3S2xKekUtbEVLcHNMZ0NTTEJFUEx3NWtxa1J3Y0Q3a1p6bFpSbjdVUTRIQ3dqSUtRUWQtWkd3clpNLWhmMEhvR0tualprUW5ZY1pvN1phcWxpVDd4Q3Ata1BTYWo2ek1PYU5VSnlPMG5Mek9IZHhsLVAwdjhmTjI2MUwwQXdDb1NOa0RyQkpfUVVJVEFLRlFvU2R0OFBoeFktclJFVzVuVS1wOEhDOE92XzBxNEZod0ZpcDc5Mk1FLTRKZVlzTFo0NUJFZTRmN1lpcU5lTllOX3FqTHhkQi1jVXB3TmdndHlGRGgzUXZORHYzX3c?oc=5",
+      "published": "2026-11-05T02:09:07+00:00",
+      "source": "ساعت 24",
+      "description": "تراکتور، مقصر محرومیت شماره 10 برانکو &nbsp;&nbsp; ساعت 24"
+    },
+    {
+      "title": "ضدحال ستاره سابق تراکتور به 2 لژیونر(عکس) - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcTRZMjRmdEVjekNfRFVZMTNtaVh6QVNoU2VLTG4ya1hiUnYyRTFzT3hXS25aSWVfXzNjcFBtXzQ2QmFfbFA4cDdlMnZXUEtNSHAxTUR5T1E2WEw5T2d5Z2xFOHhud3RKbS1tOGJWYzBkRVhJYkpWbDNWdjFTMlJVWDBCSWFoOE00TXpLMFhLQ1d3eDllWkR3bE5SNkY2MWEwUFA2akNrbnhudnc3RW9UaVpGNFJSZW4za0ZIQ3pDazFMOU1NM3pDZmZyRVFPMDVRbHpPQ2RsNU5jbnZJZG80T3ZQb0poTU80ME0yOTNFcGNHSE1acC1Jd1VRMWMtYUtqcmUyaDB1TlZDY3FfZUluSDUxalhxWWRXSHZkaTQzRTVYLXZkQ1hOWi0wcUVjVWNieUMzU08ycWdaU00zYnRlNkNaT2RleGVpRzhHZnVnTzhGQ0tPZnNkQldB?oc=5",
+      "published": "2026-11-04T21:13:38+00:00",
+      "source": "ورزش سه",
+      "description": "ضدحال ستاره سابق تراکتور به 2 لژیونر(عکس) &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "ضربه نیرومند ستاره پیشین تراکتور به دو لژیونر(عکس) - ساعت 24",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNYVp3Z2h1NGtKQ1VTenFXT1FYMEMtVGQzaGtaM1daTFRYbEMyYU1WY1pxMFFWY1lFazFzeFplRHJuT2JTeFlORXRBQlloZ19jQmR0dFYwYjdZSXJtYXhLS0RfUF9DeDZfRmh5RUUxWnFpSGM4TUU3TkEwcWx1QW8tRlRGNi1FMEVqU0czZnphOVFPajhJeVNfVWhDYTdvMWpvM056ZktoZEVIamFXQ2JWVHNweGl5bnlsU0tpUTZ6R1dUOUZ4Zjk2WUJsd29qT3AxQnpEaEwwY0l1aWxWdElLWHVxOFdsQktaTW5fVFRxeExtaDNwVm5WMTRjd3Zsc1JqZzJ0MXdfX0ZoTDNpM0dNRHRQTXVYdkx0c3o5aUYwWWg3ZmlTbWR4aTY3cmh4SEpLa29NOC1JTjhvcEEwSUJ1c3duMUFFRi11NS10b1ZrMTQ5bGJ2WnRr0gHcAkFVX3lxTE93clJrbV9BR0t0SWJRVGh6TWtwTzFOamtxSUt0X2VadXktRFRUb2ZfeWxXTHZON3Rxa1RhVEVFbHdtbTNXcjAtVXJmMUpIdDRtTHRuSFpzR0V3U0J4a0NwdEpSRjdfdWtKOE9rTlJjNkVpbzVtUnVvaV9iY3RRN25Zd2R5M1J3Z3UySWdhRWxDY3hJa1o3R0gtWXNZYjFLa2FYTVNxSHBZVV9CcTlnRHRscG9PREVvaFdLOUVGZlpTWTZFWUEwc1hQdGdLOEsxbFVYZUVzTlRDbGFjTUR6Mmk1eU4tUGFuNWE5emVDYWdCRjB1X1RWdl9YaExoQUpJYTd3dVRRQ0NYSXJoelBMZFpqY3JNeFFtdnJuUjF0S0RvdDJaVXRMTGhPcFczdXdNR3Q2cjZfQXAxYkZlUmRvSkhkWFBmak5NOHJJNTg4TGtTdUJsaXRpcjl6RXpHMQ?oc=5",
+      "published": "2026-11-04T21:04:10+00:00",
+      "source": "ساعت 24",
+      "description": "ضربه نیرومند ستاره پیشین تراکتور به دو لژیونر(عکس) &nbsp;&nbsp; ساعت 24"
+    },
+    {
+      "title": "نگاهی به هفته چهارم لیگ نخبگان؛ آیا باید نکونام را مقصر دانست یا او را هم‌درد دانست؟! - ساعت 24",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPVjhOWS1rR2hTVG9PWU9yekgweTFrcW1Hcmo3X3NZSTdkQ2NDd2VLV3NTdFltVEVETnp2Y21JZGV5SWdFNGp1OXlHRURyNlZRUGhQd1dpdWhydE1GOUdZU2dfVzJwRXlfRVNHSVF6Yk5ETnQzbU1obFdxNnNmc3hncVY5NWRWYkpTQTZCWnlHaVZhLXI4cFhNYWJIYkR5WTVZb2EzaHczdHhCeEdQOEtBVDFmS09rVkQ2Ukd4ZmRwWU1TQVFncGtka2d1QUtSS2k5U2lPMC1XUFZ3cXhpTHJBRHN3eENxWGRDWHZpOGh2ZTZaX19iVHhfMTBTbUUzYnJ3aG5hc05hbENPXzNVS1lhRlFQb1RFMmRsZVhxTHNDWmJTbmVrLUhqTXNZSmt2MWw0eXptakVpdm1fNGZUanlpeVZVVEk4cGxINm1OQkVpWE5weHk2TzhDa2p4VXFoczZPbVFlSXBveW50QjEwdFpsdHFZdGFKbnR1MF9hNkVBOTctLUxQQTZpZnh1US1hMlR2N1NQSl9jdmY0a1FUUjBCZUNVbFBrN2ZoRkdiWWc1cGRJdkhPRm1MNDdpdFVrS1B1UVhUMnktck5kTUM1RHc5eHBRSFNZRkpYajk4eVVRWHA1d19INXl0Q0pKVjNZemxiTTdhMEZMQWJBX2Zz0gGCBEFVX3lxTFBVRHhwSjhfdWhhWEl1dUh2UnhJbWdNbC14VEhiV3VrT1BNVnhjME9IdDdoTzRsQ3pRN0VVVVhZemttS0FfNHVzYktYbHA2NVMwTU5pTmtOWDl6ZXBNRVhma25ERGRoQnl2WVZFWEZGc2haR2s5LWowODJWUWNtOUVLdmp6cUUwZUpQeXlkWWNXaTZBcmthY0tkWWhjSUpkaEo5ay0yY0llTUdWLTBIZk1uY3VFckZFd0NESk9JOW84MWIwako3TEZyYkY5MlpJVVdmNHNZUlBzSDdVVW9ucnJQeml3UWhab2pBOXNBdlNJUDZhck1YblRvQjZGaHNtVUNQTXpXamZUSWRDU0h2TmxoeVo2cC1BdEQwV2FDd1pSQ0FVM0UwMTh2QldkZEYwaDJON1NYMlpUMHRxV05fcU41cU1mNDVlaUFUbUU0RXA1UFpxQ1NFaEFQQVRBNVl4emhPT2pRazJnZUtEZFIweDE5OFZubjFNTkNudXdiR3QwS0F2VE9kWE9uaXM1aXJxVnBWTEM4WFJXbHBveW9FUW5XSFVyc05oS1YwbW1DU3VRRzdzZ01tVExfYnMzbU5xcGtIVWxoc1B4V0VRTjV3d3ZxX0ZsRXVlYW9ld1FFWV9KdldkYzFwTnJ6M19vaGlDbTF3SDJBcG5iT1N1NFNFa3FXLVE?oc=5",
+      "published": "2026-11-04T19:18:08+00:00",
+      "source": "ساعت 24",
+      "description": "نگاهی به هفته چهارم لیگ نخبگان؛ آیا باید نکونام را مقصر دانست یا او را هم‌درد دانست؟! &nbsp;&nbsp; ساعت 24"
+    },
+    {
+      "title": "به‌جا مانده از هفته چهارم لیگ نخبگان؛ طفلک نکونام یا تقصیر ن|خبرورزشی - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMiqwlBVV95cUxQejRXdFRBemZYbjVQVGZqT0YtV3MyN3doQmxMaDVwZ2Qwck4yVTI3ZmN3cGRyZG44SGZZRzNGTzU1dTdIbnhZRmhPMGtUZzRlNW03bnlhVzkycmQzYWdZYTV0cnZWbENoNlNYTnBmUVBxdzB4UDZaUll4Q2xIXzVTVjI3c0JjUkFhQ3VOOGpfei1UeWFQT0VpeVlyRnhOQjEyd1h4RzFqX1QwTzhHbFhKUlJCZFhpSGNvM1ZNbHBSZ3N0a3lLWFhGSEk4WE1hUUdLWFNKckE4Z250Ty1sYllsbk8zLVVIV0l2alNMR19nRXVtaG05YTY0RTNiaGhlM1FLTG55WHhkdkVrWmdMUFoyRThUaEI2MGF3WkZJRFFhcnRWQ0oxMFQ2NXEtZFVuTHJkQkNYS1RiRlNZT3MzQzhpX0pEVTVnZFFvT1E1YlFLOWdVdjMxak81THlYY1ZwU2RaaEw0RTY0VmpTa3FhY0ZiRVozTUw4SDBITl84dEN0d2tTWEROTGd1TU1vbEJ5TmhBTDBlTmJaRzZtbENVZm9DVnZHYVk5UVp2SHFoR1l0XzBJZTFNenlabWRKRDNQUW4wUmpmUEpZMjlfYU00dFkyZllzYnhkdHZ4WjdTRXB3YVZFMmhJRzBRdGpTZS1ZZHJOM2pHUGoyV3ZOcHA3NVBaVHdaVE03MS1WVXkya0E1VHdaR2hYTVJ0anlVNEo0YjJQelpndlFUUnN3MUVzQi1YZ1ZESlRWQXl3Rmk3a180M2VaVXlMYjVyX1F1TjJCQ3hvdWp2N053cHdaQWRIT2lpaEcxaEVTLXItSzJZY3BoUExtY0IzRWVDT1dHYzg2aVRzcUROUzFGQkRFYW5Rc1gtUl9PSS1VM3FOYnpOOTFLTTY3cXdFOGdWOUl5M0lJVk9DRkhSd1N5SHZ6UTB2aXp4NnpGUE1oZS16MmdlU3B2VGdJd3FtUlBBNFE5Z1dIVUFnT1ctWTlUWnRpSF9WcUtwakdzVU5SOTRjcTFEOUl1a3p2MmVnQXhZajNCZncxSVYtcWlIRzBpQjFWOGNYNjhyeG1Ld253THNaX2xBRDdpVXY1WWNsdjRmYy1EbDgxdjhWMWJlQ3Awc0hXcWlpWHROeEdwMENIY1BiRWJFQ0lGbENmOTJ0VGNncHp5T3F4bXBOSnlmbmtGaHBpTm4zTW9RWHhrdEs0UkQxbWFNNDRwM0RkNXJFM2VhVFBIWEQ4Z3Iwb2ZMcFFOUUptV3pGMFFnOXhwLTltQkM4ZWtkTnNvYi1XWE8zNDJXVnBPamthNjBOWHJyRDIxbkkyazAzUllsNW9vOEg4c0RjWHBjN0psSlVJbVRPOHByc2prcWV4eDdfbUs0NWdvS3dxRmp6cFNXQ202d3ZOLUJJSUZzcjJlWlBpeVhjc05NVDBMR0YwOHZBZVlaZHE4TFRzQkpjcjB2VU9QZ0owbENPRkVqbk9oMDFmYnBzaU5EOFlHS3FVUE5UVnhHeHdYdG93SmFlSjk4YXNaVXE4SWtLb21IYUhRa3luMkFMMWlCN2FYbTJlUjFLUGJibHZSdkV5ajFjRlEyTC0yVHpZZFB3eG5N?oc=5",
+      "published": "2026-11-04T19:15:00+00:00",
+      "source": "خبرپو",
+      "description": "به‌جا مانده از هفته چهارم لیگ نخبگان؛ طفلک نکونام یا تقصیر ن|خبرورزشی &nbsp;&nbsp; خبرپو"
+    },
+    {
+      "title": "ستاره تراکتور بلای جان ایرانی های الوحده! - روزنامه هفت صبح",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQSjJRRmVmc0dEbF92OGcxQ1dCT3lMWEdaRS00NDNjOXM1TUx0a0wxZGJZb2F6eXFicDg4SXFRYkpPTWhTNUNwY292TlBaRmY3V05id2VfWlVJVG5NOHI4cDRXRUE2cmlIMnZSWXJ2Tm1RMm4wZHBUWVNLUTN3NXFfYlhhR2ZNWEp5dFZFdS1fMlVSOVZ4TDhlMElxdWVBZ1JrcW1PZWFOdGYtclJyODdRVktQSXJlVnROWHVwTk1WempyVWZNTEJFY3hqTE5qMzFlTjFlUkM1VTB2aTJ4WHM5WGxKR3hIV25BbUZZMV9YSmtNTlFLVm0xYnhMRkdZRzZPQ1RBc3hjMzdKVkVCcy1BbF8xaGdva2t6elJVYV9TVE85UHA3d3FfOGRWV1h6eGJCNF9ZSFRKS2JSX3JmQm5vb2tMR2R5b0g3UUhabzlLWE9XX3d5UXFFZkhzUmxLUS1iZnRrVHBOcTZ4ZUpIdHNmVDlKQktBYlNnbkJ4YWlURU5mLXVQMEtSSllfNTlkNFJpTmNwaGlwVVRabXEwZjliLXlWc2lnQjRpOXc?oc=5",
+      "published": "2026-11-04T18:03:03+00:00",
+      "source": "روزنامه هفت صبح",
+      "description": "ستاره تراکتور بلای جان ایرانی های الوحده! &nbsp;&nbsp; روزنامه هفت صبح"
+    },
+    {
+      "title": "بازگشت تراکتور به سیستم محبوب نکونام - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNc0xpY2Z5N1ROTW11MzZxaXg0Sm5wa1FJbHZZTTlJUFprdTNSYjU5bUNCeDhEYjlMbUIzdHVCUnV6eXBEUGJRUms3SnV2aG9lM1dibi1zZGR4RXN0bTNzYXVNS3hyQkR2VVJqNmEwd0tlY1V5czJvZ3JHWjY0anE0Ynp2VFBPUE1Kd2FtMldhNHVrT2FLZEVlWTZwY3ZVRmhiTFdCelNfbk9IOUNOaS1EdVpReUJwVWR4WU0zN1pmRHpCWkJNTGR0bHZmalhuZGZvNzZrSFJpZnlMcWdWLXdDcHU3UnhVbER2TWM0c20zMFFYN0N0U2dFX1lIdTR3eDF0RHZRV1lKekJwTkFIZk1FS1N3RWtKWmFmODhNTERZNkNvaXBEMDk1N2gwVDk0a0ZrLVRjN0M4RE9hSlN5VHhuLXlBZEMxaVVoU0hDbzZB?oc=5",
+      "published": "2026-11-04T12:44:38+00:00",
+      "source": "ورزش سه",
+      "description": "بازگشت تراکتور به سیستم محبوب نکونام &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "امیرحسین همچنان دردانه تراکتور! - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQzlFWEJNOGh1Vjg5Um5Ka0ptbkxpa1h0MHg1TTRqT19IUS1YMl81QVdCbEgyLU52d0VsYU1UZmg2NzcyTFZqWVdpN2s2eW9ORllSZTBvSHJKV1pfOU5xYkQ2bmVEbkM2MVp5dF9VY1Y0N2w2Wm82ekJRS1RUT0FpN1RTa19oOHNxdU5qWnVncnFXWDNEbUVRU3RqWWlJczNUZGk5OW80ZVFJZGtMeC1lRXd4ZmdXb3VDMkprQmdNajN1a2tpNDJmSmU0MDJrVlh2R2pvVXN4eEJsMXFfQXBMY0FWRFlEOW01ZjVQN2Z5NjZveVM3UDFLZjRqdGd6UDZSVGo1OExCX2tQZVh2S1NCNF9FeUcyellmT2t6alhueS16bHRwbjB3Tl9QTQ?oc=5",
+      "published": "2026-11-04T12:44:38+00:00",
+      "source": "ورزش سه",
+      "description": "امیرحسین همچنان دردانه تراکتور! &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "بوفتینی: برای برد تراکتور می‌رویم، نه یک امتیاز - ورزش سه",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQMEx3ajFWUTlVWWhZVHFINHdsX3drRXRkZUxkVVYyRHF3aHU4YUpEQjlHSkFPUDZMcVI3aDlab3FyYVRka2pfYkV5UEc3czEzVElUaTlQQkFqV21ybTV1bWFwSkdydW9OUmJMamdxaHVORkhseGVPMVdlMVJXVVRTWUppc3lFdUxjMXpMRVFhUXJWOW9oTEY3Sjl1SGFVSW4zMW5IdHdHaDJVQnVHTUVuWmMxV3RHZTdPMjhnVTNTSnRuWDh2N3JvRjFockwxdDZBa0tJdE8xOWJuX3RzeWZaMVZlUmdnODlLbkI5MXpxTGtEaGtOa3BLbG9GazJ5UE9hbUNtdk83VXVMb2FhaEdDNWpEaWVfZjlyR3FHaVR4ajR6S0xqMHpSQm1rN1JHbjlfN3Z3RWVaUlZBMnF6LWIybmFoQk9xZnU0YkZJSHllZFptNVozLWdrSWl2VXB3YjQ1MU9MVmRTdzBfSnZvYW9LNWY2SmphOGJ2T2UySjdiZ0ZKdw?oc=5",
+      "published": "2026-11-04T11:54:33+00:00",
+      "source": "ورزش سه",
+      "description": "بوفتینی: برای برد تراکتور می‌رویم، نه یک امتیاز &nbsp;&nbsp; ورزش سه"
+    },
+    {
+      "title": "حسین‌زاده با دو پاس گل، تراکتور را در مسقط نجات داد - مطلا کاپ",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rYjVfcnFycTMxY1h2MUpmQTBLMWVCNVBiTGViVGlaeWFIdlc0bUw1bWl5WUswbFY3am41OU42NVVzaEpLVnNSOGV4SUczekRsSHhpMkdLYWp1UWNjRF9RMG81VUhlT0NNRm12TmJLUlJNd3E2TVE?oc=5",
+      "published": "2026-11-04T05:53:49+00:00",
+      "source": "مطلا کاپ",
+      "description": "حسین‌زاده با دو پاس گل، تراکتور را در مسقط نجات داد &nbsp;&nbsp; مطلا کاپ"
+    },
+    {
+      "title": "نکونام: بازیکنانم شجاعانه جنگیدند/ می‌توانستیم گل سوم را هم بزنیم - میدان نیوز",
+      "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxONXYzZi1iblNySGI4dGJVeE9HMjBna3pueEVYVFV2cllQS29vT210NWZSdko5S21kZDBPcVFGak5GZXJCQVFFV1JzM1czQXUwbGRkeTVqYkpPT3oyQjZqemFaTkM5TU50UV9NWWpnWmpWUkItLVR4SzNmcWRfZ1paa21ZWjdMc2RDVk4zY3VHdDhYeXI1akFJYzNneWdDeHplSkpUWm5Zcm5uMHRsRjNZTnNCVVJLTGhrMHlMRmRoR3dIX1d4ZU9iTHcwT3pnM0dqNEtwLXdTd2czYkx6c0x6V2h5RFdhVkgydlpxcU9nVlFQWmhGMGdxdEVXT1ZqaFVoeHVSSVM3b3piRm82M2JYUktBcFFWcXdjeEhtVXhnbm1QM3RlNldLdnk4UzBwejVpc09SSXVEaW1GS2VLZTJIZ2RlSEJsaS1pQWpaMlQ5WndiVUhWSXJoUkROalhHcTFPQU5nVjVPdDlqVWVqZTBBTld1d0dBRnNVM0hIc2tvU1hNQXhPNmlLTzJ0eHZGcWJET0M4WGc0b05kYjZmbzJNM0VaUGw4d2V2TVJNcS1BUHBuN0RNT2FfLVZWcm9oSXBwTE8zS0NWRjV3RWhWcUNmS3habTc2SVJjVkVSVEMwZGNFRWJ5NE51VTJLY2ZEeEMwOTMzNE5vYzMxOHFRZFNRUWwyYw?oc=5",
+      "published": "2026-11-04T02:32:54+00:00",
+      "source": "میدان نیوز",
+      "description": "نکونام: بازیکنانم شجاعانه جنگیدند/ می‌توانستیم گل سوم را هم بزنیم &nbsp;&nbsp; میدان نیوز"
+    },
+    {
+      "title": "فیلم | خلاصه بازی تراکتور و نفتچی ازبکستان - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPVUY2ZV9FTG1laUxZM1Y0WTNFb1dOeUZBTkpxal9qQjFPVjZZazRkcjFtbDl4andGSTRQdGpiT3RURlJaM2RON2xpSnhTV0toU0tsSTQ4LXMtalkyOVlKR0JOWnhkNmo4N0IyRkRTNWhuTVlqMENCOFp4blJFSC1YNXpEbjd6WldUZW9USllnY3h4U185NFZDbS1hYjNwNEpJTjNNWHV6WmxmYjlYYl8xYWxVdllwUzZsd0t0YUdSS2N0amJTWXJrR05PS1lKcmd1RGNiMUhUTnVyV3lwVzVvMWVPUlhZRERsUEYwNXltVjd2WFlkamFLY0FtNndTQ3l3V0JpWHdfeDBDeVJOQkp6bkVPbUViWW9zdXZlQzRGVUNaTVNqTkNPbGNEWGJ4dXBQQ3JpQ1dzdmpRZ202QTJuMmdteDB1LUpCUWUxbTFzZTJEZmtyN01Jcjd1UGl3UVE?oc=5",
+      "published": "2026-11-03T20:49:41+00:00",
+      "source": "vista.ir",
+      "description": "فیلم | خلاصه بازی تراکتور و نفتچی ازبکستان &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "جملات قصار زنوزی: گل‌هایی که خوردیم اتفاقی بود! - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPQ21JRzFucVpQSnlBY2hPYy1XdHJvRm13UXNNMEM5akJ5dzhIOXBHVlFGRzRLUmIzdUY3d24xMjFYRVR1RzR5WTZMcHhuSnpBU1dpNDJCVEdCcmFpUkN0OTV6b3YtQzNRZzd3YU5sTXZtUzRjZkJmM3BpeThyYWY1LWpURGVCbjNXd3dnanpfRm91ajhRcjZ6N280NkNCV1ZMMkZWN1diaHR1TVVWSUFoWXBkRFhOUVJXQmJIUW93UnRxSWRvTkRwTWdiYkFTUUh3cS03NTJnSHdCQjctX2kwSU5QOG4zZG1VTXhzdUFuN1loTkZXaHhMakdvOXpTQlhpSnEzT1Fwb1RHc1JyNWZsQU1BUzhRQlNTSG9rRGc5V09TUDNOWVpETlBxUFpfbzREUDRSc0N0aUxOTko1UTVkRHBsUnZ6MHhGUUJqMnFNR1RwZER1cXhNMkdTc0FrcVZ2dHFUWlBhSTNMQTlNRHNrLUJ3azhxaVhoRVE?oc=5",
+      "published": "2026-11-03T16:50:56+00:00",
+      "source": "vista.ir",
+      "description": "جملات قصار زنوزی: گل‌هایی که خوردیم اتفاقی بود! &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "تراکتور؛ تیمی برای واکنش یا تیمی برای تحمیل فوتبال؟ - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNZjdOc0hMZWc3ak1teENvMFJ5R3VWcExPU2Z4UEFKZEZQcU5jLW54aXhKbFhlZHhDa0wzUHlwUXJjbGIzTTdoQ0NJZUJzRnRySnlMQnBibkRZcERMVHBYaDBXQW14M21oQVhFTVlzNmlVUVpmOTZRblVieXBQcU43NHh6R3VNWTBsWEVwaHZqNGlmaGdydzJXVzRYcEN2eEhSVWs4cE95djd5d2Iyam9BOEZxbm5GNC1mV24tS3dUNFhEYVMzV0o4UkFfTGg1eEhWV1NodDRXbFl5TldWeVVnQkcza1Y1OFB1UVBaalBJaTE1NzhlOWQ1WGxsa0huc2Q5UmFwaXVIajI1aGFsTVROdWhQR2dLeGpqWU5Vc0xHeVk2cmF4NDNJMDZaZ2F6enpvNlk1Q05ybUh2VWtCS2daal90cm5CQ1pIOEpOWE95enoxTkpIUmRPRTdTRHNIZ2dBaGFZeW1TS1NNalZjS1FfeHgwUUYzRC02OGJGVm51eGM0YXRGMXFYbVNSOEc0QkQ3TDBUVEstTkNndHRlMHE4MWF3?oc=5",
+      "published": "2026-11-03T14:45:30+00:00",
+      "source": "vista.ir",
+      "description": "تراکتور؛ تیمی برای واکنش یا تیمی برای تحمیل فوتبال؟ &nbsp;&nbsp; vista.ir"
+    },
     {
       "title": "Preview: Tractor FC (IRN) v PFC Neftchi (UZB) - Asian Football Confederation (AFC)",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUxNc2FzbVRPdXZWSFJtNEhVaDkxWTF1MGVLRnU1dVFPanhhazV1c3Nab0MtSU56dFVzRUFDa0xSX1lTZjBXMnRXZGNvVkpIblRvQ2hCMlNfYnc2RW5MZi1TOXJOazk2bnRsRGRxakxZbXZHakY5cjJNUGh1V0Fka0NtWW1qVkhtSkZmS1JZT3VMZGNmSThYb1Nqd3MtSjZpeGRTc1dWSjdORDg1SVE?oc=5",
       "published": "2026-11-03T12:52:09+00:00",
       "source": "Asian Football Confederation (AFC)",
       "description": "Preview: Tractor FC (IRN) v PFC Neftchi (UZB) &nbsp;&nbsp; Asian Football Confederation (AFC)"
+    },
+    {
+      "title": "زنوزی:باز هم توهین بشنوم تراکتور را از زمین خارج می‌کنم - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQdE9PV0UtTUJsbXh0bk9mNTNGQklSSzhZWVdBMTg3SHpWYlJuSy1PMXRJRDVIQWEtSmJQa1N1Nnk5OWZncnJiX0l5WmdPaHQ3cGlYSHR5OVVMTEd0Nk9KMFZmZ3dZQUF6NmRqUDhnSUhlZzFPZG9LWld1VUlOYmJqZ3V1WW1NcTlaOGpaTHl2dkppdE1GcFpIQ19BWGF4MFdhVDdJdWpnakdZY0kzSzlKYThidWJCQ2ozajJ4MmMzeWV3TUFLaXVxbmF6Qno3Zk9WdW40aGdYY0d1RVIzQThCNWg5YktGSlJtSHplbFFJUmZlR2lYWk16M1FESkRLblRCSHdwbHZlcmJpdkFvYzloRkY2c1l0N2JRRHpzYWc0ZEhULThQYmRlSkNZUlJqNjZsWEhXMGRCeGN5NElUU3ktdk5BYVkzc3pxSjhLZVpLN2hzd3o5Mzdyc1RDdjAyY2FEaUlaMzN3aWZfcERYbTJ2bmZnVTdzYjMzczVqRjRVUTlBTDNTU051eUlwUm5reVhZQmZtSmNVeVNmWTRzVTVhQnF5ZWhKYl9Fc0NvckE2TmYzQXh2WEE?oc=5",
+      "published": "2026-11-03T12:45:31+00:00",
+      "source": "vista.ir",
+      "description": "زنوزی:باز هم توهین بشنوم تراکتور را از زمین خارج می‌کنم &nbsp;&nbsp; vista.ir"
     },
     {
       "title": "#ACLElite | Tractor FC (IRN) 2-2 PFC Neftchi (UZB) - Asian Football Confederation (AFC)",
@@ -30,13 +177,6 @@
       "published": "2026-11-02T17:52:27+00:00",
       "source": "Asian Football Confederation (AFC)",
       "description": "MD4: Tractor FC (IRN) v PFC Neftchi (UZB) &nbsp;&nbsp; Asian Football Confederation (AFC)"
-    },
-    {
-      "title": "Tractor Sazi vs Neftchi Fergana Prediction: Cautious Iranians won't keep the match low-scoring - Telecom Asia Sport",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSUFrNFBkM1YxcUtSeFFZSFhuUzZrS1lLZFh3OHkyOF9JYlRjdVZLckJ2ZDdUMm9RZVJpMmhReHJ0OS04MlVoSUxrZ1dqdTZaWVJ3dGNtTnZ3MVdzdWlpT2hrSmNtX0lMckdIVEloQjlQcjJGa0w2TTRaQVh1eE45b2x5bDBsYzFRU3VUZ2tOVnNUNnBxYlBYMjV0QUVJZm9sU2VrSDVXMTFhaW44WEhIWG1SS2k2REFpSlhzVlgyajIyZThidVVsS2JpdmZKWVVKRkhzZjdIQnJkU2c?oc=5",
-      "published": "2026-11-02T14:41:49+00:00",
-      "source": "Telecom Asia Sport",
-      "description": "Tractor Sazi vs Neftchi Fergana Prediction: Cautious Iranians won't keep the match low-scoring &nbsp;&nbsp; Telecom Asia Sport"
     },
     {
       "title": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) - Asian Football Confederation (AFC)",
