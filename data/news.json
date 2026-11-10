@@ -1,134 +1,8 @@
 {
-  "updated_at": "2026-11-09T20:44:30.202755+00:00",
+  "updated_at": "2026-11-10T02:57:30.540061+00:00",
   "source": "Google News RSS; broad Persian and international searches without a fixed date limit",
-  "count": 86,
+  "count": 69,
   "news": [
-    {
-      "title": "گزارش بازی تراکتور و خیبر؛ آقای گل امروز، آقای گل تاریخ! - فوتبال ۳۶۰",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOclV1U1hlbDFicHRQcDVfUFFqbTZMdGxYUTJqa3JPazBFTFFMVDlMZnBaeHBNMnhaVTZac2k1UEMxZ3hIaDJTTG9HR1VhcTFocnViVG9yRnlPandiNWc3aWhEeXVTVmFxbnBHaWp3R1lFX2ZsNGFVNUI2NUNyOEdIVkpIMUpMWkkxVS1JQWtjcXgwVG02cDYxcE9ZUUdPOEtMSW00Qk9hZFRfaGpYOTA3Z2FlbnZSOEZWS2JXQ2wwcDNiN2VxVEY0RnFZYXR6dTVhSGdjeFZZWGVWNTNGWGpCMlMyUENQRUtWQU1ZVEQ0NTJKWFRLay1JQjN5RTU0RzM0SVYwRDk2bUY5dlZhSkVSVkhUSFB1RE9Mem1tTEhWWkNrQjFMejFtY0NEd2xER3dnLUZhd0U3bG5PZmRvbWFOVThXQ1hSZ3VkNkk2LUV6M3ljdDZWeGZadmwxYldtSS0yQXlDeG01WHBRWTJmeXdLdVpqaEEyVUpFakE2c3BzUnJ2T1Eta2pEcENYbFdCQ1lTTks2dE82Tmd4eldXT0MyOVpvNG9qejdCdnlZNVYyQU9pQ21SMnc?oc=5",
-      "published": "2026-11-09T06:54:15+00:00",
-      "source": "فوتبال ۳۶۰",
-      "description": "گزارش بازی تراکتور و خیبر؛ آقای گل امروز، آقای گل تاریخ! &nbsp;&nbsp; فوتبال ۳۶۰"
-    },
-    {
-      "title": "ویدئو | گزارش بازی تراکتور و خیبر؛ آقای گل امروز، آقای گل تا|فوتبال360 - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMiygRBVV95cUxPSTBmZ0VyYTJ2dl9qVkVMeWZIb0Y5eHRTVHEtNl90bUxnTi1fZkpxbVdtYkNlVko2eEtpUlBRcGlSWm54OHNvRTRTaDVCeXlaWVBxNFBmVlJLT0t5OEdwa1hoMHZJN0xmRjJMSGs5Nk81UFl6RzlRdkotUWtlaGU5dzBEQndySWZuUkc1WXA2eTNZOXNSTnphZWE3WlcwWnI4UUxNdGROQ0hiQW5xUjA5Tm9lR1BZckI2MXRXdHlkS1lPTjFwN2dOTjVxUkxhcC1XNDVYNnlSUXZZbWd6d2Z0UnVmVkVtdTNhLXNhR0FUU0EzMzAwRUtka3lZNHRubExjSmZDa3JmTGVBQlR2YXJvM3ZCSHlwaC0xS3J2dF9aNXhYYkF3WmxQYm05U19palYzTXZQZDFyaFYtazdiY2pYNVUyX0NPR1hidFY0MGtGaERLWkY4Q1VrTGIwTGVHV0FtNW5DSk56QmZLYjI0amJGX0hSMTZjQmtrRHozc1VWTlJQcV9zYmZieThjYUx5cmZ0ZE5aaXZVX3hFRTJrWnNURmNwMlNtWTBtd3ZwOEw0b2hkdmdOTThRYUJvdU5ib19QdXV4VXIyZXdMWXllSWEwbUZvN0EwVVZGVUl0VU1LcUptRnVEdmV0MDJkbi1fVjBfZmo0RGtkZG1nQllfa1c0bklDUFI0STNMOHVjQUdZaS0tZjBDRnVqUTJHR2dkV3RqTUVuYmNIWnBHeXRIUkpTLWlsMUhBeXpZeGdqNTZXTzNRN0Vob1BIcjRB?oc=5",
-      "published": "2026-11-09T06:54:15+00:00",
-      "source": "خبرپو",
-      "description": "ویدئو | گزارش بازی تراکتور و خیبر؛ آقای گل امروز، آقای گل تا|فوتبال360 &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "پیروزی تراکتور در باران ورزشگاه یادگار امام تبریز - نورنیوز",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOdzVoa2NfMzkwZjVxbnBCVnUyMDVQWTdKZXh0S3hjYU8zNF9YWVN6Z3M1alU0X0Q0clQ0UWhNMnhseml6SVNXTWNzVVEtaklMTnVvTkVTcDEtSm5VX2tIaEFBQ0d5UFpfR0VmUHlGZzRPOVB4LU9QZkt0LUlTeVhUak8ya2JkU2NqZXFWMlRqVm1PXzFIekFhT2xqVk5ZZFFrU2FiU3NaN0w2RE9KUnlwa3FlcndjRm5aRzFnNVRUX1dTMF80NXQ4Z0Q0a2JJTUdQRmo4YkxsRW1ST0xLX3hGYjBZV3JXQ1A4WHY5c1ZTYnh4eTlmTFJBSDdNbG5WUXZ1QjF2ZGIzM1Q5cGxoRDZjRF9zU01SYlJ1b2VFVDBCYTZtUmNVNFQ1TXZPYlgzaGhtV3M4V1VqeHNLbWhxLVl3d3QtX0k5RE1LdGtETEozWnkwMWVrNzlVaTZ6S3M3bVpwRmtUYXRZNUxOU2lncGo1NGI2VjFGTEhUMzJDRDlMRzB3bEtEbUptQ0N1SmVZNkFzYkN5dUVVSkJZcTF2SFhPbm5STUU?oc=5",
-      "published": "2026-11-07T20:45:25+00:00",
-      "source": "نورنیوز",
-      "description": "پیروزی تراکتور در باران ورزشگاه یادگار امام تبریز &nbsp;&nbsp; نورنیوز"
-    },
-    {
-      "title": "خلاصه بازی تراکتور 2-0 خیبر؛ جواهری به نام حسین‌زاده +ویدیو - حرف مرد",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4VWJyV0twYkFSRm10Z0xKZkJPVjA3dkVsN2xaQmZYRktBeFVDejhuX0VZX3hhRkVQWGtkUVdsMGdxMnhjOE1BeXJuYVFVUjFqOWJrQ0dxYUxwQ3NQV01SX0pSZUQ5cjlP?oc=5",
-      "published": "2026-11-07T19:36:19+00:00",
-      "source": "حرف مرد",
-      "description": "خلاصه بازی تراکتور 2-0 خیبر؛ جواهری به نام حسین‌زاده +ویدیو &nbsp;&nbsp; حرف مرد"
-    },
-    {
-      "title": "ویدیو| خلاصه بازی تراکتور ۲ – خیبر ۰/ بریس حسین‌زاده، دو اخر|پارس فوتبال - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMivgVBVV95cUxOUFZhem0weU9yZW1lUHdGYUNvV0t1QTlhRFJIeDdycWRiX0dsczNvcEJNYVdINnptbTRuMTBucGtzSE1aVTNHZVVvTWdDTnFjYllEM012enlIdi12Rm81WEM1LTEzY25RS1FDS0RwM1lTdFNBM203QW9VeENaazlMVi01ZTJvZU9zRVpUcnE5SXhfczJZUEtoMUlKNEcxdWVZNVU3YkpNeU5PcnFmLWlTRkpGSFY5akdseEQySDVlT25tUHkzcUlxUmdoRFlQMGY5cDVDWkxSR09FaUxfQ2ZQeXc1bUpRLWNfcXhBamlBRHlrekhZSmVJUEV3dE9hR3hwS25IZEp3VVh5ZnV2Q1NKMGgzSXRxem1DSmJhYWFSMk9WNzRQRWgyN04xXzc4Q0VMYlVYcGZZN29jRTZvazZHbFRkQUtpS0pmazI2ODRySGx2Y3RJTk1ydmhDbVhEeGJ0Mm91Mk5JbXYyc3gtU0xMYnpWU052dEhkdVJ1UGFITTJXN1ExV3MyTmtQQUt1MEZqc3ZxeFVWRTZxUFZPSjFrdnR6czAtTU1YcEU4X0xBZ1EzYlRnSWx5dDJmMTRMY2xMam9PYzlScWN6VEhBQ3ZuemNIMk5sREJCMHpHV25zWGpQcktXMUFuSGc5cUNJVDJpdS12VFUyRkx6ai1vaG1kSUV3MWtMTlhROUQ0UklORDgxOC0yTzMtQlNfNDAtcllYWFg1bWY3aVpTRDVWRGVnVl9MUGtjZDdNdzdMWEx4MWR5aExoOElYQ2NCdm9haFZfUDNyWGp1WGlXSVVIem5pUnNFOERxd0hBeUMxOFhqTXdaNzc3LURTTzVWVkF4NUtueVA3LVJ4RldIX1VRSnR4Sk9LSE4tT21oMGdNdXBObGllX2wwRjdrZTlRQXZBcXdMdVNBZEoxU3VPdmhRUlE?oc=5",
-      "published": "2026-11-07T17:10:00+00:00",
-      "source": "خبرپو",
-      "description": "ویدیو| خلاصه بازی تراکتور ۲ – خیبر ۰/ بریس حسین‌زاده، دو اخر|پارس فوتبال &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "ویدیو| خلاصه بازی تراکتور ۲ - خیبر ۰/ بریس حسین‌زاده، دو اخراجی، یک گل مردود! - خبر ورزشی",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU5STWtmVWMtN213WWF2VFdJQjgzN2lHZkRXbXJyeFpMQmFOM2U3WGhvc2Q5OVZGMXliXzZhNHFodzZrcGFFa0RLRGVBcF9ydUF1akFfbUFKcGc1d3c4N2V3dWdpVFo3M0MtcTE2NHpDYWJMMHI4VkJ1eEVDeGNqN3hrdXV3bVJxVzNNd1lITXd1SHFYd3B2UC1UbEtrUzdFczdPczNWNDNXRVN5c0ZheUtsb0NzYVBKYVFRc0pOX3IxUFEwX3JZcmlvWmJrekUtZEkzY3JfcVFGWDZBdllQWkJma3ctd3I0TDhiR0xmTk5ESUYzNGVmbFlyOEtlU0plcDlKdlhhbFQ4WmVfWFJPSUdHbGhDelQtYUNhTVhIZlQzM0U?oc=5",
-      "published": "2026-11-07T16:20:00+00:00",
-      "source": "خبر ورزشی",
-      "description": "ویدیو| خلاصه بازی تراکتور ۲ - خیبر ۰/ بریس حسین‌زاده، دو اخراجی، یک گل مردود! &nbsp;&nbsp; خبر ورزشی"
-    },
-    {
-      "title": "تراکتور با وجود ۱۰ نفره شدن، خیبر را با دو گل شکست داد - vista.ir",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQNHFTSFZlQUpYODRfMHpmLW9Nc0dzVjJmTldVVENoQU8xQU5vRVZyQlNtZWNycDJTMVpwbXNaLXM3bHdfNDJrcVhwaG9wamdQRWhsZnRlNDZIWmtUOHdOZnVYMFNiZlNVZmY2Nmhqb3Mzd1ZwT1l5N0pBOUpraFl5cEUxWUJCYk1QcENGVE1fNnRyZ1F6M3hnN3NQdmh4Um1BQmxEbG9XWW1sRVg0TE5GcFZ3bTVCb0RWckVjV1N4LXdtTVBPQmwzbGRXZ2thUWdrcTY3NnhiMjBvcjZWOFBlOUxrZEFmc0xQZnRPdUNlX0lkaWY1OXVDbkxLajNFLXZQdTlrNkJLUUtRWFpBX19qeDlENkFHLTZORXd1UDk0aWljQUt4VGg2dU9ydDh0VU56SDlJMzVEMzF0X1laS01Jd05yQzl5TnVCYWhWZk1sb1BETjVzaEl4dDZ6U3l5akxIbHQ4WGVTLU40XzY0ekx3ZHVGdTRfakw2TEI1U19lbmhVUEc3eTBZbml5ck5HYWRwQ2dweEU0TklkblhiY0tj?oc=5",
-      "published": "2026-11-07T14:39:45+00:00",
-      "source": "vista.ir",
-      "description": "تراکتور با وجود ۱۰ نفره شدن، خیبر را با دو گل شکست داد &nbsp;&nbsp; vista.ir"
-    },
-    {
-      "title": "نتیجه بازی تراکتور مقابل خیبر - پلیکان مدیا",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qMnBWeFQ5X1lwNlhqaHlLMWpPMm9Dd0s5LTdqZzFCS0hvX2hQUHJLXzFNeGNWMENkYjYyQ01wcnhwNk90d0Y2YzZWTmMwVE9QSVQ2VA?oc=5",
-      "published": "2026-11-07T14:30:03+00:00",
-      "source": "پلیکان مدیا",
-      "description": "نتیجه بازی تراکتور مقابل خیبر &nbsp;&nbsp; پلیکان مدیا"
-    },
-    {
-      "title": "خلاصه بازی تراکتور - خیبر/حواشی و گل‌ها - rouydad24",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPMU94V0pnNE9wV2IzX0N5MDNjalRabGJXZlRVb0Zpc0xxZzVPdGV1TkM1bF9reGVrRkg1SVBVQjd2bU9CSHIwS182b3BKV2pwdFdRUGtPazk4SnhpN1hOOHZtUkp6OWk4SVBNOXdWaHI1ZmlITnFucXF6ckhLTmYxenE4RmYyRTZzOE0zZ25qMTFKazRYN1BwSzh5TFpLcDN1SGRGM1VNZWgzNTJTdkJEYl9aRjZzc2FZNUdEN2pNTld2YWVBNW8yMEFmWUN1UkNVVXJWcDNmM29taWxzbzFza24tcjhIUW1DaHAyR1lOb1pzWHNnQko4TWRHel8tVjJTbElwZ2kxTVlYQ0o4OVphMUttRWt5NlA3MkpGcWJPSjYyVzBUUEo0M3RZa0VJVml3dmdhODI2ckh0Mmt6aXhLMnN4WHhJOGxka05v?oc=5",
-      "published": "2026-11-07T14:20:20+00:00",
-      "source": "rouydad24",
-      "description": "خلاصه بازی تراکتور - خیبر/حواشی و گل‌ها &nbsp;&nbsp; rouydad24"
-    },
-    {
-      "title": "نتیجه بازی تراکتور و خیبر امروز شنبه ۱۶ آبان - صفحه اقتصاد",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxNSHdUWUpfR1FKczcwRUFBQ3ZMdFdYVEhMY085TXlhd2x4dFNSR3VSOW84ZlRaUVBpWFNEdHJrRHJscG9rWDNJbE5OckRvZno5UUlpcHZlTkFFNWdnWlVsSHVVRU05bS02TFVoXzFDR3k3dkI0cjAtdTltQVg4d0U5U1dsNFlaOU9pWUc4Qlc2M1JGMG5NYWlKZVQ3My1OdDA4cjlwZFlRWXdWeWdhUEYtVE54S3hVNDRYQzh3RnMxYmwyUUlDNkdISFozUzh2OUhVbjRBdVlpMWJxTHNQRXBzd2VwQWtHM3BKbkg1ZG5hUTI2b0ltX2dIWTdvQW9wLTIwNTltZTY0SFFNZFJMd0ZhS1lIdFlTZG9qYXpsNzZxNUI5UElsY19Qc2xFdzc2SnVBQndlaHh2UFN4emJqOGliWnpSWEl5S3I5SkEwcmtXbWpaYnZPQnNkZTdtTE1qV19KbTgzY0VVbGFkSTZHRmt3MjVTVlRsOTRBWVFJcV9yeVAyQ0lEVTJna29KMkYyaDhjZElxRWhrbU5INXlUZmc?oc=5",
-      "published": "2026-11-07T14:15:05+00:00",
-      "source": "صفحه اقتصاد",
-      "description": "نتیجه بازی تراکتور و خیبر امروز شنبه ۱۶ آبان &nbsp;&nbsp; صفحه اقتصاد"
-    },
-    {
-      "title": "خلاصه بازی تراکتور ۲ - ۰ خیبر خرم آباد | لیگ برتر ایران هفته ۱۲ - صبح فوتبالی",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPV1lXTFZMMlJ3VXBiX21RVk05T3lsdUVUTjV5N2Q0Q0d2a00wWXRucXBEVWs0eHZGVVNTNV9MZVFBcktYUkdZckpPOHl3VXJzMFRKU0hJaDZVMVVTTDBlbnBwMHZXbkxiTnMwV1UzNWdjNE9ZZDBlcHVkeVNRS1VPdU90TlJKMnZmVzFkMGVTU1NTekRIV0Z1Nzhxc0hpdXkzMHZ6XzJiZ193LW1EVXdEZDZfMUNnNk15eU1jb1lySHcwc3d1MHVMSmd6TEw3TFMyckZzWk02YzdvQlJXQlhOUVhVR1FnQmhfZkczaDlVUHAweW1tdUg5b3lCRmVydFh4Z2EtZmQyclU1aDRwVkRndzgxMjZaX3VBVHRXbTZFbjR0NWFxMTZoQmVYc3phMUJzRnN2RlBGSUxWcUFqZjB2Ul9ZLXpXbDBIblFoeE5ac2xQbHJEWFRKZ3Y5WmZkTkJXZF9lTVlJMVhaWEVUSTFLLXpvUEhocWJEU3lsUDIyMG9vd21lNjdjU19ITVc0MEttckNCRmRNWDJuUENPRHNTdTJHeHM4ek9yODVvWDY3M1FzbFZHZzZGZmp3TmNTeUk?oc=5",
-      "published": "2026-11-07T14:10:22+00:00",
-      "source": "صبح فوتبالی",
-      "description": "خلاصه بازی تراکتور ۲ - ۰ خیبر خرم آباد | لیگ برتر ایران هفته ۱۲ &nbsp;&nbsp; صبح فوتبالی"
-    },
-    {
-      "title": "خلاصه بازی تراکتور مقابل خیبر خرم آباد (ویدئو)|نواندیش - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNRTJVNVYtTmxIVUh1OTJkbzdTOFNtNHQzNVlCM1ZQbTVlbEtmNFgwU3Q4NktMZGJ0YXdQZTVMLUtVdXhJT0hIT2V5ZnBHRTl4TVZWVndXa1ZmYnRxbUJaUUZDbnM0YThfSy1jSXgtaXhKamxSLTNqWURqNkd5bFpWcVdrUFlKWkltLWVvWTJ4OGlqRTdwMjc1bnc0T2FmQnI2V3RBdy1ZeFc2VTZrV2RJU1o3dGx6SnFSR21KeGZOSHhpaDRvbkdGVS1uRTRzd1IzM1l4SXRnaG5TVkNFaWdYM3p4VVZFMDl6a1Z6alRyVzhScnZKbHdMUzFZN2xsUm5RSjE5SWRXZWozZWJkMmw1cFRVeGdlc293UG95bVUxLWpYdHZWOFFENEYwSHR0TVNweEI0S2J5LWN4SDEzYWdhYVFjM0VzTEQ3bVhidnNOdHgya0ZGSzVlaDh5Q1dRenh4YXdKV0s2eFpQZFRERUk1aUc0NHdFLXM0U1ZNOE1XR0NUSU5XSktSUk1VNnI3dEw2LTNhM3c4d0xDWl84bW5fT25OOVJYcFRZX1dyYW5IT2NBUTU3UHVPNXBnTDlscjZaN3lhYno3UTJuQnBNOUo0RjZTUlQtbFZRaEh2b0NPOE9LRXRUajJBUlNaQQ?oc=5",
-      "published": "2026-11-07T14:06:02+00:00",
-      "source": "خبرپو",
-      "description": "خلاصه بازی تراکتور مقابل خیبر خرم آباد (ویدئو)|نواندیش &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "گل دوم تراکتور به خیبر اعلام شد|شرق - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQUmdHdVdhZERuSUQ2U25fNWpZd2F0ZV85cFlPTFRjNUpFek94SmRwNjdMSkloZl9jU080TlNVQ2JvWWw0Q0NaT0pETkZGV1lIYzVvTThoSUM4eXJhTW1BWmtNYURzVUJ2LUhEWmN4MWItNUUzWGtwVlZocG1tSkNYeEJRZHZxM3N6emk5Y0R5Q2hwcnVRQUFRSW9iUF9qTWZjRFBsOGhuR25RaGxQZmMtVDIzbHpaNDFYSnhvbFdHbVBvRUwzRkJVRnEyMXk0bFdTWFU2Xzk1SkcteDN6VmtKRk5VeFlKampBaFQxazZoX2tRUjBkMUJZWWlCR2NWNzV5cU9tQzdMSkNxZ05iMkVCMTY4VERlb3E2RndnZzE0bUs4TzNOZFRNN0hOSnpYOVIyb2I1UDdHVmpqNFpXbWpIcDhFSS1SUXVqY0U0djBFV0ppbkNYSHFzclJmVFYxUWdQMGJId0NIWQ?oc=5",
-      "published": "2026-11-07T13:34:32+00:00",
-      "source": "خبرپو",
-      "description": "گل دوم تراکتور به خیبر اعلام شد|شرق &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "گل دوم تراکتور به خیبر را ببینید + ویدیو - شرق",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQMVdXbk5aaEJaV29tRWdoOHRhUWhaNjc1ZzBTYkxQT0Rwb3lwNFRXYVpxT0dmY0l2YU92aVl4UnprUVRkSGJabjhvTWMzSUlPQjFlS1BOdlZmcjF2WVdILUtvbUhMTjhnWEd6OW80bnpGY011bDFaZVlSX0c4c1RQcGVUZ2UtVlozTXdoZElGU0puY3VhaURXMEVaNVdHZnJ4cU5fcjFwakNMQTlTMUlNdVpSeTBaY0M1N0pYNWs2U3QyS3lieDY5RHEtTEdQVUpqNi16MUZCMFllRnNkWUlBVjNmYWNfYUppS0VSajJpU29TT0ZrTDZPVzVjSVVNcWVNcVBIY2Z2RHo1aVlFX3RDVkV3MjlQcDVCTzBnMklpTWV0OUNqVG9YRUJRbDRnSXRkaFIyNEwzNU1iSmU5THNWVTlCSTAzS3pQM2NxaV93RUQxZERWT2x1SGt4d0NxSVU0SGUyQzhTN1NrR2VIM2U4MlI5T1BUR2EwZy1iM2NmLTdIRnhjV1I0MmZUb0s?oc=5",
-      "published": "2026-11-07T13:34:32+00:00",
-      "source": "شرق",
-      "description": "گل دوم تراکتور به خیبر را ببینید + ویدیو &nbsp;&nbsp; شرق"
-    },
-    {
-      "title": "گل دوم تراکتور به خیبر خرم آباد توسط حسین زاده - صبح فوتبالی",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONlM1UzVoSFloZVRGX3IyM0VCSWpISmVzTmc4ajNYN0REaEpsOVVCbktrTEVxTE01c2tuTVNzUW15dk1ydklXeFp3STdaMnFBZU0xUkItVDUwU0lFd2l3UENGX2NTM09BTi1pbDU0YkxOeGI2N1hsejQtdFNsbS1BQ0dlTDBzcG94MF9WXzBJRzYtcl9Ga212dGRub0x1Mm13S3RfaVVyRUpfbGtpV0hhZHg3UzFVaG9kRUtSRXNvSGkxdDNOeXRIcXFxcndjOW9kUFpRUm91QkFORmpLZ0thZUJhY3N4MERNaEllTC1wVHY0REZpN09tZ0kxdWo0VDNLTkhRZTQ2MFVicmVNdllRNFZ0X1doLVdZQTB5cGpCUUNoY2VmUmFXTTNQQV9lZGhJaTBTeGY0eTF4MmliZlk2dHQzcnBsU3czaHk2MUJYUEdleWY5SGFhbndXTXM5RURFajI0STJtaXdvOVJsREdrTHFHNnJDaV9URElyTldjeTJOMGMyVmc?oc=5",
-      "published": "2026-11-07T13:28:52+00:00",
-      "source": "صبح فوتبالی",
-      "description": "گل دوم تراکتور به خیبر خرم آباد توسط حسین زاده &nbsp;&nbsp; صبح فوتبالی"
-    },
-    {
-      "title": "برتری یک نیمه‌ای تراکتور مقابل خیبر - تسنیم",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVm1iOGFGNjU3SktSUW9LcGNyczJiaHROX290RkJMbFpMMERUY1c2OEx5VEl3MENzQ2tlQ0RzTjV1TTFjWnFUUFlzQ2I3WnhpSzlTcUhSejN0cTVjWUdkSU4yV3dhZUlpMWZPUjFnMGY5ZmdPb3RQUzJJU2xxRXlsZXREYlZtUzBzTnhCSUlsNFlveUNWNlZxR3dSZFVzaGRNeWQ4aFdkZWRYUWU3bk9JS0pNRTV0bWdZXzQ1VDY4Y21pYnZpRW8xX2FtN0RxR3ZnRE9YWGFKLTNUUk9ucU9FUXlxWTc5bzdSWk1kZzBxQ2hNSW55a2RPVkdhcktIUHVhcEpUQnpHOUNGLW9kWTZJMlNVTS1MNFMtT29VZjFIVkVwbE1XYW1KblExRklLSFg4WHVja0tIb1l4ZTNfNEpQOHROY2pSQVR1cDdsb1FTaUdlRmvSAdgCQVVfeXFMTnZPZmdVUUtxVExBQml2Tl9CSWFVR2ZCQU93X2ZkMzUtOUV1Uk5fMWZYRUxDNF9fZFNHeS03YWp3M21rTFpRZk9BVW9ud0lleEFMeEt0RnVGM0xDOVVXdEFMY3Noa2VVa01EZUpldEpsSHhtLXRZM0NraExUQ1h0MG5yMkpqMlZORkZYY3lZOXJWa09VVFBKNUF3OVlEVTVUTlJuM1JQNk9WNllSclpjSGR3emZRWHItX2V6LXE3bUxFUVRiZ2g2VkJ3QUtoQTZrOTJ0aVBaUWh0S3NzOW5DbDZhRUpKVWxhdkw3ZG0yLTNNVWxCOGUwYWotTjBkc1IxbHdZZE5ZVFdhV2twWGI5ek9jYkN5VWpyTTRQdTBlbFNJTHFrenhzbVJMakxUMk5BcFBIQXlBbk9GWUZIdVFDLTc5V2lkc1ZDRmw2RGZ5T3BfWUIyb3Zlbkg?oc=5",
-      "published": "2026-11-07T13:08:57+00:00",
-      "source": "تسنیم",
-      "description": "برتری یک نیمه‌ای تراکتور مقابل خیبر &nbsp;&nbsp; تسنیم"
-    },
-    {
-      "title": "گل اول تراکتور به خیبر را ببینید + ویدیو - پلیکان مدیا",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvNHJaRXVVUjgzZUZKbHZzcVNnZWJFQi1SUlNFOVhXNHBleElldlVmaTM5R09SUUNuMkVXVmQ3ZTFLYUN6a0F2Zk9iQThTdURoNUNVNA?oc=5",
-      "published": "2026-11-07T12:44:07+00:00",
-      "source": "پلیکان مدیا",
-      "description": "گل اول تراکتور به خیبر را ببینید + ویدیو &nbsp;&nbsp; پلیکان مدیا"
-    },
-    {
-      "title": "بازی تراکتور و خیبر امروز در تبریز برگزار می‌شود │ ترکیب احتمالی دو تیم و آخرین وضعیت بازیکنان برای نبرد مهم لیگ برتر - نبض قیمت",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNUHVXZktrdWlBcUdCOUdIUTN4QkJEZGRSVkxQX2JFYVNCTHNsaHJVbHlKS3Vidm5FNVBOREFET0Z3MFozWW5PUk84U0tRX04wOWx0Qk5UUFBtMmpfY243ZkUxMllLTmo4VFRjTkhmYWY3d3pmMG5SRjdvZlZpNmdFc2FNRUhHVHd5NmdQUUk2WnhRZWl0aTFfUXBDUVBOdXhTRkZhdkdCanF5MkJOREowQ3EwT19BcFM5U0ZncFdWdDdZRkwwUmtWRXVzeVJvbVNLcllYODlOYjhJU3hjVkVTWEJtZkE4d0JxZzY4VTlZZmwxWFdTMHp5SEVwQ0I1UWFrbmo0SmNSYmJSVGxWNUw1bWdHYjJvZElIdk15MjJCU2NpdXcwd0tFSXFkQ19IMVZsZS04SG1MdmtxY0ljMzhncA?oc=5",
-      "published": "2026-11-07T10:26:42+00:00",
-      "source": "نبض قیمت",
-      "description": "بازی تراکتور و خیبر امروز در تبریز برگزار می‌شود │ ترکیب احتمالی دو تیم و آخرین وضعیت بازیکنان برای نبرد مهم لیگ برتر &nbsp;&nbsp; نبض قیمت"
-    },
     {
       "title": "MD4: Tractor FC (IRN) 2-2 PFC Neftchi (UZB) - Asian Football Confederation (AFC)",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGk3RDNSa2R6YnJDaGNwZEZXYUlfNE1fcmQ0M0hmdDRSNkdiWlB5U0FVVFlreWJwSTlub3pmeXBya0JuYTdKNlc0NFJGUUdjYXFVOWJNekp5UVZGM1BUampxZHo4TWwyUGdHWC1RRWZQWG1mSDdVSzhXcGR2YjZBTWJsNTZFVmdjX0RORlVGRFJLaUVaeVd2cHNXTElGYnRtRVN1QWVkdnZuZ1E?oc=5",
@@ -179,13 +53,6 @@
       "description": "AFC Champions League Elite: Al Ain beats Tractor FC to maintain perfect start; Title holder Al Ahli edges past Al Gharafa &nbsp;&nbsp; Sportstar"
     },
     {
-      "title": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) - AFC Official Website",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTQzVm9FU1BIVXlMc1hYWGxCSUVqbGhWek5BYXFIOWhQUnJ1ZFVWdndDd1RxWHBlYXUwNHhQOE15TDVnaE9VX21TX0plTWY0bnRLMGpubndQclJOOHZFTXpCenNqWEk4bTlxc01WSW9NUld0Q2JYXy1KNDg4UTcxRzAyWWlwd3hTeEVTaFJfamdrSk1XTFZ1dlBaeDh3VFkzMXRPRVZHdl9UdTg?oc=5",
-      "published": "2026-10-27T07:00:00+00:00",
-      "source": "AFC Official Website",
-      "description": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) &nbsp;&nbsp; AFC Official Website"
-    },
-    {
       "title": "#ACLElite | Al Ain FC (UAE) 2-1 Tractor FC (IRN) - AFC Official Website",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGwyNjlENm5wd19rYjFYOGF6cHkwVmtjOHNpUkNwVnlqYzRlU0lIdWR5MmMwWFBpT3lsTGRHQ2Ztc1JUVTlnV01fa2l0UC1udzA5Y2ZiLWtKdWd5SjlLd05tZjJVTkZJbXVGdm9NLUQxSjVtNkpTbUw1enRUSzh4cV9qaDZSQnhad1J1dVNXTU45aVA5RVJNZmJoZEVtZ1BleEZpUGFNbzFWTG1CbGo1XzRsMVA2Zw?oc=5",
       "published": "2026-10-27T06:00:02+00:00",
@@ -198,6 +65,13 @@
       "published": "2026-10-26T17:50:32+00:00",
       "source": "AFC Official Website",
       "description": "MD3: Al Ain FC (UAE) v Tractor FC (IRN) &nbsp;&nbsp; AFC Official Website"
+    },
+    {
+      "title": "AFC Champions League Elite - Preview: Al Ain FC (UAE) v Tractor FC (IRN) - Asian Football Confederation (AFC)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTQzVm9FU1BIVXlMc1hYWGxCSUVqbGhWek5BYXFIOWhQUnJ1ZFVWdndDd1RxWHBlYXUwNHhQOE15TDVnaE9VX21TX0plTWY0bnRLMGpubndQclJOOHZFTXpCenNqWEk4bTlxc01WSW9NUld0Q2JYXy1KNDg4UTcxRzAyWWlwd3hTeEVTaFJfamdrSk1XTFZ1dlBaeDh3VFkzMXRPRVZHdl9UdTg?oc=5",
+      "published": "2026-10-25T09:09:37+00:00",
+      "source": "Asian Football Confederation (AFC)",
+      "description": "AFC Champions League Elite - Preview: Al Ain FC (UAE) v Tractor FC (IRN) &nbsp;&nbsp; Asian Football Confederation (AFC)"
     },
     {
       "title": "MD2: Tractor FC (IRN) 0-0 Al Shamal SC (QAT) - Asian Football Confederation (AFC)",
@@ -214,13 +88,6 @@
       "description": "Tractor Sazi FC - Sanat Naft FC, - Azadegan League - Match sheet &nbsp;&nbsp; Transfermarkt"
     },
     {
-      "title": "Esteghlal Khuzestan vs Tractor FC live score, H2H and lineups - Sofascore",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDkzVVBuWXZWSWFSZjkxeTVWTE9BNzhxUmM0ZnJ4eFdsalFUcHc1SVlBRFpEa0ZNVml2bkdGSGlQeWNPMnRpZnZna2lkdWw4MXFxMldLenpDSGE2MDJ0SVFLUHJFeGZRblR0QUFEN3V1bG9feTBFdDRuem1teXdsMXZ2UjBsZw?oc=5",
-      "published": "2026-10-09T07:00:00+00:00",
-      "source": "Sofascore",
-      "description": "Esteghlal Khuzestan vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
-    },
-    {
       "title": "MD1: Shabab Al Ahli (UAE) 1-0 Tractor FC (IRN) - Asian Football Confederation (AFC)",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmdZTVpjcDBqbF9FaXJnTlVBYThJMU82Q2VxalVQS05pYkpNZHhQTDBCZHpyZzZyZHZxai1YelFibmlBUzV2cEpRVTdvQ091dW90d1dUZFhoa0dxTEthRlBibnkxZ1huZlM4aGNqY1pVdUR1Qk5tN1ZyNFJYZ2RfdjRrRkNmM0haX3gyU3h4bnFPaExBLXNoMS1QczVPS2NSLVV5dk5UYm43c3hZWHNn?oc=5",
       "published": "2026-09-28T07:00:00+00:00",
@@ -235,6 +102,13 @@
       "description": "Preview: Shabab Al Ahli (UAE) v Tractor FC (IRN) &nbsp;&nbsp; AFC Official Website"
     },
     {
+      "title": "Shabab Al-Ahli Dubai vs Tractor FC live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemNMZlBRMWtjRmpHbU42MGpZeW5hXzNXaW1UaUxLVF90NE5LWDVGVmUwTzVoSm0xUUZvell5Zndnb1hncUszRFk0ZmdQT1hrZnROTzY2T01aTGZEaTllSUtWemJGLXNMb21JMm43emIwUUpMcnFuazkyQjNfdFpRd3lZZ2x4Sjl5?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "Sofascore",
+      "description": "Shabab Al-Ahli Dubai vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
       "title": "Tractor FC 0 - 0 Al Shamal (12/10) - Match Report - 365Scores",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnNQd08zUVctOHZkbllpTTdBYV9MTXFkN1AwWG1Gbm5SclBhQzZObnlrcDdIZ0didzZUeERZN0NTclZCWUlNS2dfSzh6bHllbE52TGI1eHBROXgyS1IydnFFN3otWGFFaGc3MmxXV3Z3ZE5HVm5IUWlwTHRjQ3JKZ1JKQzJaSVZpdnRmeVRidVRrdFptaUhrRlRjcUxJZnpYN1V2Mzl0RHFnQQ?oc=5",
       "published": "2026-08-18T19:48:17+00:00",
@@ -242,11 +116,25 @@
       "description": "Tractor FC 0 - 0 Al Shamal (12/10) - Match Report &nbsp;&nbsp; 365Scores"
     },
     {
+      "title": "Tractor FC vs Paykan live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBNExkWWtUcWxyU2dTRDRJVFlJQlFOX2xzZnRuZzZWcHZPLXdRVEhybXpKdlFYUklvSXJ0MHdrc3hSZzJhcVJYUi1tOWNlR20wdmlPUGhwZ3NQanN1Nkh5bVVIYkVPN25LMmdiMWFaN29mU2F5?oc=5",
+      "published": "2026-08-14T07:00:00+00:00",
+      "source": "Sofascore",
+      "description": "Tractor FC vs Paykan live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
       "title": "Al Sadd beat Tractor FC in AFC Champions League Elite - دوري نجوم قطر",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HRlBIOVJmdjZiMUhtX3ZSRl9rOF83NVA3OXl1MUxMLXpRdk1rSmJXd1dobEM5QmRCVE1mSm9yOGJlWEIwUjdsRXBPb2d3UlhHcDFTTnNtd3NfemtzeE40UUdoc1dqNDFMMmpwMm5SZEY4WWtOT05SWUdKOEFJUQ?oc=5",
       "published": "2026-06-09T03:47:36+00:00",
       "source": "دوري نجوم قطر",
       "description": "Al Sadd beat Tractor FC in AFC Champions League Elite &nbsp;&nbsp; دوري نجوم قطر"
+    },
+    {
+      "title": "Tractor FC vs Gol Gohar Sirjan live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM25FUWszNVYwSEFIWGhmY0NpZmZYSXdpcW9YWVluUmdWSVEyQk5fbjJxQlcyZ3UxODloMTlxVzB4eVNjNkhuQXRSeXI2N1JJZTRjUzZ1d1NKbjc1SFRyUmJjcEtxdHZybDNEdlNod0hEVUFJd2JCTmJrLTlGb0g4SmdoSQ?oc=5",
+      "published": "2026-05-09T07:00:00+00:00",
+      "source": "Sofascore",
+      "description": "Tractor FC vs Gol Gohar Sirjan live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
       "title": "R16: Tractor FC (IRN) 0-3 Shabab Al Ahli (UAE) - Asian Football Confederation (AFC)",
@@ -590,13 +478,6 @@
       "published": "2018-01-16T08:00:00+00:00",
       "source": "Tehran Times",
       "description": "Turkish coach Ersun Yanal linked with Iran’s Tractor Sazi &nbsp;&nbsp; Tehran Times"
-    },
-    {
-      "title": "Karrar Jassim returns to Tractor Sazi - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcGl1V3JQVWxXajhzUUtFaEk0TnMtOXBzMXFXY1c5d245YXM1dVF0VTNxQS0zQXFWa1VwdUtvbzVfRUdDZjBXNm1zNU9zNGRvdGcxTjVfaWowNC1KNWFjRC1CTlpFbURFNnI2UXZSV2owcU8wdVVaSzQ2dm1OWEVxWVhJNA?oc=5",
-      "published": "2016-06-22T07:00:00+00:00",
-      "source": "Tehran Times",
-      "description": "Karrar Jassim returns to Tractor Sazi &nbsp;&nbsp; Tehran Times"
     },
     {
       "title": "Tractor Sazi defeats Pakhtakor in Tabriz - Mehr News Agency",
