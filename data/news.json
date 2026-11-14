@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-14T13:48:59.306511+00:00",
+  "updated_at": "2026-11-14T19:11:08.955912+00:00",
   "source": "Google News RSS; broad Persian and international searches without a fixed date limit",
-  "count": 73,
+  "count": 76,
   "news": [
-    {
-      "title": "تراکتور نکونام قربانی تغییر نسل قلعه‌نویی؛ فیفا دی به سود تبریزی‌ها! - vista.ir",
-      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxNM0o2TmlkTlptVk12Yzk0M2M4MmZQa3F2RV9FQThnQTQxbEpHbEFkS012RldKam40RXM4VUN5UlgwU09rRGhNamM5R013VzQxcFFwTDJiLVBIUkw1dlZzRGoyeUpuN3hPcWk2VkcxNmJqNUxjbVp3Z0F0UTdOMmM1SUlSTG92T0REbU1WdjhHRWZhaS1xS0VZVmk0SHlxU3dmYXZtdDg5UmJveFNSaUVlXzBTeUJYRWFnTVFCQUxJTnNnNVBUdkktQmNSRlg5bEF1amJLVkVwNGJzWi1HTjVNNG9WTmhnX0ZGZThqWnpaT1R1cTBDS2FoTWVxQ281cUlCMEtTc1FhMDRWRW1fZHo0NjN4bFJDVWlGNUlTenVydXVCUVR2enpKaUdFZ3hVVHRqeDFHYmNIZHl4aWFfc1VhYlUxTGJGcTRPOFZ6ZVpxaGI1TkZra3lnRlYwbURndDRHN01pc2lvR3NvUnJ1YWJBYzBHTEt1RENvNlRLb2hRU1lsSzlfN2tzVk0zNVVYd0NJbmdvNXF3bjRJZDFhYkVRYmR6cEYzd3lTLVZ5S3JLWDdXNF84V3hVV241cGJ6WTRhMF91NVd5WHIydU5MUFRKZHdvUGxSZ2RqdUVtWUF5QUNhSEZYSjE5S3ZwbS10MjVVLXctemtkZVd5dFVPNmZBbG14cUl2aDVvd0hzbEhraw?oc=5",
-      "published": "2026-11-14T12:52:02+00:00",
-      "source": "vista.ir",
-      "description": "تراکتور نکونام قربانی تغییر نسل قلعه‌نویی؛ فیفا دی به سود تبریزی‌ها! &nbsp;&nbsp; vista.ir"
-    },
     {
       "title": "رکورد خاص تراکتورِ نکونام در خانه - vista.ir",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRkIwelpDSDdMUGNEUGIxQkg4RHNXRThqcExWM3hBNk9uVVBhbFQ2dUNNVTcyTjlySzhUREhFYmtVVVZRV0RwQ2JtSDhKNU5YR21ucHM3RDEwSzk2NnA3cGZUUDhZRkFxckRPWUszZnppa0s1UXF0UnNHZHFUOHpKdUtXc2NNRjFPRlNJSjRlaHZQMTRwMlZaZ3RNTjAxVDU5azBlOWFZOThyS3VTa1hWSGJvMXl3U2N5T2tibHd6Uml1SWFUaVlURzdad0pPdW9nbndpai1Xem1xTTBoQ2M2cGpBY3lMRnJTcGpCaHg0SkI0OFBhVWhWX1lhX2tMV3BIcm5lMTgwNnU1T3ZEOUhJRjd0MEpBeEg2cFlTWUlWWk5EZ3dzcTYtdWk4dVJzZw?oc=5",
       "published": "2026-11-11T20:40:04+00:00",
       "source": "vista.ir",
       "description": "رکورد خاص تراکتورِ نکونام در خانه &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "Mes Shahr Babak vs Tractor FC live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGQ2ZklfZE9YdXdlWjdDajVBNF9YRm1IMkVzV1BYRm1OUUthV0ZUcFVhX2hXck05cVhGeExJNjRINkkwS1ZBUnFLanFVdk8yZEV4ek5MemZFT19feTRQRXNwaHM4Y09EMURuSDdmd1BaZEs1RVZ2TFZnNW54RTRENzlR?oc=5",
+      "published": "2026-11-09T04:21:14+00:00",
+      "source": "Sofascore",
+      "description": "Mes Shahr Babak vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
       "title": "MD4: Tractor FC (IRN) 2-2 PFC Neftchi (UZB) - The AFC",
@@ -130,6 +130,13 @@
       "description": "MD1: Shabab Al Ahli (UAE) 1-0 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
     },
     {
+      "title": "Shabab Al-Ahli Dubai vs Tractor FC live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemNMZlBRMWtjRmpHbU42MGpZeW5hXzNXaW1UaUxLVF90NE5LWDVGVmUwTzVoSm0xUUZvell5Zndnb1hncUszRFk0ZmdQT1hrZnROTzY2T01aTGZEaTllSUtWemJGLXNMb21JMm43emIwUUpMcnFuazkyQjNfdFpRd3lZZ2x4Sjl5?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "Sofascore",
+      "description": "Shabab Al-Ahli Dubai vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
       "title": "Preview: Shabab Al Ahli (UAE) v Tractor FC (IRN) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUkwbTJIX2h1RGdJd3NFNW4taTFFT0c3T09XN2M2ZXpIWWdLWEJQS0tpSlhMakVvMWJ2Z1lfSkw4UGgxLVNvX0dyUktzMU5MTldxUzNwWFBkeWE0UEpaYjNMY3p3NFF1SmhxLTZIRTI1UGtCNHdmOU1pOTczWmE3MUYtcWdEWmdmaUN5bFRITlY5UHB4aEs0ZDdvd3RXLVBtaFlYeGp2WDlaa3RDbDVkVFJzRHhmeGpLbkQ4?oc=5",
       "published": "2026-09-13T07:00:00+00:00",
@@ -221,6 +228,13 @@
       "description": "Asian Champions League quarterfinal sends Iran’s Tractor FC to Saudi Arabia &nbsp;&nbsp; Al Jazeera"
     },
     {
+      "title": "Iran's Tractor FC in contention for Asian Champions League Elite quarterfinals in Jeddah - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFRpd0RJeUdRNE01aHY3VWlFOHZJV01LRk1OVTRjQXU4M3VsT0JjZDN3V21zQ1I5LXprYmhpLTM0TkZqV3oxdlo0aktFczAtYm9peEpGZV9ZYUNZVkFhRzBmTVRrREtfOEh4bXJXSGxkVVpkeVcyRTdOU0d5TXZrbmVzeDZvQW40NEhUR2hZUlhicVNLTXIyU2FQY0dMOUZFWDFCV3plOENQV0tYZmxuZ3RDblpIaEplY0czd2ZvUGpNQUU0NGpXUQ?oc=5",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": "FOX Sports",
+      "description": "Iran's Tractor FC in contention for Asian Champions League Elite quarterfinals in Jeddah &nbsp;&nbsp; FOX Sports"
+    },
+    {
       "title": "Iran’s Tractor FC in contention for Asian Champions League Elite quarterfinals in Jeddah - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMEw3Y3JkdGZMb1I2SnBUSHBTOTdJejRfYnEyODNnQy1SakxpM3U5empDTm9vQVNyRzdGVG1UN1NFUXdCcVoyaWR3YVdHeTNfbHRlTU9lYkoyc0dwYUlaV0JHVlZQdm5TNTlyZU1jM0hFNzNrMW9ZekhrX3huV19OMktfX0I3cGV6TTVnbFJLR3JLUkt2WE5vRlhudlVNbGIwbGJBZ2MyYUl3QQ?oc=5",
       "published": "2026-03-25T07:00:00+00:00",
@@ -249,6 +263,13 @@
       "description": "Preview: Al Gharafa SC (QAT) v Tractor FC (IRN) &nbsp;&nbsp; The AFC"
     },
     {
+      "title": "Tractor FC vs Neftchi Fergana live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0VPZFhtY1RnMlpXMURoMXhLUlFwWFZkd1NhbEtXWWcyNzg4WHUzSU5uUDNxNi1LWTFiU1JnYmNtUGZtdDFGeHJ6eW42M0VUZTRMb1g4dkw0YjJUaE9NekY3eUpOcnlNYXlYS1J3M3ZSOW9MV3NUR2pacTl5WGJOMA?oc=5",
+      "published": "2026-02-11T08:00:00+00:00",
+      "source": "Sofascore",
+      "description": "Tractor FC vs Neftchi Fergana live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
       "title": "MD7: Tractor FC (IRN) 0-2 Al Sadd SC (QAT) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmlWZ19HWjJqb0VrT1NZVW1ldGVYZFMzV0toc3dObURFQ1hheW5sTjU5RXhDX09GemhPS2pKWXRVM0VXOFhhQjJrSEhVcUZ3SnBDTzh6dUgyeTNaNWtFb3k2WEh0RkxpM3Btb2NubW80SGVsSVI4ZzRnNnJQcGVJUEozcDIxOE5tY3Z4U0piQ09GMUhBYjQwNkgzck1ZZWQtX3I0VURPZzJyZw?oc=5",
       "published": "2026-02-11T08:00:00+00:00",
@@ -263,11 +284,11 @@
       "description": "Preview: Tractor FC (IRN) v Al Sadd SC (QAT) &nbsp;&nbsp; Asian Football Confederation (AFC)"
     },
     {
-      "title": "MD6: Tractor FC (IRN) 2-1 Al Duhail SC (QAT) - Asian Football Confederation (AFC)",
+      "title": "MD6: Tractor FC (IRN) 2-1 Al Duhail SC (QAT) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1FUbTJLa1ZSTnZ2SzJFRGMwWjNMVDk0UUYwTjZHRUFyMTRaYWJjdDNRblRUdTRuXzBSbTlXczNtRjNTd1dKdGFyLU1UcEJhNUJuTndGaFBJRmJCcnVtZ2FLVHVMNHpYcWhPMFhBY29BWmdZaWlJQTRvZUR0aXROTDBFdEVDNVhoOXE0S09hQmhHUEJPYnQxbmI5VGxYV1ZoNkU3eU5qbWIwSjFO?oc=5",
       "published": "2025-12-23T08:00:00+00:00",
-      "source": "Asian Football Confederation (AFC)",
-      "description": "MD6: Tractor FC (IRN) 2-1 Al Duhail SC (QAT) &nbsp;&nbsp; Asian Football Confederation (AFC)"
+      "source": "The AFC",
+      "description": "MD6: Tractor FC (IRN) 2-1 Al Duhail SC (QAT) &nbsp;&nbsp; The AFC"
     },
     {
       "title": "Preview: Tractor FC (IRN) v Al Duhail SC (QAT) - The AFC",
@@ -410,13 +431,6 @@
       "description": "Al-Gharafa vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
-      "title": "Pakhtakor Tashkent vs Tractor FC live score, H2H and lineups - Sofascore",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSm92dlNOaE5XbVE3MXV6aW1UQ1ZVdzlGbG5pcHFDWXZqNkhya1hyWWQ5eWhodTJjLVBCX1ZnSW1jeEVTTWZLQXpxWmFIeWstT1FKR0JKcTFMcC1tc1NNM1dobmdsZ3NsTlpJc0RtdTl2dURmMEQ0NnpvZEhBYWJYY0ZyOWI?oc=5",
-      "published": "2024-07-17T15:03:04+00:00",
-      "source": "Sofascore",
-      "description": "Pakhtakor Tashkent vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
-    },
-    {
       "title": "Tractor FC - Club profile 23/24 - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3dBd3h2SEtYYTV4VFZzcE02U3dvMER0RWZGN3B4OTlYRUxlNFliVmRIdloxdmZzX3V3cklyc3B4SlBPODE4LU1ab3NfTXlwNnY4MEw4Y3VlM21WY3FKU3dwQjhIZGFZclVzeG9jeHJMOTBra0ExODI0V1NuVVhUcWhTOWF2QQ?oc=5",
       "published": "2023-05-17T15:54:24+00:00",
@@ -506,6 +520,13 @@
       "published": "2018-01-16T08:00:00+00:00",
       "source": "Tehran Times",
       "description": "Turkish coach Ersun Yanal linked with Iran’s Tractor Sazi &nbsp;&nbsp; Tehran Times"
+    },
+    {
+      "title": "Tractor Sazi beaten by Saba in Iran Professional League - Tehran Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFdrVmJnZlNIWDdUbEZwUFkwM05rR0pZVlpzdk1DWTNSMjFTOVYxR1dONVpaUmlmeTItamNYa0VrOU05U1FYN19IWmJJZnYtci1HNlVtLWVoOE1saVNxc0Z2cUw4U0RXT3dqeGFJenBfdk84RmtncHppcE1yQWZhd3EwRnlJcGxmMlA2S01EQW1RNnJ1U1dKLTdPUQ?oc=5",
+      "published": "2017-04-07T07:00:00+00:00",
+      "source": "Tehran Times",
+      "description": "Tractor Sazi beaten by Saba in Iran Professional League &nbsp;&nbsp; Tehran Times"
     },
     {
       "title": "Tractor Sazi defeats Pakhtakor in Tabriz - Mehr News Agency",
