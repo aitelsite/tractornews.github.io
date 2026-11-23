@@ -1,14 +1,77 @@
 {
-  "updated_at": "2026-11-23T01:49:25.606637+00:00",
+  "updated_at": "2026-11-23T10:46:47.017955+00:00",
   "source": "Google News RSS; broad Persian and international searches without a fixed date limit",
-  "count": 106,
+  "count": 120,
   "news": [
     {
-      "title": "پیش‌بازی تراکتور - الوصل؛ آخرین شانس نکونام برای صعود! - فوتبالی",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNOVdHTW1ieW1JRG5TcWZIUkh0MjEyTHBxbWd6RjdPanN3YnIway1hMkJWVHhDTW1zd3ZSVTZYV1lYLWlqYzQ0dk1DbEllN3QwX1VuSUloUHhOU1RZbUdhM2RSOWNOZkYzNTdCUVB3MnJJUU9RME1hNFJILW15cEVYVWFLaEpKRUNTWVdDS3E4UkpCZXlVM20xSDAxY2c5ODJpamlDN0EzOVdBdFJOMDFYMENGWktUc2JnNTdnczlBLXI0b2gzVjRhVkhXczZuR21iNnptalZJLXZQRHYyeHkxU1NjdE5EQk9nZ2Z5dUxZMEtrRW1URlZMOHhmSnVmVG5IaVNfSEFOM2RnYUpVdTl6TTJHRmlJbmxNdm1hUHVEZzFKQmdMNWpaSDBmQ3RRWEw1SzV4c0hHRUQyd3lRRTZsbTNFZThIeVphdlQ0b0pwZmRXRFhoTU1rSXVYTW9DaGFaX3F6NnBnYW5tQldJWk5IOUVKeWVUeGRheDR0SS1JQ0dXNzZTUk0yNUtyZThNNXJBVlRKdm1LTzB6R2VETW9UU05VS3VxQWJG?oc=5",
-      "published": "2026-11-22T22:52:30+00:00",
-      "source": "فوتبالی",
-      "description": "پیش‌بازی تراکتور - الوصل؛ آخرین شانس نکونام برای صعود! &nbsp;&nbsp; فوتبالی"
+      "title": "طارمی در کمین تراکتور؛ ستاره ایرانی به دنبال حفظ رکورد ۱۲ ساله مقابل تی‌تی‌ها - خبرگزاری دانشجو | SNN.IR",
+      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxNaWRLRkZPamFHY0JrRzczSnB0R1ZYdEZ3VW02U2N5U3dpS1VrczJJNGhHY0lIZUgtUVJ4R0NJNmwzUTdpZmtQNnJSdUFCRm5UQzZZZ1Q3cEhMYzZOTThsekdQb0RTcktfSVNqN1hRQlczQTNCNUkwTkt2STAybVZKY09TOHZ4UGs3MU9DMFFEOWlONVZVUi1MSUVjMFB3Q0Fub1RlRXhXNzUwb3pOTV9sWEgtOXdmd251TUJhb2V6SGlTWHpBMWlDLTBZRnFheXgzcjRITzBJb0NhN3pEMm9IRlMyZFVuQ0s4aTY3TEsxVDVsWDV1Y2R3Nm92THdjVHNxTTRkMFlEUXR0WUJTRkRybzZRNlBzdy10Y1JTb3prOVFRX1c4THVYYm53U2RpLUtkb0llbjRDY0xJcmlLRGVURVhzalIxZnpzMTJKOWFudjJTX09WLVBHRl9RYnk1TkZBOXF5RXBpbDZsbVhoWVItaGdMUWFCaUV4SDBjYXgyUTVQekFOZkRvalUwdnFValJfZ0FfX2ExNlZJUGpyTnZTcDhnbV81VnhJNkNLRWRCV2loWHJDME5xVG5oNFZIQlIyN0hwNVpFUTlTNERaSllXMHJpZjZHd3BTZzFDU3ctbktHcnJvdmFoeklaWUd4a1hSTEM0UkxzUzJQcGhzSFFBVjJoRFhoeW9aR3ZPeEZxLUNXWE5HblQyMUFpNEc0RnZzeEtHczl1MlFvTHZuWU1BREVuUmk?oc=5",
+      "published": "2026-11-23T08:05:43+00:00",
+      "source": "خبرگزاری دانشجو | SNN.IR",
+      "description": "طارمی در کمین تراکتور؛ ستاره ایرانی به دنبال حفظ رکورد ۱۲ ساله مقابل تی‌تی‌ها &nbsp;&nbsp; خبرگزاری دانشجو | SNN.IR"
+    },
+    {
+      "title": "رکورد ترسناک مهدی طارمی مقابل تراکتور؛ ۴ گل آسیایی به تیم‌های ایرانی و ۱۲ سال شکست‌ناپذیری | جدال حساس در مسقط - vananews",
+      "link": "https://news.google.com/rss/articles/CBMihAZBVV95cUxNUG9HRThqejlQZzFxWDlvQTl4TmNQQTc3VmVwdnFKNU14VFB6X0xnZi0xVmszb2RZa1ZPQUFpT0NVNHdwVG9UR19CR2VwNEZrdllMQ3k5QnBtS3d1YVp2Umc5UHBUb3BjZ0dLVVJUY0ZmZEtmWDVYTl96TVpfczdfRkVmN1ZTTFpzTFctZVpsRXhtTTVUdDlHUzRHNFhxT3BmY2RrOVFwVjhpcFUxclF5cDN3WW9oVGFPMUZjVGNScWl4Ym9XMVdWZFk3OUdKSkVuLUo0Wm5adXZhUkcwZjZNd0lVbUNWVXRQNU5RUFhjRmFMN0dSS01NalVIVDhHRVdJUjJ5cXdvSUhSMWlkOEJJSEw5cER1Ym1OdTJUcS1NWDFOdUNZZUdCRHdrRGlhZ2pBU1BXYmtZSzBLSjlCN3I4Mll3XzEwbHc0MkUtVU5IOFBLY1Y0WE9UbmkxQ0NzR1ZMZlA4aEZZWXJMbjlWOS03R1ZaU3lVVGNoOG1kYkE2ZzljTWprQXY5WHNhMlluV3hUSlB1S1hYTlZ4YlFZTkp6OGw2c3hLVVZIUS1nRVVQazlzWUNPTlVwd05KR0N5Z2pxeG9lWWFaZ2ktS1Y4NU4tN0lVeUVhb3pFVHNBQ25oSWxfcUszV2dCRHhvYzBUVTFTbS1IbkN2TncwNVoyUHJrS3pmbzVYbUUyS1RaaTU5cmpWVk1kdUQ1b19IWDZ5SWxTaDRTSkczeURyWjZJLVNqSklTd041cHpjN1lzeWpkeGF2a1R3UllJX2tpWEJ6ZnFRS0hwNHlxN05kcURUQS16bTFpYzItRHpxM0NJMVBsTmVSYllaazdhRnhLM0tOdnBFUHJILVpPQVpRZWhQbmxUeGpnZF9NYlhoNEtDb3BsM1RzWFNEQ1dYLVA1Tmx2c0M1Yzh3bGRVNEVZWEdiOVFJZTl6VXc3cVlvOFJZTnYybU1sSmlYbEJHTWtFZFRNUVU0aXZSSEx1N0pPXzRQd3BKc2NrT1B6d1ZGRzRhMS1JUzV5NWxI?oc=5",
+      "published": "2026-11-23T07:59:05+00:00",
+      "source": "vananews",
+      "description": "رکورد ترسناک مهدی طارمی مقابل تراکتور؛ ۴ گل آسیایی به تیم‌های ایرانی و ۱۲ سال شکست‌ناپذیری | جدال حساس در مسقط &nbsp;&nbsp; vananews"
+    },
+    {
+      "title": "تراکتور ایران و الوصل امارات امشب؛ آخرین فرصت شاگردان نکونام برای صعود در لیگ نخبگان آسیا | ساعت و محل برگزاری بازی - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxORHpSM3RWd0ltblU4bUdiNlFLNE9HVV81bHg0MklwUFlYSGlucmwzdWx5dkRzdVRfc0REeE1yQ2tLa3htTUFxOTlUYjd0bzFtX2RoQkN6WEVQWFlKbFlJWkVsdGFvTVEtSWRlOTJBVnRNU25IWkptU2pBMHpFS3h0ZmhJSnlyMGdNVzhWUWtDMHRwY0pGNEVHRnJMeE5UNC1YYkZEc0prVnhwTTVUY1JXZWEyNTNMVzFDY1dlVk5NdDBzU1dhdV9BVmQ3bXctSTdjbkswZ25hQVYxRFJvQUFfSFFteFh3VUdoVkMxTjFlTGpBVGgyM2VlTmNkdlkwQXBQRWV4MWR4R1JFUFFHMjhoVlAyVXAtclZSMmFncnV6c3R6aDZtdi1oRVBTeXZTME9pZTJ3Ml9oOGludnVfTUVFbXpIeXdEVDNPTXFSelFKdnBKcThJRllrcFFja0QySm0yODd4LTBockdla09RWXZPU2o4WFRITzhEeEtEUWZvN09RcUdwVW5UQlBXdVBtajVQWXMzdEpuYW1XTWwxR2NzOE94N0l0MjlvdzRUSVZ5Q0lNYzVxMDJxbHJ0TEhYTjhiRUxoc21Ta0lKVGV2bEY2N3VzWlQxMFhRcXFzRE9aRTZGTFdCYmZiMzkweFdGY1FRQlBKcnh2LTJTY1dUZHVDazFMX1VGSlVrZTR2emx0eGNGeENWU01fVGk1V3dFWmZ2QnBTMENLaE9NTFVEbjV0N0pHVkQwTnNUS01jaWJESFVmWmtnd2pJU1psZzJMMlp0MGRmSXl1REVTMHZxMVhHZGN3bEYwSHc4akpILWRpQzJieHZ6OHA0NUN6M3J6eUROWXI1T09CQW8wOWdhd3NvdnRhQW0yR3I0eUxiekJxeGR6WWl4SEZ6cFBhaW5UMDk0VVFmRnl2WGl6aTJJR0YwRkZqaU1UU3c5NEJOMnpaNGxQdE42U2JYVWRIdUZxeG5MNTJPYTZ3dGJSUjAwSVBB?oc=5",
+      "published": "2026-11-23T07:48:46+00:00",
+      "source": "vista.ir",
+      "description": "تراکتور ایران و الوصل امارات امشب؛ آخرین فرصت شاگردان نکونام برای صعود در لیگ نخبگان آسیا | ساعت و محل برگزاری بازی &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "بازی تراکتور و الوصل ساعت چند است؟ شبکه پخش و ترکیب احتمالی - نمناک",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40c0N4S2JmZFFCZzBBWldfN1Z6eDdaUHJnNjJFdHFhcDRhWGlEN2lhaFc0RFBwdE96dTFUanJab2xZYnphdEZ3Nk1NM0ZGY05DcDFxT2hZbkVVSE41aEl1bndhMA?oc=5",
+      "published": "2026-11-23T07:17:00+00:00",
+      "source": "نمناک",
+      "description": "بازی تراکتور و الوصل ساعت چند است؟ شبکه پخش و ترکیب احتمالی &nbsp;&nbsp; نمناک"
+    },
+    {
+      "title": "تراکتور - الوصل؛ جدال آسیایی با مهدی طارمی - پلیکان مدیا",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZeEpkQlY4U3RybWhSVE9LUHl4V2tQaF9wZm9qbV9DVklpSmh6WVFVdEQ4dmVXNExvTUxydGphandndGVQVW9rdnNPdWlIand6RjJZZg?oc=5",
+      "published": "2026-11-23T06:07:16+00:00",
+      "source": "پلیکان مدیا",
+      "description": "تراکتور - الوصل؛ جدال آسیایی با مهدی طارمی &nbsp;&nbsp; پلیکان مدیا"
+    },
+    {
+      "title": "شبکه‌های پخش زنده بازی تراکتور و الوصل امروز از ماهواره و اینترنت + ترکیب و آمار بازی - بتاکاپ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjJ3ekZKZjMtX3htQTJPa1BfMzA4Wjdad19IcXIwNGRYZTJDVVRpeG1JS0NtMVJNbFlWdkstNWVybVFuLWVJRE1Yc1RxMERCb3FfQXZLSmw3eG5UZkZ2dFRnaGRtaXp5dmVvZ1h1NnNjQ09KZ3ZVZjBGNU55bjFSYzFwdWtTRzYtOWdBYnQxMmI2TE5GVkVfTWFPUHpqRUMwdkVHM2lUaHVIRkpON1JlWng5eW5rNGVoU0p6TQ?oc=5",
+      "published": "2026-11-23T06:01:37+00:00",
+      "source": "بتاکاپ",
+      "description": "شبکه‌های پخش زنده بازی تراکتور و الوصل امروز از ماهواره و اینترنت + ترکیب و آمار بازی &nbsp;&nbsp; بتاکاپ"
+    },
+    {
+      "title": "ویتوریا در انتظار تراکتور/ الوصل برای ادامه بردهایش به تبریز|گل پرس24 - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMisgdBVV95cUxPbmRHY0l0VDVlN1BFNVViRTBrMm80TlNFZlNuWi1jRndObm11ajRoS240ekNxZUJ5UnpxNV9leUF6WWotaGJZMThzVldQRnA2a3RMbk5rY2lzSWZ1NlY1ZTFoSVdSLW4zd0xJU0k1U2lmYXRlVGd1QU5HTGtuTEU3MUZaVXl5VDEwaWVMeUhxaU9hdXBJYm9IVTNPRWZqaEM0X3dLZU1SSnpPcFYxbGZkdS10YklZRXpyTzNRU3FjcDB0ai1STk5RSmR5OXlnaDNRb01HOVNUZ0o5ZTNaWEdTV3BQX3hfWmpnQ1VMdDREU3JIN2UyNEUzaWhUN2lla0hoYXdRWEczOUFYd1pvVkZYN0N3Y0RUd2VSU1VIQnRyU3Z0UkVDb3Vxb21kT1Mxc01LZVdZdmd3VmI4bmFIZnFMQkpLYVhKRDI0YWRlcGNWMDE3RzFuTXRtOHg1NXZqSHR6V1RjcGhtSHhPUmQ1TXg0Y2tmR1A1M1hZVG45TlpBdnl2d2o1U3JPckpTOXpRbUw0TjUzQ0Z4ZXY3cVVEa1doQmlWemExWldfWmRTWHhHMEpFWWVBLVUtaXdVLU9CdjdyaGdjS042TkhyNGhUTzNIV19ONFJJWENyOUl0QWZPYUFva2JqaFRIaTBvNEQyWENDdlhkQ0ZVX3hDV25jZlZMcGIxZG01RzJuSU05UHlBOGw1ZFZ3aUJ0cXdXUmxfSTh5czVKTmRXY0x6cmYwa0JDTGhHVWJGem1Gd0pWVkpQR3FobndtS3Q4NzdFRkN1Z2ROMW8xcWFvZW45YVR0aDhQOUMxWUlmM1p4NllZSlliQ3c3STNGbDVOaUtIeUtZM0RJdWpORG5YVWpiaHZ6dzRTQTZFak1oNXlidnhOd0FKMWphOWJhOUZkUHUxTkc1aWpfOXJmSU5wZHc4aHdKUUJhNFRnaXZLUVNCaDZQcFFLVElZWHFkYWJvRWswMFRsdUtJWjEtWWtRTjc4YmY2Q3V1TzkyVkhlY2N3d3RrRGl5YWpsYnlXX3VINlhHYTFacU01bV9CdWFVWF9oUUpZSXRoRzlJRXJzcDZmekRNX2h0V2Z3SXdSbkdhNktybFdwNEZ0Y2hYbUlFcHQzanhUS2V6TlF1Zk9fM1RMckowcnYtV3pJQTFmbjl6bVZycW81eFhSMUFRLUFlS2NJbHJINVliSEVIVzRObVMtYU13bU9PQzZ6RGpBUkt4N3ZZaUxSSWM4bHJFdnVVbmt6emJ6clhVeFRR?oc=5",
+      "published": "2026-11-23T06:00:03+00:00",
+      "source": "خبرپو",
+      "description": "ویتوریا در انتظار تراکتور/ الوصل برای ادامه بردهایش به تبریز|گل پرس24 &nbsp;&nbsp; خبرپو"
+    },
+    {
+      "title": "طارمی دوباره مقابل تراکتور/ جدال با حریفی که ۱۲ سال به آن نباخته است - خبرگزاری دانشجو | SNN.IR",
+      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNLVJ1Unp2bkJxSGR6TGZlVHI2Z0tvZFJlc2pZYXFYdldkcmhLaW1yVmRRZG00al9Tc2UzbENWUlVkNE9mUDBMRkZjUUtzM1BpMlU3dUgydXEzdXFTOXNxM19wUkdlcW9SUXJOWHB2b3dHelZEa3huWC1jYmdRVTE4Z3BCUmtJMkViTFh6dHgwYVRsUVZsWjEySEN4aWYxQkVMN1hCbUpYd2o5Qm56OHlGSkZObEhodk1CUUFDVFpTdGN3SUJtRnFwd1d0TGJfaUdoOTJ6VWFwYjIwemZrVTlTLWJuQVRsbFU3Z2xCUldNREpwYXFuQVpNNXVaVXRSbzNMajNqV3A5SWMza0NEMkcxMk9JWVRzQTZFOGRBaktHbklRenZ1ZkJjVWZCd3g5UVBqWEFYNWFlcEt0VG1Hei1MeVlWVTMxbDZXUGdISl9QdF9GcUQ4ZFVuMjNUZmV2S0IxNmJVSmRETmk1c1RuV1ZySlJ4eUw5cmxwcDNPa0xyNkQwc2NJbVJyUlBHYU1nUEtpZm5HUDZuUnN2UnZzb09RV3YyQTBiX3h3cmlzaGlQelluQXFXUkJNM0M0RUpLNUlJY2ZDT0E3Yld6UmFvdDRFTGdiM2Q5b0dKeXF1dmlabVBvNHJVMkc1YTJEMm5walRDTFdyVGc2QUp3dw?oc=5",
+      "published": "2026-11-23T05:04:04+00:00",
+      "source": "خبرگزاری دانشجو | SNN.IR",
+      "description": "طارمی دوباره مقابل تراکتور/ جدال با حریفی که ۱۲ سال به آن نباخته است &nbsp;&nbsp; خبرگزاری دانشجو | SNN.IR"
+    },
+    {
+      "title": "ترکیب احتمالی تراکتور برای برد آسیایی! - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPTXktU3o2cHZIcEhhTEpiZzl6LWp4bExyZHBSWnRCR3hEaDNIXzE3a2tEQ1lMMjJ5bXZzYzRBX1pjRkh2MTVSWE1WaF9yVVR3U3lNUXRvYTBJQ2NRdVpYNG43LUJxNGp6Nlk3ZU9qZGJKZ0RMZGJLaDlmLVd6UWZtNzFKaUFhQXNGWTBBTVlfNHJ0dG1LRlA4akJvcE1velFFeUFFNHE0VGsyQ3Z1WmVUcHdEVjl4Z1o1R2huOEJuT0pwcDZxMDJuMjJuMmJvMEYzbWI1WnpMTUtMRnpTRldEXzdfQkludV9CUC1xNEJKVUsyMTM1WlZPWmdJdjdKUXhPcWZIZGZYeTByb3B6UVpJalFjRTdxeVNtMmh0by14anc0ODljcGRUWDFwZjdJMHRkSjRYS3ZwUS1veUJCVmszOXlZWlpiYXh1ZER2R2Fn?oc=5",
+      "published": "2026-11-23T03:33:28+00:00",
+      "source": "vista.ir",
+      "description": "ترکیب احتمالی تراکتور برای برد آسیایی! &nbsp;&nbsp; vista.ir"
+    },
+    {
+      "title": "لیگ نخبگان آسیا| تراکتور در دوئل سرنوشت‌ساز با الوصل/ طارمی |آنا - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMijAZBVV95cUxQcGtfLVlHMXpNZjk3cVBZeWtFVm9abkNtRWNJUHUteXIzQi1kX0NtaWVqZVBOSWpPd1pfRXdwWHNBLVQ4SGxrQXhCY25QMEtIcFR4SWZ5Z241YWxtbkZoWDYyWER6c3l1U3I3S19kdVJRT28zbkt2MUxjd2hyeTd0d0NmcTk3RV9BTk9iUHNnR2FZRVVOYjZoLU5oMGczSkxHcnl6VGQzcVVxeTZTZktKRmhiUzFjbnlwZGQ0TURXeXgxYkN5SlBzSXVIUmt1anJpOFEyY3A4TVJZbVlYVGNUc25CX3MzR0UwWlQ0YjBrSWRkT1JvbENqSUJaUUg1QmtVdFZ5M1BvTEhRWUpfaS1KSGJSZXpQVTVSRGp1WGlQTV9BWHZEWUg1MGkydUFDMGRVdndRbi1vS0U4VnFWdjBYNXY1MUIyZ3djNVBFS3hseEI5ek5wY2diZ21nMXVVY0s0R2VKZnNmX1NSYTBaaG84TlRLVmVGVjR2LWpjUUxuWGtVS2JFVmlOck9hb0h6a0l2dHZHeW1hY1FKY0Zmd2JMcGNZTzJoOHZvVExVY2o1aTVtLXJiX212VEZXRTV2VTM0eWxQOF8ySVlWTzFFRTE3S0llbDNDSmJkVUFjSVRDNTc1bkZkaF9tWFhyTEhZTEVtX1kxVl80UTNtSUlyTkxPZFh6NnNEb3ZhcUE0cGx4MG53NTliYVhkWDhLdlp1YjJGUDM4RGcxUFJmVl9LdUNSTXhIVngxTDV0NC1jcktPOUU2eHJPcF9nVDI3Snc4UGVTN0U5NnI2MXN0Rzd6cTFKb1dQUnQwcm4tRGFXUHJ3S3ZEdTF2cC1VRHEzamlRZDJNWGJqOVMzUTdQVXZXUDJkeW9QcXdmU0oyeW50ME9ndlpteEFxTnF0TDVSa2xxX2JiN2E1UkpZaTJZaWdnTWxRU01QRGZ1SnppTVJZT0xhSXZZcnB5cnFEVDlCNmZ5YXRreklKa1NUemNoSHRzc3k2dGt3dFRFdFYzUC1RNTVCY1d0TnMxbjcxeHNSemM?oc=5",
+      "published": "2026-11-22T23:30:06+00:00",
+      "source": "خبرپو",
+      "description": "لیگ نخبگان آسیا| تراکتور در دوئل سرنوشت‌ساز با الوصل/ طارمی |آنا &nbsp;&nbsp; خبرپو"
     },
     {
       "title": "تراکتور به دنبال نخستین پیروزی آسیایی مقابل طارمی و هم‌تیمی‌هایش - vista.ir",
@@ -32,11 +95,11 @@
       "description": "تراکتور، حریف محبوب مهدی طارمی؛ ستاره الوصل در آستانه ثبت یک رکورد ویژه! &nbsp;&nbsp; صبح فوتبالی"
     },
     {
-      "title": "هفته پنجم لیگ نخبگان؛ از دوئل استقلال با بهترین تیم مسابقات تا پیکار طارمی و تراکتور - فوتبال ۳۶۰",
-      "link": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNMXFLTkVpbUZkcndtMDd1ZkRHa3R3S1ZHdF9sNElTNEQ4azBFX0gyRjRpQzdiR1JZRmxhV0xWTWVET241TW5KTFNJZ3BOMEZ4RW5WbVRMMDVMQ0JybW5sOXplV3c4UVRLcFF2N3kyMjdRQ0NRSGZGSlpseDBUZERZRW5hellDUUVHYTRMV0JncE9NN3Y5dWFiel95SC1MTGhTY2l0cmtCcjltMTBLaFFjU0swaFMxVDRNZ1hlX3VrZTdEWld0c1JBYnBWaVlPbWMtb1hhdnpsdWxzUW5Qb1FjNkpQa05wUVVNbUMza2ZiTmx2QlM2S2NXMUdIU19HY0thdFFHSlJUYUJvbEVKeTJHMU9BWjBSa0FFYnV5X0ltTlpub2R0U0xQY1NmLTJKdFNoNmlXdDlFVDNqTVhzbU5oY2pVcDZLWVZYWFdISWFzQ3dvcWVYUjR2X1BlZVJ2THlZVDVwaWl0eW04T3JqUF9vZTdzMHBkcTVLLTd0Y0kwdTVDWGV6NjdEVXFFaThYOU9Fb2FGc3AyZ2s0SUpEZ2g3TnBubk5YY1dXWDZmUmpMbndDNHNNdTc0clNnbnYwcWdwZzEtNDU2VjZCVFpsRmdaNGswM1lZRTJDRllVb1NudWJ0WlNhQ21FNHppcE50YnBCRVI5eFFiM1ZQR0JaZThMa3BpYThrR09LY1VhZTV4eTFwalRsT09OaXBENzdYNWlRTG9FSWdFR3hQTVg5bFRYR184cTBPQWRXVllNaV9UOTRkczBlVEVLbGZndkNHVTJSa1o0ZEp5MlNjZ2h4RnJCU1NFNTNVZ0NTazljWnp0Z2RPRXBoWlV2NWlMZENJOHVBdFlvZw?oc=5",
+      "title": "هفته پنجم لیگ نخبگان؛ از دوئل استقلال با بهترین تیم مسابقات تا پیکار طارمی و تراکتور - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMi3gVBVV95cUxPVE1mYndlcERia1NMRXYtTXhQejA3RU11b1VoYm1pYXdjeHpYOVp2aE9FZU83eG5aalZYWlR5WTdRY0xfd2o5NU14UnpnUm0tOU5pNC1YbmU5RTBjWEdKMjJOQTBUaVdxMDNWVlhOd0V0em5zZEliOUZjNWl3R0htTDkwRTVnOHFxdHdybXFhd3V5bDFQQVc2YWFPZndTVFNnTmE4UVhfOTlra1p1Wm1id25lSjd3NUtFZHg2T085cDd1eXBYOGJhcWRYc2wydDkyWExtYjgyRGJiX29zSmZCSjBITTV6TkU0M3JnR0Fldmtxam14RWhWS0toZENOYngweVBWZmZsN0kwTkZtVEVSYlMzQjdjU3dqSmJFeTZiMTRXdFVaZGt1RFFzdDVLRmFfaW8xakFKcm9iNnJGOFBqcml0MWRickE4N0hsQjFBOGluUTVjT1RfX0ZGQVRwSXdzQWYxR1JyaTBKRVJzd2lsQlpOaThoUmxLdWs0bXpQQlM1OElfb21XRGxDQ2tZRXhJU3RGYnBmTU8tYUFiWDBqODFFWnJ4TnBZN0RLenZfMlZBMW9sLTdlX21ZbHp4VHQ0ODFLRW1vM0hhMzR1S295a0hrVlBzeHFFSWdPZnFYc0lTTVJSWHFfTTk3Z3FmTWhuTTVFSzZuWFdlYUVhVTNWcVZmdkI2MkE3VjZlVHRnNm1CQjNRRTdLNmJ5MTVXYTEzelZmMktnUzdQUHg4dFFPRjN3ZkFKMzc1ckFTWG1jcW5VczlCWnhmNXZGZUJWU3FDMFdybVJURV9GRHJJVkRwdkdYQzFTbHUwbExQb3lfbkFRak1xZ01lbFlLUnpSTHJzNXpIbGtfOHRCZUtVUU5YWWJVTDhKd1ZSVjAtaFp1M0pPX2hWYThRSGFfRldLVHZZUFR3STBYRUljQk9ITUdmSWhib0JybHU1VGdrRzJRLU80dkI2eTFlZFpMcnFsZw?oc=5",
       "published": "2026-11-22T19:30:43+00:00",
-      "source": "فوتبال ۳۶۰",
-      "description": "هفته پنجم لیگ نخبگان؛ از دوئل استقلال با بهترین تیم مسابقات تا پیکار طارمی و تراکتور &nbsp;&nbsp; فوتبال ۳۶۰"
+      "source": "خبرپو",
+      "description": "هفته پنجم لیگ نخبگان؛ از دوئل استقلال با بهترین تیم مسابقات تا پیکار طارمی و تراکتور &nbsp;&nbsp; خبرپو"
     },
     {
       "title": "طارمی و چالش جدید؛ آیا تراکتور را دوباره غافلگیر می‌کند؟ - فرتاک ورزشی",
@@ -53,39 +116,25 @@
       "description": "چهار گل با دو تیم؛ طارمی باز هم به تراکتور گل می‌زند؟ &nbsp;&nbsp; فوتبالی"
     },
     {
-      "title": "بی‌رحم‌ترین ورژن طارمی علیه نمایندگان ایران؛ رکورد 12 ساله طارمی برابر تراکتور - آخرین خبر",
-      "link": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPRXQzNFdwVEMzSXUyMXJ6X3IxLXJzMU56UlNOMkxkYmp6OFVQbzlkWUY3WXd4OFZSQ0xtOVZGdWcydTBTcmhpYlF2NF9RYXZvS1ltLTVLS3htS1lpTVpGNVl0VDBVd3YtX1E2SGp0a0d4Y1Q4ZHBQNC1uM3E1VU0td1FEeXNJR0IyLVF4UWZWUFlMSkNQUzhncTJKWFFBbFBaWWxxTl9YcHNYTXlJek5VcXBVWEdQY0FpZHFMbEJmQndtZXBWS0dpWmlzOTZVOXBXYnlKalJSbWpQeDhMTmFFRUktVG9ocVhjYnRsU2pVNlltV3NrYTE1ekhrdzIweFVDdHNJcG5yWmFyR3I5azRJMlhGY0FtbjZnSG9VaXBDb25XMUJMcHNJRWtMeFp6YWtScDRoejh1YlNwRm1aVmFmaEZxN0dmLU9XVVBxT1J6cHVrVVpkUnduREI4RW1mMGVwS0ZiUktKaC1PUzZ3VTAzbmJISllLZklTdVhKY0h2Sk5sTFdjckNrUkZCYVR2RWJJVUVoV2FONXRQMVdGc2hLbnFSVUN3ZjVnN1VlckY4MGEzNWV5QkE3REpsaHBhLVREdXhSQnFxb0FjbjY5NHlxQzZ4ckJTYlpkWnBFVENOQUdaa0NDcGRPVmg0Y3Bhd2JMck1yanA4MjBoU2JEWkhGYUZpdE9LMVB0eFJ4NVBLYzFqcUtBalhpd2hHUFRWZnQ2Y2NzMjFiU0VkZjI4MGc4c3JiYjE3Q3hDalFuSmNER2pBamZKemdnREtwYmRuZ3RaXzduNnJEWkpnRE5MZWc?oc=5",
-      "published": "2026-11-22T17:38:00+00:00",
-      "source": "آخرین خبر",
-      "description": "بی‌رحم‌ترین ورژن طارمی علیه نمایندگان ایران؛ رکورد 12 ساله طارمی برابر تراکتور &nbsp;&nbsp; آخرین خبر"
+      "title": "بی‌رحم‌ترین ورژن طارمی علیه نمایندگان ایران؛ رکورد 12 ساله طارمی برابر تراکتور | آخرین خبر - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxOWHRNSEV4cXdCR1IxNGRsQ1NOWW92U3M1LWJwcDVMSWU5OEZsMFBvaFlSYmJuMlRjRjhBWFF6bUx2eG5jQWVLS1ZKR1dyMUdPUTZWTTZhQTY4ZFJndUVDQmxoNVNBWFhVN0REZzl4Zlk3bGpKUWFjRTkySGxnOXhRZ042aXVWdmd2SlV6YlNXZlZYUm5SeEdlZS1KMW9aY25uYzFmYWxaeGViMWFqUksxNE5Wd0ZmUFZWdEF3LWd1WVZBbkhDMjhYOUYyWDN0Q0M3ZWl6NzVMVmxaeEZveVZyX0R3RVhwTnNwcnB4d25kZ0wzOWRSTzJwUFpoeTF1azdiMENycEFxbmdjS0hFdThickNEMU1fSkFHVnpaYjZ0d3ZyZkthZWJpTGpNc2luQVJlb3pqdlJxUjdTYllxUFdtNE9lczJhSUI5d2tJZjBkbkRET25Tc2pvSVNSQVN4NVRKQzNNbFRwVGdpQVdKd3dJWUQ3ZmpiYk0zQTlqRjVTdXlXNGUyUnJlUVZBczNqTU1LOTNlQnZIVWNNSWJLYnhuTXBvcUhKbzdzcTlDZXU5dVpTUWtMOXlvZTM5TUN5OXN2akZZV0pqM1NUbXFoZkJSZVd4LUQtVU5iakUwNTlENFZqTlZHNElEbjBzOUJuQkZKdHdNYjNRT1M4NmhFc2lKRGtsYkQ1SlNtbDR3SnpkaGlWZl9yT3FNRjZWV1Z0MGw0amIzMGhKMnFnYkphdUxrOEZUdnVuRWhUclNJQWIzdUFEYS0zSjU1Y3lMQWFyT0pkOWF2dkdoQWthbnpEVDgyeTI0V1pteUlkd3NVRThKV2U0RmpEQzdvRjFIbXpfZWZCN0phSDJxMG9rV2M2aWVQZ3RZWVdmUQ?oc=5",
+      "published": "2026-11-22T17:48:19+00:00",
+      "source": "vista.ir",
+      "description": "بی‌رحم‌ترین ورژن طارمی علیه نمایندگان ایران؛ رکورد 12 ساله طارمی برابر تراکتور | آخرین خبر &nbsp;&nbsp; vista.ir"
     },
     {
-      "title": "نکونام: هر مسابقه برای تراکتور حکم فینال را دارد - فوتبال برتر",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5ZM2oxaU1lOFhJY1lQZ1FQb2diY3ZGdnFjd3VhR1NnWkgyeURkRXJ0cFBaU0VRb1p4ZmhsNUFsSVbSAT9BVV95cUxNei12Nlh4OVIyYkxQcjg5bDdSUDhFTzMwRUluTllXNzJDTzVHb2pmT1g4dnZDY29sWjdZMEFfYkE?oc=5",
-      "published": "2026-11-22T15:03:02+00:00",
-      "source": "فوتبال برتر",
-      "description": "نکونام: هر مسابقه برای تراکتور حکم فینال را دارد &nbsp;&nbsp; فوتبال برتر"
+      "title": "نکونام: برای خوشحال کردن هوادارانمان می جنگیم|گل پرس24 - خبرپو",
+      "link": "https://news.google.com/rss/articles/CBMiowZBVV95cUxObDJEWDNINWF6S3V4YVNYMnpUQTF2ZW1iRDRxYVVJQnhDOXhNSV92UGN1OG42Y3duWjluQUZ3UGRvb0pNUXFqRlRzeU5uY3dSM2Q1ak1wejlaM2dNUmFvejczZGNNQjd1SnNxT21sM3VRVXlUamluMW1GaXM5aV8ya1lOcFEtTHlBelpucDlUc0Uza0NPMElsSjQzUk5HZXVQREVBSkVzOTYwR2w1U3BCSVF0WTFBV1ZXd1hFZEhEVVh3R29ZZkFfaXBrT21udjBaRU9GUmx2TnEyS0NsV0M4ZnA3YTVGaEpFd2hOOUs3NVI4VmlXejZMVzJUbmZnNUd1ZjFaV0V5eUx6dkg1RVFsTXRlOS1ZRzBoQ005bl9kXzljZjlZeXBybUpweE02NWtTS2xZNllSd1U3dHJQYnRZdFpMam5SNGQ1NXNubS0tbHpiVWZDU2c2YW4weUJWNzhwNWJoYTc1TmhsS3JjMmN3ZE9wRWFyc21fcEVrcDhTbG1GeEl4dTgwVmp6RjVyb1NVemUwajVfbEhrQzVsQTR2VXQ2aUYxYk1fZEVseDQxOHJyYVRoU3Ixc2lKaGR5Y0t2MVFoUG9nbVRDM01Cd3F2SXhWUFUtY2U3eVU5d0hnQ21XQ0xfU1hYMXNGdDFXS3NCd3lPTkNUSnA4UktlUmJsSldOZ3FQTGpEcmZzR1dkNV84bnVFWnBtWDJqWHJJLVlSYzQxZUF1SlJNdlN4TW1sSDVHSldMUXVHVXVtdTdodGh1bUNYRnFLVkFtRkVxU2doZW5KU05acTllN1RzaTB6VmZJd2xfYXB2VUZReDM0UXFnTDFxb2RJWVp6TXVjSDQ5SzlGdDJQNUw4eUo0c2d3MG91NG5CZHdjWGF2OWhkQkRkSDVuWWI3RXliQ2pyRUVFaFdvLUtCMl95cHJsMm9sR3BBbmh6SUV5N3ZXazlLRUxCV2ZxLVNCV0k5TjZ3ZkhHWU5pYXVMdTdtb3YtUE5lZDhoZHZOZUpIQXR6dGpaVVkwVHdJeDBaOXV0ZlpkMFMteXp4YUM4MFVzRk9rR01JUVpvYw?oc=5",
+      "published": "2026-11-22T13:45:14+00:00",
+      "source": "خبرپو",
+      "description": "نکونام: برای خوشحال کردن هوادارانمان می جنگیم|گل پرس24 &nbsp;&nbsp; خبرپو"
     },
     {
-      "title": "نکونام: با تمرکز و ذهنیت آماده به مصاف الوصل می‌رویم - 24 آنلاین",
-      "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPS1dOODVfbkpGaWhtSTdMbmY0OG1uRG1HaDVIWHVlaXBxZ054UlhWanlfQU1NY1FUZnVnSTRVRU1Fd0NGU1ZWUG9Jckx2aHFsc0JtUllYMUhORmJXUTVmMmFRb2hlX3B5VUNMaEFXeWpwbk54NzlGMDdsdDI0TmZaTmhoX2xVSE5TcHEzN09COWw4WHNmbFczSzNHRnJJTUlKOUtNSl9QazVIMFNjWUJ5MEZZQU5rMnRRT09UaF81Vzk4eXJtS2xPcFJPdHFYV2d5cUJMWGE3djloVXZmNGxVNG1SS1IxdVpienhXLWQ0T01EZ3pfNTdPQXJ6bG5xaDlxTEQtZkI4Skk1c3J4RUg3SVZNOW9XdjBfcWJ2UC1XUGhzQm5mZWp5eU1mYWJzVTcxazdrcFY2VFRqN0VkLW9qSFVuM3RqanAwaGltbTFTSmxlSmZydnhvNUdhUDg4VzB1UjdIOFJRaGQ2TzNJdGdKZ3U3NUZkQld6UmxwYnJfbU5BQnJKTFRmbHAxRDE1Wk9SNHk0Z1NrdlE3Q2hBMEd6aG9rVDFheVFFNnI0cEwzZjBvVk0wLVVMSktaY0FuVFk4N09Bc0JKNURBREkyb0loZzdwMllodHJ1dldV?oc=5",
-      "published": "2026-11-22T15:00:34+00:00",
-      "source": "24 آنلاین",
-      "description": "نکونام: با تمرکز و ذهنیت آماده به مصاف الوصل می‌رویم &nbsp;&nbsp; 24 آنلاین"
-    },
-    {
-      "title": "نکونام: بازی با الوصل برای تراکتور حکم فینال را دارد - Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyR2lkQi1fQUNZTnBXSUlheVJka0dzeTM5WHpvbkZDbzVveGczd2RJcENsRnplZFVWeXdGdmJya0RSaEhKM0FCZzZPU2diQQ?oc=5",
-      "published": "2026-11-22T13:54:40+00:00",
-      "source": "Iran International",
-      "description": "نکونام: بازی با الوصل برای تراکتور حکم فینال را دارد &nbsp;&nbsp; Iran International"
-    },
-    {
-      "title": "تراکتور برابر تیمهای اماراتی؛ کفه سبک‌تر - فوتبالی",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qS2REMU13eHFOcEhGMm9ZMlc2RjRQTVV6LWQ0cHJmdFE5bEpPYU04cTd4aGpkUjBGa0ZKU1cyRFAxdlZmRTNwczJnNHBKZlHSAU9BVV95cUxPaktkRDFNd3hxTnBIRjJvWTJXNkY0UE1Vei1kNHByZnRROWxKT2FNOHE3eGhqZFIwRmtGSlNXMkRQMXZWZkUzcHMyZzRwSmZR?oc=5",
-      "published": "2026-11-22T06:52:21+00:00",
-      "source": "فوتبالی",
-      "description": "تراکتور برابر تیمهای اماراتی؛ کفه سبک‌تر &nbsp;&nbsp; فوتبالی"
+      "title": "تراکتور برابر تیمهای اماراتی؛ کفه سبک‌تر - vista.ir",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdlk3cUMtMDNjMXlCb3daSXJRclVqRXRyYUhSX3pyUlRKek12aVE2X2lCanNSek0wdllwRWJJYV9OQVZlTzlGMG1XZjlTWmV1ajl3SGJtUW5XVFJkdGdlQ3VCQ1c5UThhcnFZQW9YMmptYXB5MnBpczlsaHNhM2lRenc1SW1wNkF2eFAyY1ZaSm1kVEtwZ1hpT0tOWU52YUY2aGxwR1M2QUVxeVdrYzA2ZVoxZ1RnbGdxc3lXZmljT2piamlpeDI0aFBKaHZRX3dha3ItaGhNdmpGR2xDYkQ5UnBuYURITWJDRW9rLUNUNklILWpROTUxbzV3cENfYThaNlh6VkFkcmJjeTB6NHJibnoyY0dfRERJYWhJcmRSOUJJdkVsckVxWTFXRVozSGhZOUNxLTVSeC1kaUp2WVJTN2p5WUZVdXIxdDBfMnFiX3VmYmszQ3RiUkoyQW1NQms?oc=5",
+      "published": "2026-11-22T06:48:09+00:00",
+      "source": "vista.ir",
+      "description": "تراکتور برابر تیمهای اماراتی؛ کفه سبک‌تر &nbsp;&nbsp; vista.ir"
     },
     {
       "title": "ترکیب احتمالی تراکتور مقابل الوصل؛ تقابل تراکتور و طارمی در لیگ نخبگان آسیا - صبح فوتبالی",
@@ -109,46 +158,11 @@
       "description": "غیبت سه بازیکن تراکتور مقابل الوصل در لیگ نخبگان آسیا &nbsp;&nbsp; فرتاک نیوز"
     },
     {
-      "title": "تراکتور به استانبول رسید|گل پرس24 - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNSms3R3JiNUlkSjM3TWVXX3RRSDZLczRSTGptVkotbXl0SU1pZW5tSnFVMERiTndTZWFWWjJjVHpSdWx2Y1gyMU8tR0JMRS1DZzlGZG0ydVNzTUNza1lUWU04OE8zTnBJV0ZyZnZLSUpLNTN1bkw0RmJhdFFWc2FzXzd3S3M5WmQ3a1VKTkN6N0dWeVJ5aEtnbjl6c1hacEZjRWo1amZSUk9aYTU0R19YOGQycmNfdlY3cHdWZnIwU0Q1MVg4V180eGd4RnByTGVqdzR2X2QybnlxVTYwRTZBdkRqTTBmMERVWDU0TnZ2NWhYQ3lYT0FXZFFMTWlnMjVscWg4cFl3SWhITDZxY0tQOXJ5NkxBVG1YeUV6aVhzVlVTcWN2NGZnU3lkYmpfYWx1bnVHODZ1N00yZzVBZ2NybmJhQzNTZ25uMzlXWGdPcVhfNHY0M3dmcEpucXJrclFEbUY0LVlNSERERHFwUXNjV0t0V0lsbjNKZnVlbVZsc2dGSHE5eWNXRTlMZGkwWW9JQnl0dElSQXczaE54bXpmYWRTcHZlem1rY1A1V0xSUHZzRnBaYWZiTEJsLXd1T1ZTZmtxOHhJRHNHS3c1Sm5tMDZQT0M1QmRuUDJpc2pKVHYxV1AyNHp4MHlBX1padDg0REtBSE1JcDdqSFJ0TlZOTGMyUW84WnB1ZDRTU2lqSThHN0ktaEloYg?oc=5",
-      "published": "2026-11-21T11:00:37+00:00",
-      "source": "خبرپو",
-      "description": "تراکتور به استانبول رسید|گل پرس24 &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "آغاز سفر تراکتور به مسقط برای تقابل با الوصل|فوتبال برتر - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQTFJacU9mRUVKLU1xZjZuaUdJcHdiYktlc2Z4MXdJbzB4MEhFZ19FRlM1dWVJU0swSGo2d013QzR4b2Z2UWtzUzFJbjRtcG1GdE5HX0IxV2dxdFpjakdRemR1aG10SUdCQUxTczMyYUdBX08tZDVWZFRwbUFKTUJUckEzeUdrNXpQZHExaFJycm96a1hrMkRucEdNc3hKNGlKcUk3WVZXVy1zYTUtd2Q2SUo2X2hGWlpzbEZaRGFBUzNNa3pBMW14Qno1MVY1eWZsVE9YYVNNSF9qWlJMX2pHZTVFS2dFNTJSaWRrRlJ1WUFrN2d6MUl0MXlydnJHT1dRQ3FxU21uYTRBN0NEMVJXS3VoME9kQUx3eUFrT0FWc1BNQ2l6YzB1NHFjRG1QQmxYc29tZXptX2Q5S3JYY2ZJRE1PeVBwQkU2cTBIMlRMQXkydG1jM0g3TlR3T2dFOGZpY1pWT3RTaU9tYTBLSjhrSzVoblpaWnFaWGhqOER0Z190aDBudGlTblZ4emZhTjB2bXRrOFJfOXpJNUNwVWJZMVZwYnpJOXpxSkJPZzIycDQ1MFE3NzY4OXpvXzh1TUhseHk3NjVqWQ?oc=5",
-      "published": "2026-11-21T10:48:59+00:00",
-      "source": "خبرپو",
-      "description": "آغاز سفر تراکتور به مسقط برای تقابل با الوصل|فوتبال برتر &nbsp;&nbsp; خبرپو"
-    },
-    {
       "title": "▶️ Watch Tractor Sazi vs Al-Wasl Live Stream | Predictions & Tips - 23 Nov - FootballPredictions.NET",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNjNKZlgxalRMcWhUTnhuVU5KY3p6cml2Tl9EbE9PSkppSGhheTVERUc4c0VjWTJHdHBHYmdxQTh3WFliQXpyLWlCZDlyQUNqZ293amFNVkJHdktMbEpZbi13akNOaVFfNDBRWGctUW5fXzJ5SHVfNXdDOVoxWlE?oc=5",
-      "published": "2026-11-21T02:46:41+00:00",
+      "published": "2026-11-21T02:46:40+00:00",
       "source": "FootballPredictions.NET",
       "description": "▶️ Watch Tractor Sazi vs Al-Wasl Live Stream | Predictions & Tips - 23 Nov &nbsp;&nbsp; FootballPredictions.NET"
-    },
-    {
-      "title": "افزایش احتمال بازکشت آلوز به تراکتور با ادامه غیبت در تمرینا|گل پرس24 - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMivgdBVV95cUxPTW9OeVpvNWNyYWIyUTlraW5BR2tmMHZNblpOMmpTcXRiTVRFdWo5el9oYVUzcFctVXVrSy1haFdtWmpmT2JHWktVYlFpSUZRcFNQdDhBMm5JaXFaNnVQU1lydHVrSjdXYUxicm5KUFBGS1YzOUJpUjBIeUhFMnY4OWJYWWJVTDNlVVBTRVMyS0NHOFgwd0VGSm9fQWV0cFRMM1NDTVl3ZkpGQzFOYW05MXNEZW92WEp4NkxvSjBYLVByT19vQnpQbkg3TWthLTRoVVJ5MkVIemdoNTVRMlJNNzVyLWlIRnFkWUJRVTkyeDVyazU4QVVYYnFBZVNIR0pVMXl2RThGcXJjd3hKN1czUGk5WVdYQW5QYlhJTC1ESWtCdUwwX2lsMzl6bGZCUzNpNWk2TmtISGhHXzhMeU1UQ0RtQUg4UGkyQkVaQ1B1YnFqVUUzY3JUaTMyZ2tSdHZBc1hPUWNrNFZZQnU5cS1rQ3lJTkN6VE1CZjNpVGNWeFVBdzlXLWpiQlotbFR3d19jRlhJMUZzNW9IelZFZmlYWWVlelNNVEFEXzBmcFMwNFI3R1o0R0hpM2hWdzFFQk5hdXV2ams0MEZnS1FFWkY5NEg5T3p4UF9fb3dPRHNZWnQ0YWZaTXBvbnZiNnYtUEp1N3lQX3YxQjRXOVNxdElzY1prVmZTZ3NOSGhVQUhwTlM2dXhGWEhPRVpwR2R4R0xIUlRfb3QyOWc0OUpNUXpFNkMxOUpEZENTRFNnYkg1eWdBU2p2REFQM2dtX3lpeVVrUHhzVHdSeTN4VUx5LWlZc1M3SFRpQlQ2NUdxYkhDOFdwdGhFa21wZzQ2Ny1sQjFtSmlqQ0xTcGNwTmlQYUFXbVRudGtISDJld2NIZFFTdmJjblYxUjk1N2Q3dzVTbVlMWXpsQWRYMnkwYzJURUh3dkRzNTVib043ZVQ5UHFqTFBjOEZualNXMndqV2NPbUdwR1MyTzRFLXkwTkNnWkh6ZmFKdGhycS1FRXdiRDRaOWsyS3RvQndiMDh0QW5tRFI3ZTZXbWtGaXJ3Q1E0RjlDOURhbE9zMC1TR0NYR1lHVG5iZW00VXB3cHlxSno2dlR0TVZuLTFjcFBud2hYMk1ucFJTY1ZKSlB5VGplMHpZcEd6T1JfNzg5SWhFR2ZsWF9rTGhOUHYtUTVpRGY1eWJHbkhMVVlfOV9FVXEwTHFla0pKUVQ2cGpKa253NHpOM3VEZDdqVHllQ3dVYUdtTlplVXdLYXJCNE45ZUY4VG9n?oc=5",
-      "published": "2026-11-20T14:30:38+00:00",
-      "source": "خبرپو",
-      "description": "افزایش احتمال بازکشت آلوز به تراکتور با ادامه غیبت در تمرینا|گل پرس24 &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "آمادگی بالای ستاره ایرانی؛ خط‌ونشان طارمی برای تراکتور|فوتبال برتر - خبرپو",
-      "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxQVWlFQWJYdE9HOWliczlMZVBFYzN4S21QZzJtSkZ4OGVVblZENlp3TDkzam9JcFEwdTRUbGNEc1U4Qm91c2VkZW1YMWJQNEYtUGhRd2F6UzVlVlIxWkxXZXRDSV8zVm1PUG1pTnFiLTZtYXA2WURNaXg1dFVJaDlfLVM2RU8zYWp2WjQzbUlqcU4xT1pDTFlmeHNrUjVrbFl4aFVKQ282NFdsMGI1LTZacEFTVmtuQkFwUGVOY1FWd2Rsd3BreS1BSjdXdkhJcHdmZFQ2Ylh0aDJVNWxJejdrZmhJajBuZWdhelZ2OE82aVFtTnpwbnNTaHB3Ui1QMmFWTm9WaGZ4c2JGeER4cHA4ZVZUakc0aHZueWwwTTVaMVJEM3dfMkphT0VlSTZ5OTNqcGpGaDl1WTBLYXZ2ZEltU0YzQi1CNjZpMUJrMHhXM2syMWROcm5NbTU4YTJvakFqTkxYWkJiZ3lPX0pOM3dNWDhNbXhIM0RuaVJHRjBPWjQ0Wmw4STA2VXlVYnd5ZWFaZG5jZUdjT1ROWXVZc0RxX0VUbU5DQUJpWEVGSVdHNUZuRERRMWVjbHkzbHk4eUYxX0xoT3VlMFRlb19BTFNKNG5IVEFpandRRF8zamxsNDFMX1hiWFpSSDIxY0RFN0hhek5pTGc2R214dHZ4OUM5UEluRkdBX3p3emJHVEE5WVQ4Rk5IclEyckV5cHo?oc=5",
-      "published": "2026-11-20T10:58:53+00:00",
-      "source": "خبرپو",
-      "description": "آمادگی بالای ستاره ایرانی؛ خط‌ونشان طارمی برای تراکتور|فوتبال برتر &nbsp;&nbsp; خبرپو"
-    },
-    {
-      "title": "گلزنی برابر حتا؛ طارمی برای تراکتور قلق‌گیری کرد! - vista.ir",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQM2Ztd1Q1SmZJMGtsUXpoQkpPSllFVmlhZDFyVWNsT1QzekhTbTNSVWdkTXE4UjVsX0c2dTdVemNMNFdaQ1VuQThrYmN2VTlWWU5UUjlDZHhkTGZtRExPX0RYVjdlaEZ1bzkwX3FVdXlKbEZUWVpZelhWc2R0MWNyeTF6U0p3dVhJMnFsNlZzRk5xV3Nrc0stMHRHSV9JTjlmSjI3eVJLU1FYSzIzOF9EME1CNU5Ha3ZEdGtxbEFRWUxuZHJmR0ZoNHVzR1lLMjVnOEpQUThZLWhPRVFiWW1VeEVucldHd19aUTJUSW5tV3JxLXVVSGwzcVowdzBwcVNaekZGeXc3dmNBYUhQTXVrT1M0dGFEblBmbXBxcVJra2NNZUNLSmtYYWJiUVBoN2hUVFJZTkFvbzZ2LTMwdUVUOW83SXZaXzNmUXF4ZzZUV09tc2tQamtxTnpMdTIzdkpXRFBub3BkUG5WNHE2dHlDTjRHNUw4YU0wRHpfRVFtMnM4QUJwcUlHVWRIME1KOGoybVE?oc=5",
-      "published": "2026-11-19T19:53:38+00:00",
-      "source": "vista.ir",
-      "description": "گلزنی برابر حتا؛ طارمی برای تراکتور قلق‌گیری کرد! &nbsp;&nbsp; vista.ir"
     },
     {
       "title": "Mes Shahr Babak vs Tractor FC live score, H2H and lineups - Sofascore",
@@ -177,6 +191,13 @@
       "published": "2026-11-03T08:00:00+00:00",
       "source": "The AFC",
       "description": "MD4: Tractor FC (IRN) 2-2 PFC Neftchi (UZB) &nbsp;&nbsp; The AFC"
+    },
+    {
+      "title": "Tractor FC - Neftchi Fergana, 02/11/2026 - AFC Champions League Elite - Match sheet - Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRW9TVU9PNHRpbjdTaDZzYWFfX3F3V2VfYmFZajRfSTNBdVFKbFloT1FBSEhXUW9DTmFCeTdQX0ZXSWdXLV9QMXU5MjVnRGtmVkl5ZmItS005YWZjWnRLdHBuaHJKTUNzZnYzbVc1WnJvU3Zfd3c?oc=5",
+      "published": "2026-11-02T08:00:00+00:00",
+      "source": "Transfermarkt",
+      "description": "Tractor FC - Neftchi Fergana, 02/11/2026 - AFC Champions League Elite - Match sheet &nbsp;&nbsp; Transfermarkt"
     },
     {
       "title": "Preview: Tractor FC (IRN) v PFC Neftchi (UZB) - The AFC",
@@ -235,6 +256,20 @@
       "description": "Preview: Al Ain FC (UAE) v Tractor FC (IRN) &nbsp;&nbsp; The AFC"
     },
     {
+      "title": "Tractor Scores, Stats and Highlights - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HeGk2akVhYWFFSnRDYVlRc3RmX0E2TGsxQW5mV2tSLTF5djVwYl9rZG5iZDMyZ21YX29JUWlucHlCZk1VVFFxcTRyeTQtTmF4U3J3RkNFdDdseFI3MjZ5YjRlaVM3QQ?oc=5",
+      "published": "2026-10-24T08:24:07+00:00",
+      "source": "ESPN",
+      "description": "Tractor Scores, Stats and Highlights &nbsp;&nbsp; ESPN"
+    },
+    {
+      "title": "Tractor Scores, Stats and Highlights - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01M2VENFFlVFlzSFQ3NFVsTnVLWm9BTGVwN1Y0azc3eWJsOTR1Szc2eGxPQlNCUm5nZmRGSUlkOG9lTVV0c3ZrVHZPRlFtMTZOREt1M0VwMG53SktNYkl2Qg?oc=5",
+      "published": "2026-10-22T21:30:40+00:00",
+      "source": "ESPN",
+      "description": "Tractor Scores, Stats and Highlights &nbsp;&nbsp; ESPN"
+    },
+    {
       "title": "Tractor FC vs Sanat Naft Abadan live score, H2H and lineups - Sofascore",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUWlwRmx2UHFMZGxsN3c1UUtDOEdqQXJ1aWViU0hIb0JtQmhSRlllUTZXRk5NMGV4V2VwR2ZuMWpTSWZhd29lS1lGeDNaVF9LSXUzUlk1dHNFWG9oeGpFNmNWeGNEWkFoVi0zclQtdURsMVNvREpRUXAtWGRBMmNHV3BVbw?oc=5",
       "published": "2026-10-22T07:00:00+00:00",
@@ -284,6 +319,27 @@
       "description": "Shabab Al-Ahli Dubai vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
+      "title": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai - News.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbFRCWWhXTGFFVHY3RlNnaWpKLWlfUGJFZjhPbWpkc1BZQmliSUd4eVhHaXVhNGgtYlotUWd2RkR2ZlVQQjNTbGxjRkVPUXRtRmJlcmE1Z0hZZVVVRHd6bVR2NzVPbG9yVmhxaV9tT3ZCV0tNckVsWjdfT2JiZWE5eDF5V3NGUXB3SW80bWJIcnZiVm9nc21mVEJyYkREd3dSVXlYcEVQVUstNmlhbEYyQ1FQM0F2ZUFQMl84bUtITGxRSEt0UExJNjFNc0hiS2dfYzNIak03NlpRc0dqYklfM3k0dWtma2pnM0xpVmJ2bjUydVFjZXZmNy02VlXSAYICQVVfeXFMTktRY2NiMkFkRWpJZzFPZzZTSGExVTkxc0kwVWVCVXZSSWdlWlF1SXAwYXRBbXJ5b1Rid0g4RVlEbldIMm5PbDFqZ0ZvXzlZclZkMG1WcU5HU1c3RGxpTjRXekJfN0UwMkk4cVh6OUJLTVhiaC1UYnNYaXYycGxvTFVjRC1fYkVwRDNGZ0ZXbUZBTVQ0ZVNTa2VTbFp6VkQ3LWszaFpjVXVBU0V5Y3hkdzJvMXFxaWtONlE2eE42QTZORDVfLWROOWFTMUtUSFlIWEtONS1JYkFWcnprUWt5bXJJVnFGQjNVSFlLWUZkU01DSFZhcy1BX1NoeVNPSVhZNk1B?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "News.com.au",
+      "description": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai &nbsp;&nbsp; News.com.au"
+    },
+    {
+      "title": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai - Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMDVScHdGZXdOOUpBMERWbU50OTZZX1ktRENWOGJ3MzRteXVqQ0JrOXhoN3JnXy1NRE1lSWVqUlM2TEVlQi1RMDlfbFVKRGw0bVFoYWZ5TDlQb0YzZWVINmszNUIwcjNIWDkxMWJDcVlkTEU0VHNfY1ZGYjdzTTBwalVQb1E1X09nMFBPeDduTjBReWpyVFZzMmNUd1d2Q04zVVlPeXMwbFNELURGZXRRbFB1MEpOUnVjQ0hkTGtSSUlTcWRnOXFpV0o0dU1PNDktWlNXRFB3OXBZX1lPUE82c0lZZmRkcjlvYWw3ZXJiSXluMUtWYzNaLV9FLWR6Wm5YT05r?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "Herald Sun",
+      "description": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai &nbsp;&nbsp; Herald Sun"
+    },
+    {
+      "title": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai - The Daily Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbXVkTGU2SmZmRFRRREdXQTQzbXN5VHRLWmdvbHpVaGtzUk9HaXN2ODJSS042aGVqZ0t5WXE2Y25rbEd3ZmFrS1U1dmpCMDRNZ3lXd0VZckt5Z1ljeUJycmV3dzBZT2U1UVdSRmNULUdYZ1IwdHZaMzBLZzMtU3ZMOE40bU41OHp5bmNxS1lrUFFIYUxuTmhHZW9YRDZUTThPV1BlMlY2Y2JpZm1VaE9rYkJNb2xpVEp0VkplQ25KY21SNlZWOGNEckctVk44Snk0cDF6ak43QlNPM0pTT1hteDZIdEljNEFNc09Jd29ibWpPa01qcTlSLXBaRU9LQklQMEw3OXJQaVJwQQ?oc=5",
+      "published": "2026-09-14T07:00:00+00:00",
+      "source": "The Daily Telegraph",
+      "description": "First half goal seals AFC Champions League Elite win for Shabab Al Ahli against Tractor FC in Dubai &nbsp;&nbsp; The Daily Telegraph"
+    },
+    {
       "title": "Preview: Shabab Al Ahli (UAE) v Tractor FC (IRN) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUkwbTJIX2h1RGdJd3NFNW4taTFFT0c3T09XN2M2ZXpIWWdLWEJQS0tpSlhMakVvMWJ2Z1lfSkw4UGgxLVNvX0dyUktzMU5MTldxUzNwWFBkeWE0UEpaYjNMY3p3NFF1SmhxLTZIRTI1UGtCNHdmOU1pOTczWmE3MUYtcWdEWmdmaUN5bFRITlY5UHB4aEs0ZDdvd3RXLVBtaFlYeGp2WDlaa3RDbDVkVFJzRHhmeGpLbkQ4?oc=5",
       "published": "2026-09-13T07:00:00+00:00",
@@ -298,11 +354,25 @@
       "description": "Tractor FC vs Neftchi Fergana live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
+      "title": "Tractor FC vs Al Wasl live score, H2H and lineups - Sofascore",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iSG5UenVOcWk0ZHlmYS1OT1o5WENrVy1OUTBHQUZXbmlFWW9WNkFEQ0s4dkItMXdVWXNtT0o2RmhzbU9GdmtacHBMNmc5MU82Vmh1MjhxYjEyWXhzRmVOU2lHOXBESVpCWUVuYzZWblhaQWUwSEE?oc=5",
+      "published": "2026-08-20T10:58:44+00:00",
+      "source": "Sofascore",
+      "description": "Tractor FC vs Al Wasl live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
       "title": "Tractor FC vs Al Shamal SC live score, H2H and lineups - Sofascore",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFSWJxQ2JxMXh1N1EwWl9BeXlDX1BRT2ZzRU5kempsc2VHZVRxY0hqWFhaMGhGQXR4dkhXZExNRVhOOU1OMUhhN0I0SkVFR3M5NVZHOVAxeE8xX3gyZkRmZXhPTUF0V01iajUzVUQwc2NsVlhNSWJWZ2N4MlZwUQ?oc=5",
       "published": "2026-08-19T07:10:13+00:00",
       "source": "Sofascore",
       "description": "Tractor FC vs Al Shamal SC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
+    },
+    {
+      "title": "Al Ain 2 - 1 Tractor FC (26/10) - Match Report - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2lPLXVrWHY4UHdSbERQY244N29PVFM0VzAzWDFPTFNzODJqeUhraG11SDRMc3lmVVNyTWJuZXZiUmQ2aTNfVzRhU0g5TW4wY3h0Z0dDTmdCUWRsd1dFXzV1SGhMLUJIT1laclM3MVRVOUlmTVJlcHoydlM2LXNJT0tJOTBnLWRfWXRIVWFmS0s1emVKM3BNeDZaUV9VeXMxYXFTYUxn?oc=5",
+      "published": "2026-08-19T03:17:28+00:00",
+      "source": "365Scores",
+      "description": "Al Ain 2 - 1 Tractor FC (26/10) - Match Report &nbsp;&nbsp; 365Scores"
     },
     {
       "title": "Tractor FC 0 - 0 Al Shamal (12/10) - Match Report - 365Scores",
@@ -410,13 +480,6 @@
       "description": "MD8: Al Gharafa SC (QAT) 0-2 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
     },
     {
-      "title": "Al Gharafa go down to Tractor FC in AFC Champions League Elite - دوري نجوم قطر",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVZ3ckxkRXdNb0ZLV2lfa2ZNQ3JVNUZqLWxmOGJrQ25oNzFTczVuUWUtWTA1Z2I2bWxLaTRqYk11TUNyVFd3cVRIc29RVFVjckdiZVNwOFVsbzUtdHY1WU14alo2M0JCcXlVS25zUVY0dVFIWVd6RHZDTlB4RlcxRi1hWlBGeHVGcDZn?oc=5",
-      "published": "2026-02-18T08:00:00+00:00",
-      "source": "دوري نجوم قطر",
-      "description": "Al Gharafa go down to Tractor FC in AFC Champions League Elite &nbsp;&nbsp; دوري نجوم قطر"
-    },
-    {
       "title": "Preview: Al Gharafa SC (QAT) v Tractor FC (IRN) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1E2X2x1Y3lBUUhYemtGODBNMnFsbHFKT29YX0dpQXJqWF9GUGl2ajJYd18zcThSMEFOSTJXRXhlUXhCblVXSXN5dkIxcFBINFRlVXJHZzVqbGdBeDA4Z3JLcjBsTlA2azBOUl9xSDdRVFBSYXo0RUtHTGt2MnpVYXlaa0pCYU9yTFJCLUpHLUExVHdWcXpSeTdhU1hTQTAtVWMwaDVNYzRSZkhFbkRfYg?oc=5",
       "published": "2026-02-16T08:00:00+00:00",
@@ -459,25 +522,11 @@
       "description": "Tractor FC vs Al Duhail live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
-      "title": "Nasaf Qarshi vs Tractor FC live score, H2H and lineups - Sofascore",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hczRQUzM0U2VGMlRpamlfVmhvaU5ndjdZLW5FZC1VNlBfdWRfeUV5a2YzLWdTMXlUelFyZzBZWEpldGJtVHJQYUhWd3BwSzAydHZuaDBDajR1d3U1Y2VhZmJ6RlQwc2Z3dFVGT1J1RDVxWG5pcGJRS3c1YXI?oc=5",
-      "published": "2025-11-24T08:00:00+00:00",
-      "source": "Sofascore",
-      "description": "Nasaf Qarshi vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
-    },
-    {
-      "title": "MD5: PFC Nasaf (UZB) 0-1 Tractor FC (IRN) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHFOOGhqMkV0bVNvVWd1VUNQYjFuN1UzSmpxSl9IQk9TbERhazFFcWEyZWNPN0x5RkxJd0owcDNxdlZqWTdMc3laX2R4Q1R3dkI5Z2Z5alp6WjNuZGVsSTFidWFRSUNVZGlaM3lpU0FSNGJUdXo4YUo0OGhocHZJWU1aMFdzNGRVYmhOY3VZVU5fV25Cdk9SYlNqOFpwXzd4aWpDM0drQlQ?oc=5",
-      "published": "2025-11-24T08:00:00+00:00",
-      "source": "The AFC",
-      "description": "MD5: PFC Nasaf (UZB) 0-1 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
-    },
-    {
-      "title": "Preview: PFC Nasaf (UZB) v Tractor FC (IRN) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG9uenFUeEtQbm04ZkNLYnJjejdGODdPQklVVklabUhZcEFDcjFyUTlpUXpOUjlmZFhMVXlQNTQtby1yMGRBTmtWYmVnTTdFdk94UTE0SXZhRnpNcWREbmpJQkN0b1lDNGZzOVBRWGh4bnZQWmluOHk0a0JDeUNEaVpzaXFnRXpobTU1VXpKVzF1eUthT2E0NlNfOHpXSUpocC1qUWRWa3EyRGc?oc=5",
-      "published": "2025-11-24T08:00:00+00:00",
-      "source": "The AFC",
-      "description": "Preview: PFC Nasaf (UZB) v Tractor FC (IRN) &nbsp;&nbsp; The AFC"
+      "title": "Al Duhail take on Tractor FC in Tabriz - Qatar Tribune",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWhaSmh5N3hhN3lFN0ZHcWJFT0FqVzFBNVZaZHhBUm55RlVzQXNXUjRPQnVEUDRoSUFiTGxVS3NEV09Mc2h3MGhGdW1FbmFKdDRUYlBOZnp4YnAxYUhfNDFudHdzeDZqUVBJM3BIRzhnMG1USVpwZjlHbEhlYlg5RERzd3NyUlZHRnY3UWo3TVNzUTJK?oc=5",
+      "published": "2025-12-22T08:00:00+00:00",
+      "source": "Qatar Tribune",
+      "description": "Al Duhail take on Tractor FC in Tabriz &nbsp;&nbsp; Qatar Tribune"
     },
     {
       "title": "Preview: Tractor FC (IRN) v Al Shorta (IRQ) - The AFC",
@@ -487,13 +536,6 @@
       "description": "Preview: Tractor FC (IRN) v Al Shorta (IRQ) &nbsp;&nbsp; The AFC"
     },
     {
-      "title": "MD3: Sharjah FC (UAE) 0-5 Tractor FC (IRN) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHpNbGJUOUwwWFFUYnJFQWg0eld4cHRJTDlZNmE3NlppaXQ1NWpRd3c0N194Y1FRTnpSaTBGV2pUbTNnQk42VDNqZkVmNWo1OGhBUzZYYnNoR2N0MzhNcU56V0lnWURoRkR5MkRid0hLWHA2bnotRmVUOGJ4Vjd4QXRWZXBsdXJzWjFYNXE4Y1d2cUhiWUhnRzIyV0pmOXlBWlY4ellLQW5aUQ?oc=5",
-      "published": "2025-10-21T07:00:00+00:00",
-      "source": "The AFC",
-      "description": "MD3: Sharjah FC (UAE) 0-5 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
-    },
-    {
       "title": "Preview: Tractor FC (IRN) v Al Wahda FC (UAE) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2VINTZpX3JpU25zMVlDY0RpWHJSaWVaWWU0WWRmUm1jaHpzSXhaUFVCSEdLcHlBRU9UU00wYXJ1ZDJhSHpEN2RfWXEzZUZMVC1xOVNNSkhKcjQ0WTI1VmctdEVpdzIyQjZZbVd6UkVYREJnUnh5UVlEVDVzajJzTkk4aUlqU0p2alUxZVB5QmM1Nm5fQmRQbHpyTzFDRVk5T29lcVBTeDh2eFJ2cEE?oc=5",
       "published": "2025-09-30T07:00:00+00:00",
@@ -501,25 +543,11 @@
       "description": "Preview: Tractor FC (IRN) v Al Wahda FC (UAE) &nbsp;&nbsp; The AFC"
     },
     {
-      "title": "MD2: Tractor FC (IRN) 0-0 Al Wahda FC (UAE) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGFZVXhCemJLdUtQTWt5NHdTS3lpd3pRaGp6V2ZMQkpBLVVxbWdfQ001UjF5ZHZMX1ktdVZwdURVNDJKSHFfdTFWVWs4Zjl2bmJzQUltejFhSTB3a1U5WHc5T2tjMks4QnJDbGdlb1lJMkU3Yy14WVllUmJyMkpHWTVnQzdCVVdMemlVQmI1ZFJpWEF1cFpIM0tEYm1oYlY3N1pWMHJmS1cyYWM?oc=5",
-      "published": "2025-09-30T07:00:00+00:00",
-      "source": "The AFC",
-      "description": "MD2: Tractor FC (IRN) 0-0 Al Wahda FC (UAE) &nbsp;&nbsp; The AFC"
-    },
-    {
       "title": "Tomislav Strkalj (Tractor FC) vs Shabab Al Ali — 13' - The AFC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazFKM3BTMFdQVmhFQ3B6aHppbGdZTkdjcnVTanpfaDlzOTR1NWNnOVlSZkdnTmxnbmRFT1JleG5wdVdCNnA4TE1xVXZHb08zbG5WQmkzaFV1V3VVeFYzSEVRQ1QwLVpiaER5R0llYUZYa3BjU3lOajVhS1VteFkzRmFzcFRNSmpGUjhVWEthTERsVVlXUmpUdWh2T0RiV3llenl1THdiNkZRWHM?oc=5",
       "published": "2025-09-22T07:00:00+00:00",
       "source": "The AFC",
       "description": "Tomislav Strkalj (Tractor FC) vs Shabab Al Ali — 13' &nbsp;&nbsp; The AFC"
-    },
-    {
-      "title": "MD1: Shabab Al Ahli (UAE) 1-1 Tractor FC (IRN) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHNLM1JyRTQtZnQybzdfTEwzbFU2XzNYYVB1MHJxcXIyYUtoS0hval9ibEExZGttQi1iWnZSSTJLZ1dsTjRRSWppZ05HcnQ0UGc3ZFJnam5XUnJBYmI4WlUzdDZLbTFwemJZeGVQd3VFdTAwbzI1RHlseEV4WDNRTU9TRVJkanpyTFNkdW5KOXBFWW9BVFdTQlhwcS1DMEtWemVyMzh3SUo1dG43UTBv?oc=5",
-      "published": "2025-09-17T07:00:00+00:00",
-      "source": "The AFC",
-      "description": "MD1: Shabab Al Ahli (UAE) 1-1 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
     },
     {
       "title": "Preview: Shabab Al Ahli (UAE) v Tractor FC (IRN) - The AFC",
@@ -543,6 +571,20 @@
       "description": "Iran's Tractor Sazi: The world’s most followed football club by Turkish fans &nbsp;&nbsp; Türkiye Today"
     },
     {
+      "title": "Qarabag football club of Azerbaijan ready for friendly match with Tractor FC - GünAz TV",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mRFVla0QyZ1RkYmtYWWN6d3NpU2dtR0NvTUp5WW5vaUxiX2E1OU5MYnhldWhNYXo5UWZlUFBXLWR2cjNVVlE?oc=5",
+      "published": "2025-06-08T07:00:00+00:00",
+      "source": "GünAz TV",
+      "description": "Qarabag football club of Azerbaijan ready for friendly match with Tractor FC &nbsp;&nbsp; GünAz TV"
+    },
+    {
+      "title": "Iran’s UN Envoy: Iran's Tractor FC is a Symbol of Football’s Unity - - WANA News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmQwTUdJeXp3V1F4Q1R2NVhCQ3g0T21IdlJGeGtoaTBUSWZCTGZheXhxejRkQTJsMVlHY2hSalI1cjlWNzBPSXBzTlJQU3dLWlNBZ2d0WXpMVm9fa3ozTmh0a0MzRHpHSDNVUl8tQnprS1N3ZEZ6WHpiUTY3LTFRMEIwb2VOcE5Jenc?oc=5",
+      "published": "2025-05-24T07:00:00+00:00",
+      "source": "WANA News Agency",
+      "description": "Iran’s UN Envoy: Iran's Tractor FC is a Symbol of Football’s Unity - &nbsp;&nbsp; WANA News Agency"
+    },
+    {
       "title": "Tractor FC - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNelUteG1DOWlGS3dNd25VOEI3M2M3VlFXdEpBUWhHbEhZVkMxTUIxb1ZjZS1SUHJ5bFBfRHFjVzVkQk5Lcks4NHJ2TXlBMGVKTUdFWTR5NFZnbTFCbHd6RVduRXdGRGZ0aGtTZWo4anJWTEoxWmRnMzhlbjlXLTJzMDdaaDFXdw?oc=5",
       "published": "2025-05-18T03:26:11+00:00",
@@ -557,6 +599,13 @@
       "description": "Tractor SC complete journey to upset Iran’s establishment and claim historic title | John Duerden &nbsp;&nbsp; The Guardian"
     },
     {
+      "title": "QF - 1st Leg: Tractor FC (IRN) v Al Taawoun FC (KSA) - Asian Football Confederation (AFC)",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG1feWVPNXl1RE03MUo1OUpNWjR2c0tuZlNwOEVLODRGMF90aG1vRzNPc1VqYlJwbFU5S3dYd3VrOUtFOWN0OEIxTkdtVDJxb3FmMnNmS21IRi1ta3hucDdVcFRaUktzRU1oOG1CM1k4My1YNXUtTmFzbFFjRWVzQ1lWZENQMFZITXdrQkY3UE45UDJoOURrZjZiTk5pc0RXRzltMzZ1UjN3NjM4RkVsS0tyOA?oc=5",
+      "published": "2025-03-05T18:38:22+00:00",
+      "source": "Asian Football Confederation (AFC)",
+      "description": "QF - 1st Leg: Tractor FC (IRN) v Al Taawoun FC (KSA) &nbsp;&nbsp; Asian Football Confederation (AFC)"
+    },
+    {
       "title": "QF - 1st Leg: Tractor FC (IRN) 0-0 Al Taawoun FC (KSA) - The AFC",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVRTT1NZYkxiRk5zaDBsVGFyeHRGdHU0b0Z2N3lXUHVoUjdKNGgtdU5qZi1mSmRHWnB3MUpCdlgtSlFMbXdQWTAwcUxCeVo0NDVmc0NuSVBVeGFhOXpNT1R0OGwzanlsTnh5a1JfQlpid2FCbjZIY2pFVVROZGtKb0hNcHM1SDU0blFzZkxHd1pub3lOanJWdF96TWpDSjJud3JoeEVONzhGdXlyMER4dTJCc3M?oc=5",
       "published": "2025-03-05T00:08:20+00:00",
@@ -564,32 +613,25 @@
       "description": "QF - 1st Leg: Tractor FC (IRN) 0-0 Al Taawoun FC (KSA) &nbsp;&nbsp; The AFC"
     },
     {
-      "title": "Preview - R16, 2nd Leg: Tractor FC (IRN) 2 v 1 Al Khaldiya SC (BHR) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3VuX3cxanZIS29faS0zMzBpMFMwSGtyOUFULWlkcXdCZUJxS3VTUFRQQ044WHV2elBBQmpvaTZMU0RyNjNfQ19vRUtoRWRIb1dVXzBMZXBMcHc0dnhLN3FRSHNQN243ZC05bTZVakxDclZsai1NZ3NBTlR6TWFnZExrcjlYNDhRNzlrR2p5N2JmU1Z1cGRDa2x0S2dCbFRBWE0zV29HSFNwalpOU28yUE1TRVFDWFZlRHFoSVFtQU85YXhP?oc=5",
-      "published": "2025-02-16T08:00:00+00:00",
-      "source": "The AFC",
-      "description": "Preview - R16, 2nd Leg: Tractor FC (IRN) 2 v 1 Al Khaldiya SC (BHR) &nbsp;&nbsp; The AFC"
-    },
-    {
-      "title": "R16, 1st Leg: Al Khaldiya SC (BHR) 1-2 Tractor FC (IRN) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkgxMms1dDd2T3dfZllIX0lLSktqVVRyUjJMZTgtN2VacTgxaDFpYV9VSWtxT0p5OTY0NHc0dUxiM1otb3A5UzZFOWFrRTRkc0ZsV3FNVEl3T0loVEtSTFRNa3M4VUpnTWNQYVBTcGl5Z3hUMVhxdU81NFhQV3Y5b0VpY0JCSVkySHkwak0zQTdWMlFOR2M0S1FCV0lkTl95OFNBWGNJQ09QRzZPWU5jRkhsZkN3MzA?oc=5",
-      "published": "2025-02-12T08:00:00+00:00",
-      "source": "The AFC",
-      "description": "R16, 1st Leg: Al Khaldiya SC (BHR) 1-2 Tractor FC (IRN) &nbsp;&nbsp; The AFC"
-    },
-    {
-      "title": "Group A - MD5: Tractor FC (IRN) 3-3 Al Wakrah SC (QAT) - The AFC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVlIS1ExX29EbDZRT01BMGJ3WkNLMW9neDFqNGZNS18yc2hEZExCSjNYVnV0V3NWbUtQYnFPQXdWbUptMFNqQXpNdEZsbG9TVUpCbk1rV2w4VHNpSUMwWjAteWdBVHU3c1JDcmhzTjhaX0ZMMUpaX0hPMXlVa2I0djFWTGQ3Q3BWMFdMNi1OTXVsU0J4UXpGNUN1MDRwb28wdWM1SmlpS1hQdUZMT3ZkWGNEN0Y?oc=5",
-      "published": "2024-11-27T18:39:56+00:00",
-      "source": "The AFC",
-      "description": "Group A - MD5: Tractor FC (IRN) 3-3 Al Wakrah SC (QAT) &nbsp;&nbsp; The AFC"
-    },
-    {
       "title": "ACL 2: Tractor SC cruise to comfortable win over Qatar’s Al Wakrah [VIDEO] - PersianFootball.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX056Ui1mT2VuUUJjOFZuUmNRM2ZWUG5MWHRJVVZQSFBlYkM4c3BxSTBRZEhvaU9nTXo5UUszT1NMMlBlOEtpVlprN1NNTnlSbmNGNmJKNk9OWU5Yck9MaFhwdGlwaFYwbm15Z1R0RWFzYXkwYnJMdDQybVAwUHYySlZ5dVVRVXRhU01tXzl1ZVdlYXByQjFFa0g2MzFSRzZNOElNVHM2T0NObzB3dlNKQ3Fhbk8yTTEzRTZF?oc=5",
       "published": "2024-09-18T07:00:00+00:00",
       "source": "PersianFootball.com",
       "description": "ACL 2: Tractor SC cruise to comfortable win over Qatar’s Al Wakrah [VIDEO] &nbsp;&nbsp; PersianFootball.com"
+    },
+    {
+      "title": "\"Tractor FC\" has the seventh biggest fanbase - GünAz TV",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yM0h4dFpMTUQ2Q0taSXA2SDdiVDhNbXJnbnVWYVF5cjI4dzl4enItVk9ralVPT3RaWUktWEhTdE1Rd3FjWWc?oc=5",
+      "published": "2024-09-05T07:00:00+00:00",
+      "source": "GünAz TV",
+      "description": "\"Tractor FC\" has the seventh biggest fanbase &nbsp;&nbsp; GünAz TV"
+    },
+    {
+      "title": "The logo of Tractor FC has been updated - GünAz TV",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SVlloZGNOaHdScUNHSS1pWVFJNmZrTTl3cUI1N3pyLW1iSGUzRG8yRnY5NF9taVBJek0tU1VtWUNqeXZTQmc?oc=5",
+      "published": "2024-07-30T07:00:00+00:00",
+      "source": "GünAz TV",
+      "description": "The logo of Tractor FC has been updated &nbsp;&nbsp; GünAz TV"
     },
     {
       "title": "Al-Gharafa vs Tractor FC live score, H2H and lineups - Sofascore",
@@ -606,6 +648,13 @@
       "description": "Pakhtakor Tashkent vs Tractor FC live score, H2H and lineups &nbsp;&nbsp; Sofascore"
     },
     {
+      "title": "Iraqi striker Muhannad Ali joins Iranian Tractor FC - 964media",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxZTR2VVJnVTM3YnlBakFJZWVNTmo4VlpEVml4OEpiSk9aZzAzaG5mSENidFhCLXlWODFLc1YzMzhQaUJO?oc=5",
+      "published": "2024-07-17T07:00:00+00:00",
+      "source": "964media",
+      "description": "Iraqi striker Muhannad Ali joins Iranian Tractor FC &nbsp;&nbsp; 964media"
+    },
+    {
       "title": "Tractor FC vs Nassaji Mazandaran FC live score, H2H and lineups - Sofascore",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTExOamRHc2VCQ1h3dkxoUDJMV181SUU3TmFWY3JjVHJ4c25jeldJbU9mZWFaQlNXSlZfcTVMb3NqM0REeG9OYmh4TkVkQm9TXzBaMFhQSnJMSUk0YUFVYW1nTWtzdm1yd3FXR2NhRzRXdW1yNXZBcGdoWnNrQTF1RWg2UzNHMEFvcFE?oc=5",
       "published": "2024-07-16T17:41:41+00:00",
@@ -620,11 +669,32 @@
       "description": "Tractor FC condemns terrorist attack on Azerbaijan’s embassy in Iran &nbsp;&nbsp; azərtac"
     },
     {
+      "title": "Playoff: Tractor FC (IRN) 1-3 Sharjah FC (UAE) - The AFC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVQ3TGZtMGRVUFJPUHQzcHRhN2NkeUhfbHZiREZVdmpKSGNlLU1rNmdMcUR0RVVhZFEyQWxSZDloQ3pJQnFFOUk0LTRLbmNhN1NHSUg0cmcyVHNiX1ZfR29kWEtOV3NmWDR5U1lvZzlvaWxYTHlaZlBBem5vZnlyQzdTOGFTSlRxMXF1b2hVV2UteXo3T3hVTFlVd2d3N0xoZUUtUGl3Ukt3REE?oc=5",
+      "published": "2023-08-23T07:00:00+00:00",
+      "source": "The AFC",
+      "description": "Playoff: Tractor FC (IRN) 1-3 Sharjah FC (UAE) &nbsp;&nbsp; The AFC"
+    },
+    {
       "title": "Tractor FC - Club profile 23/24 - Transfermarkt",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3dBd3h2SEtYYTV4VFZzcE02U3dvMER0RWZGN3B4OTlYRUxlNFliVmRIdloxdmZzX3V3cklyc3B4SlBPODE4LU1ab3NfTXlwNnY4MEw4Y3VlM21WY3FKU3dwQjhIZGFZclVzeG9jeHJMOTBra0ExODI0V1NuVVhUcWhTOWF2QQ?oc=5",
       "published": "2023-05-17T15:54:24+00:00",
       "source": "Transfermarkt",
       "description": "Tractor FC - Club profile 23/24 &nbsp;&nbsp; Transfermarkt"
+    },
+    {
+      "title": "Tractor FC condemns terror attack against Azerbaijan's embassy - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBobkpVeWNoVW1NTzZRSmdWZmRmUkpkaHRzMWI1ZG42YUlORFEzWVgyRHMzYUFtMDh2WXNTMWNXRFM2bUMxMWwzNU5xSl9sajFOSXR5Wg?oc=5",
+      "published": "2023-01-28T08:00:00+00:00",
+      "source": "AzerNews",
+      "description": "Tractor FC condemns terror attack against Azerbaijan's embassy &nbsp;&nbsp; AzerNews"
+    },
+    {
+      "title": "Entry of fans of Tabriz's Tractor FC into stadium restricted - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEpyelhndC0tMGtPVzhMRFhuSzI1OFRXTnNkbEVSejJRdU9veXIyVHdrUkpmdTBWM2dSc3E4aEdHVFd5VzJucEhUY2tDYUVZeGdsbC12Zm5KNUlqaHlDRXR1eGRIRlZ2amJkVGFEZVRnMDRmNlZDcXJQQWVVRmhIaWduNTZfWUpXN1g5N2FXeUd1Ujg0TkNPMA?oc=5",
+      "published": "2022-05-21T07:00:00+00:00",
+      "source": "Apa.az",
+      "description": "Entry of fans of Tabriz's Tractor FC into stadium restricted &nbsp;&nbsp; Apa.az"
     },
     {
       "title": "Tractor FC - Transfermarkt",
@@ -648,11 +718,25 @@
       "description": "Tractor SC voted Asia's Most Popular Club &nbsp;&nbsp; The AFC"
     },
     {
+      "title": "Tractor SC voted Asia’s Most Popular Club - Aznews TV",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNEUyWDJfTl85U21iYnFBODNHWjlnYmFoOURyX0x3M01VVEFqd3ZfNzAzanJZckxDVWtIR3J3azlqc2xPTDhnVnFzMndGdXlBTTlmQjhsdjVqa3JjVncwb1dnQ2FjTHQ2X2c0WURhOHTSAXZBVV95cUxPVVV3YmlzZ0N2ckZBeHBsMV84RjZMdEc4WDhueXNIaHVZZVNBa0daMExESllKMmRoRXBrb3hhN0w5cDM5R0Jvc0U0cnNEajhFNld4N0ZmbDAwdmFpUWxqQkZPTVdnWXJaeE5PUVEzbEJFeVEzSENR?oc=5",
+      "published": "2021-01-01T09:37:13+00:00",
+      "source": "Aznews TV",
+      "description": "Tractor SC voted Asia’s Most Popular Club &nbsp;&nbsp; Aznews TV"
+    },
+    {
       "title": "The search for Asia's Most Popular Football Club: Tractor SC, Persepolis FC through to final - The AFC",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWldsd19GNDVwblByQmVtN2xRX1FsN09ZVzlrc2hSME92bWlQd3oyRnNBQzlUbVgzdkhPTFVLMnh0d2V1eER6V0JiSGRZRlBDOWl4YnFCU2p3Y0FvbFdyYWdpd3g1UDB2S1dHcjJ0bHlUWE5JNHV6LURjZFQ1RTVEUmttRTg0VVZXcmdrS2gzZEwxR2l1MkFTTU9JRUlmcG13U21HRnZnMlE5c1FKRDRrWER2cTg3OEVsX1Brci1zdW5kY0hMTS1ZblR0MA?oc=5",
       "published": "2020-12-20T08:00:00+00:00",
       "source": "The AFC",
       "description": "The search for Asia's Most Popular Football Club: Tractor SC, Persepolis FC through to final &nbsp;&nbsp; The AFC"
+    },
+    {
+      "title": "Tractor FC - Stadium - Yadegar-e-Emam Tabriz - Transfermarkt",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxakI3V3RtSk84T1h5T2lFVGtDMVgydmVCSnVyeXlsWWlEdU1JeG1KSkhITHNRbzAzcmk1QzlPaWZGWV9CRFo0UzE0ck9YSDl6VGxDdnh5UkhPQlNJZE1wQXJ3b0tkYnRPR09VM19R?oc=5",
+      "published": "2019-09-12T09:18:54+00:00",
+      "source": "Transfermarkt",
+      "description": "Tractor FC - Stadium - Yadegar-e-Emam Tabriz &nbsp;&nbsp; Transfermarkt"
     },
     {
       "title": "Tractor FC - Club profile - transfermarkt.us",
@@ -711,11 +795,11 @@
       "description": "Ramin Rezaeian linked with Tractor Sazi &nbsp;&nbsp; PersianFootball.com"
     },
     {
-      "title": "Transfer news: Tractor Sazi drop bombshell - Tehran Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDJyUXd2OVFVdTAxVFBBOVBicm5DaXIzek9jcC1BZ2pFcU52WG9qNkZBRkw0Qm0wMnNMb21aSmRZd2NUTG9vdUowVFRqX25mOGw1NHhfRHVCSEMxVzhCU05hTFJmdWhPOFBIWDBlMnNyM29lOVJzMnc5OHhXcC0xOGVqUEd2bG9L?oc=5",
-      "published": "2018-08-02T07:00:00+00:00",
-      "source": "Tehran Times",
-      "description": "Transfer news: Tractor Sazi drop bombshell &nbsp;&nbsp; Tehran Times"
+      "title": "John Toshack joins Iran’s Tractor Sazi FC as head coach - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGhNN2hhR0lqeVFaRFRiRzZTWjFFMEdJZ1lxcEt2cEJJU04tbTJrSEV5RWdSazR4ckJnc3N1VXZpSXRLSFBaVDhTZkFNb3MxR25PODNHYjNEQUZ1ajc0T1RzMFhaOF96a3dkbk1UU3NtTGg3OUwwSEhSM0VWNzVRS2tGZlM3MV9GdmVuYldFaTJLcXVWSGc?oc=5",
+      "published": "2018-06-09T07:00:00+00:00",
+      "source": "Mehr News Agency",
+      "description": "John Toshack joins Iran’s Tractor Sazi FC as head coach &nbsp;&nbsp; Mehr News Agency"
     },
     {
       "title": "John Toshack appointed Tractor Sazi manager in three-year deal - BBC",
@@ -744,6 +828,20 @@
       "published": "2018-01-16T08:00:00+00:00",
       "source": "Tehran Times",
       "description": "Turkish coach Ersun Yanal linked with Iran’s Tractor Sazi &nbsp;&nbsp; Tehran Times"
+    },
+    {
+      "title": "Ex-Persepolis captain Mohammad Nouri joins Tractor Sazi - Tehran Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFRrNHh5TFJYblo4RXB1NWVBSUxOUUtnLXFHS2xhVXZEdnB0S1hDZUtza2RzWDF6ODJMUUoxbjRwdzNlQ1dBMDFNMEpBTlJSSmNtSnltcU8zV3lQMWhTNUtuSTBXczVvenpnN2tEUGFPYXF2QkhXdkc0SEVDTjdUSnVvbWZBSlFGMDNRRTkzeVdvVzhEOXB3TjI0VQ?oc=5",
+      "published": "2016-06-15T07:00:00+00:00",
+      "source": "Tehran Times",
+      "description": "Ex-Persepolis captain Mohammad Nouri joins Tractor Sazi &nbsp;&nbsp; Tehran Times"
+    },
+    {
+      "title": "Tractor Sazi defeats Pakhtakor in Tabriz - Mehr News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFJ1NkxjVnZneHZaZHdYeGtxR1ZKVDZHTFBadXVqZWJvUTUzSWgzS1JIOEI1ajQ0bjZWQVBHQTNHQWVGc3I2SFBEbFBva0xXMDdXblJ5TWJ4UFJmMmNvejlmN3RFUDFNa0xxRmx6OXhjemZONkxOWV85aHZNb3JFSEln?oc=5",
+      "published": "2016-04-07T07:00:00+00:00",
+      "source": "Mehr News Agency",
+      "description": "Tractor Sazi defeats Pakhtakor in Tabriz &nbsp;&nbsp; Mehr News Agency"
     }
   ]
 }
